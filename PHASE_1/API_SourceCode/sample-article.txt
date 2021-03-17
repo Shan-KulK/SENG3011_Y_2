@@ -1,0 +1,757 @@
+[
+{
+    "Title": [
+        "\r\n        Spain suspends AstraZeneca COVID-19 vaccine for the next two weeks        "
+    ],
+    "Article": [
+        "By NewsDesk\u00a0\u00a0@bactiman63",
+        "The Spanish Agency for Medicines and Health Products (AEMPS) has reported over the last week several cases of thrombotic events in some European countries, including Spain, temporarily related to the administration of the vaccine against COVID -19 from AstraZeneca.",
+        "The initial assessment of these reported cases of thrombotic events did not show a disproportion between the number of reported cases among vaccinated individuals and the number of naturally occurring cases in the general population.\u00a0The fact that the reported cases were not related to a single lot also indicated that there was no quality defect related to a specific lot.\u00a0In this context, the AEMPS reported, pending additional data and in line with what was reported by the EMA, that there were no reasons to justify the adoption of precautionary measures either on a specific batch or on the vaccine as a whole.",
+        "However, throughout this past Saturday and Sunday (March 13 and 14), and today, some notifications have been received (one of them in Spain) of a specific type of thrombotic event that needs to be studied further. thoroughly as they are very rare in the general population1.\u00a0These are cases of cerebral venous thrombosis (specifically, cerebral venous sinus thrombosis), with the particularity of being associated with a decrease in the number of platelets in the blood, which would suggest an abnormal activation of the coagulation system that would result in this obstruction of the cerebral veins.",
+        "The AEMPS and the rest of the drug agencies coordinated by the EMA, work to collect and analyze the information available on this signal as quickly as possible.\u00a0It is estimated that more than 17 million people have received the AstraZeneca vaccine in the UK and the European Union and the number of reported cases is very low in proportion to the number of people vaccinated.\u00a0In the EU, approximately six million doses of this vaccine have been administered and the AEMPS has learned of at least 11 cases of cerebral venous sinus thrombosis reported in the EU, two of them reported today.",
+        "However, this subgroup of cases should be studied to know if in addition to having a temporal relationship with the administration of the vaccine, there is a possible causal relationship.\u00a0The evaluation of this type of signs may end up finding an alternative cause to the administration of the vaccine or, if it is attributable to the vaccine, with measures that try to minimize the risk as much as possible, such as, for example, the identification of factors that predispose to the appearance of this type of thrombosis.",
+        "Given that it has not been possible to find a link with a certain batch of the vaccine, and while investigating whether these events, which the AEMPS and the rest of the European agencies have heard about this weekend, are related or not to the vaccine, the Ministry of Health considers it prudent to suspend vaccination with the AstraZeneca vaccine against COVID-19 from tomorrow and for the next two weeks.",
+        "Philippines say no reason to stop rollout of AstraZeneca COVID-19 vaccine",
+        "Norway reports blood clots in young people with the AstraZeneca vaccine"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Norway reports blood clots in young people with the AstraZeneca vaccine        "
+    ],
+    "Article": [
+        "By NewsDesk\u00a0\u00a0@bactiman63",
+        "The Norwegian Medicines Agency has received several adverse reaction reports about younger vaccinated people who have had skin hemorrhages (small-spotted skin hemorrhages and / or larger or smaller blue spots) after the AstraZeneca COVID-19 vaccination. This is serious and can be a sign of decreased platelet count.",
+        "Health officials were\u00a0informed yesterday of a report from Tynset about an unexpected death as a result of a brain hemorrhage\u00a0after vaccination with COVID-19 Vaccine AstraZeneca.",
+        "Today, March 13, we received three more reports of severe cases of blood clots or cerebral hemorrhages\u00a0in younger people who have received the AstraZeneca vaccine.\u00a0These are now receiving treatment in hospitals.",
+        "Common to these patients is that they have had a reduced number of platelets in the blood.\u00a0Blood clots and subsequent cerebral hemorrhage are a rare condition.",
+        "The Norwegian Institute of Public Health, or Folkehelseinstituttet (FHI) has put the AstraZeneca vaccine on pause.",
+        "FHI and the Norwegian Medicines Agency have initiated studies to investigate the connection between the vaccine and various forms of blood clots, such as stroke and blood clots in the lungs. These analyzes will take time.",
+        "\u00a0"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Philippines say no reason to stop rollout of AstraZeneca COVID-19 vaccine        "
+    ],
+    "Article": [
+        "By NewsDesk\u00a0\u00a0@bactiman63",
+        "European health authorities have reported 22 cases of thromboembolic events (blood clots) had been reported among the 3 million people vaccinated with COVID-19 Vaccine AstraZeneca in the European Economic Area.",
+        "In Austria, the government suspended the use of a batch of\u00a0COVID-19 Vaccine AstraZeneca (batch number ABV5300) after a person was diagnosed with multiple thrombosis (formation of blood clots within blood vessels) and died 10 days after vaccination, and another was hospitalized with pulmonary embolism (blockage in arteries in the lungs) after being vaccinated.",
+        "In Denmark, the Danish Health and Medicines Authority has, based on a precautionary principle, chosen to pause vaccination with the COVID-19 vaccine from AstraZeneca after one person died.",
+        "Authorities do specify\u00a0it cannot be concluded whether there is a link between the vaccine and the blood clots.",
+        "Last week, the Philippines Department of Health reported the receipt of 480,000 doses of AstraZeneca vaccines (not clear if it\u2019s the same batch).",
+        "Today, health officials released in a press release that there is no reason to halt the vaccination:",
+        "The DOH and FDA are aware that a few countries in the European Union have recently paused their vaccination campaign with COVID-19 vaccine AstraZeneca following reports of blood clots in people who received the vaccine. This has been decided as a precautionary measure, while they conduct a full investigation to determine causality between the vaccination and the reported adverse events following immunization.",
+        "Moreover, the European Medicine Authority (EMA) has also emphasized that there is currently no indication that vaccination has caused these conditions, which are not listed as side effects with this vaccine, saying, \u201cThe position of EMA\u2019s safety committee PRAC is that the vaccine\u2019s benefits continue to outweigh its risks and the vaccine can continue to be administered while investigation of cases of thromboembolic events is ongoing. PRAC is already reviewing all cases of thromboembolic events, and other conditions related to blood clots, reported post-vaccination with COVID-19 Vaccine AstraZeneca.\u201d",
+        "At present, the DOH and FDA emphasize that there is no indication for the Philippines to stop rollout of AstraZeneca vaccines. The DOH, NTF and FDA are closely coordinating on this matter. The public is assured they will closely monitor all deployed vaccines.",
+        "\n",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Vaccines: Florida Chapter of the American Academy of Pediatrics Supports SB 1936        "
+    ],
+    "Article": [
+        "By NewsDesk\u00a0\u00a0@bactiman63",
+        "The Florida Chapter of the American Academy of Pediatrics recognizes routine immunizations as\u00a0 a key component of pediatric healthcare and a critical pillar of public health. The Chapter supports SB 1936 filed by Senator Lauren Book which would remove non-medical exemptions for vaccines statewide and help ensure that Florida\u2019s children are protected from serious vaccine preventable diseases through the COVID-19 pandemic and beyond.\u00a0",
+        "\u201cVaccines are the most effective and safest way of preventing communicable diseases and save between two and three million\u00a0 children\u2019s lives each year,\u201d says Dr. Lisa Gwynn, President of the Florida Chapter of American Academy of Pediatrics. \u201cThe COVID-19 pandemic has shown us firsthand that we cannot let our guard down and must continue to make vaccinations a number one public\u00a0 health priority.\u201d\u00a0",
+        "During the COVID-19 pandemic, the State of Florida has seen a dramatic decline in childhood immunizations, leaving Florida\u2019s\u00a0 children and most vulnerable populations at risk for vaccine preventable diseases. The Centers of Disease Control and Prevention\u00a0 (CDC) and the American Academy of Pediatrics (AAP) recommend children continue to receive routine vaccinations during the\u00a0 COVID-19 pandemic.\u00a0",
+        "Senator Book\u2019s bill would not affect necessary medical exemptions for children who are unable to be vaccinated due to allergies or\u00a0 reactions to specific vaccines or those whose immune systems are compromised by medication or illness. In these cases, a physician\u00a0 would still be able to grant a medical exemption.",
+        "5 Vaccine preventable diseases in the US: Then and now",
+        "Parents should remember that proper steps have been taken to keep them and their family safe during their visit to their child\u2019s pediatrician. Families without vaccine insurance coverage may be eligible for vaccines at reduced or no cost through the Vaccines for\u00a0 Children (VFC) program. To learn about the Florida VFC program, visit www.floridahealth.gov and to find a pediatrician, visit\u00a0 www.fcaap.org/parents.\u00a0",
+        "\u201cImmunizations aren\u2019t just for protecting ourselves, they help protect the people around us who may not be able to receive vaccines\u00a0 like newborns, cancer patients receiving chemotherapy, patients with compromised immune systems, and the elderly,\u201d said Dr.\u00a0 Gwynn. \u201cIt\u2019s important for all of us who are healthy \u2013 especially our children \u2013 to do our part in reducing the spread of disease by\u00a0 getting vaccinated to protect our community and future generations.\u201d ",
+        "\n",
+        "Got Smallpox?",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Lyme Disease vaccine candidate: Final Phase 2 study initiated        "
+    ],
+    "Article": [
+        "Valneva SE and Pfizer Inc. announced Monday the initiation of study VLA15-221. The VLA15-221 study builds on previous positive Phase 2 studies, incorporates new dose regimens and is anticipated to be the final Phase 2 study readout before a decision to progress into pivotal Phase 3 studies.",
+        "VLA15-221 is a randomized, observer-blind, placebo-controlled Phase 2 study. It will be the first VLA15 study to include a pediatric population (aged 5-17 years). Overall, the study will enroll approximately 600 healthy participants (aged 5-65 years) who will receive VLA15 or placebo. It will compare the three-dose vaccination schedule (Month 0-2-6) with a two-dose schedule (Month 0-6).",
+        "We are excited to be part of the Lyme disease vaccine development program with Valneva. We hope this Phase 2 trial, with a simplified schedule, will provide evidence that the investigational vaccine can be used in populations that are at risk of contracting Lyme disease, potentially including children age five years and older,\u201d\u00a0said Kathrin Jansen, Senior Vice President and Head of Pfizer Vaccine Research and Development.",
+        "Juan Carlos Jaramillo, Chief Medical Officer of Valneva commented, \u201cThis trial initiation marks an important step\u00a0in the development of VLA15 toward a potential licensure. Including a pediatric population in Phase 2 means we could, if successful, add this population to the Phase 3 research program, to potentially offer a\u00a0vaccine for Lyme disease that may help prevent disease in both adults and children, if approved. We are pleased that, together with our partner Pfizer, we have decided to pursue this development while preparing for a potential Phase 3 start.\u201d",
+        "Outbreak News Interviews podcast on Spotify",
+        "VLA15 is the only active Lyme disease vaccine candidate in clinical development today, and covers six serotypes that are prevalent in North America and Europe. This investigational multivalent protein subunit vaccine targets the outer surface protein A (OspA) of Borrelia, an established mechanism of action for a Lyme disease vaccine. OspA is one of the most dominant surface proteins expressed by the bacteria when present in a tick. VLA15 has demonstrated strong immunogenicity and safety data in pre-clinical and clinical studies so far.",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Nasal COVID vaccine introduced by Finnish researchers        "
+    ],
+    "Article": [
+        "Rokote Laboratories Finland Ltd., a newly-founded academic spin-out based in Finland is working to develop and introduce to the markets a nasal spray vaccine against COVID. The vaccine is based on research carried out at the University of Helsinki and the University of Eastern Finland.",
+        "The vaccine uses gene transfer technology developed at the University of Eastern Finland by Academy Professor Seppo Yl\u00e4-Herttuala\u2019s research group, and the technology has already been successfully used in several clinical trials using gene therapy to treat cardiovascular diseases and cancer. The vaccine uses a safe adenovirus carrier that contains a cloned DNA strand, which causes nasopharyngeal cells to produce the virus protein which, in turn, produces a response to the vaccine. There is no actual SARS-CoV-2 virus in the vaccine. Preliminary results show that the vaccine has performed well in animal studies, and clinical testing in humans will start within a few months.",
+        "Nasal delivery was chosen as the new vaccine\u2019s method of administration because the virus is also naturally transmitted through the airways. Indeed, nasal administration seems to induce a wider immune response than intramuscular administration.",
+        "\u201cVaccines injected intramuscularly produce IgG antibodies in the bloodstream, but nasal vaccines also produce an IgA response that protects mucous membranes. We assume that this can also prevent those who have received the vaccine from transmitting the virus,\u201d Academy Professor Seppo Yl\u00e4-Herttuala from the University of Eastern Finland says.",
+        "According to him, the currently ongoing vaccination programmes do not eliminate the need for new vaccines, as new variants are expected to cause new waves of infection.",
+        "\u201cEven if we were able to vaccinate the entire population, at least people in medical risk groups will still need new vaccines against new variants in the upcoming years. The vaccines currently in use provide a clearly lower protection against the South African variant, which will likely be the dominant virus in the next wave. Our vaccine already takes into account the most important variants, i.e. the South African, Brazilian and the UK one. There will certainly be a demand for this type of vaccine,\u201d says Professor of Virology Kalle Saksela from the University of Helsinki.",
+        "The company will carry out the first clinical vaccine trials in Finland. In Kuopio, there is already the commercial technology needed to produce the vaccine.",
+        "The founders and board members of Rokote Laboratories Finland Ltd. are the vaccine developers Academy Professor Seppo Yl\u00e4-Herttuala from the University of Eastern Finland, Professor Kalle Saksela and Professor Kari Alitalo from the University of Helsinki, and Mr Pasi Kemppainen, MSc (Techn.). The University of Helsinki and the University of Eastern Finland are also co-founders of, and shareholders in, the company.",
+        "According to Mr Kemppainen, the company is now negotiating on funding to ensure further development of the vaccine and its moving towards clinical trials. After being granted a marketing authorisation, the vaccine could ensure Finnish and European security of supply, and vaccine self-sufficiency.",
+        "\u201cThe vaccine can be manufactured in considerable quantities here in Kuopio and, in the long term, it can also be licensed outside Europe. The current focus is, of course, on the COVID vaccine, but the same method can also be used to develop vaccines against other viruses,\u201d Mr Kemppainen says."
+    ]
+},
+{
+    "Title": [
+        "\r\n        Influenza vaccine: Flucelvax Quadrivalent approved for people two years of age and older        "
+    ],
+    "Article": [
+        "By NewsDesk\u00a0\u00a0@bactiman63",
+        "Seqirus announced this week that the U.S. Food and Drug Administration (FDA) has approved FLUCELVAX\u00ae\u00a0QUADRIVALENT (Influenza Vaccine), the company\u2019s cell-based quadrivalent influenza vaccine (QIVc), for an expanded age indication for people two years of age and older.",
+        "FLUCELVAX QUADRIVALENT was previously FDA-approved for use in persons four years of age and older. FLUCELVAX QUADRIVALENT will be available as a 0.5ml intramuscular (IM) vaccine per dose for the 2021/22 U.S. influenza season.",
+        "The expanded age indication is based on absolute efficacy data indicating that FLUCELVAX QUADRIVALENT was effective and produced a sufficient immune response against influenza in children and adolescents between \u22652 to <18 years of age over three influenza seasons in the Southern (2017) and Northern (2017/18 and 2018/19) Hemispheres, compared to a non-influenza comparator.\u00a0This represents the first absolute efficacy study of a cell-based influenza vaccine in this population.",
+        "\u201cYoung children are at a high risk of complications from influenza, which is why annual vaccination is critical,\u201d said\u00a0Gregg Sylvester, MD, Chief Medical Officer at Seqirus. \u201cThe absolute efficacy results for FLUCELVAX QUADRIVALENT that served as the basis for this approval indicate that the cell-based vaccine offers an important new option for children as young as two years of age.\u201d",
+        "Outbreak News Interviews podcast on Spotify",
+        "FLUCELVAX QUADRIVALENT utilizes a cell-based influenza vaccine manufacturing process, an alternative to traditional egg-based manufacturing. There are several factors that can impact seasonal influenza vaccine effectiveness, which may include mismatch between circulating strains and the influenza strains contained within the seasonal influenza vaccine. Egg-based manufacturing requires a growth-inducing strain to ensure the influenza virus can grow successfully in eggs, which can cause the strain to mutate and result in an influenza virus that can be different from the intended strain.\u00a0This may lead to a mismatch between the circulating strains and the inactivated influenza strains contained within the seasonal influenza vaccine. Cell-based influenza vaccines like FLUCELVAX QUADRIVALENT are designed to help avoid egg-adapted changes and may result in vaccine virus strains that are more closely matched to those selected by the World Health Organization.\u00a0Cell-based influenza vaccine technology may offer additional advantages over the standard influenza manufacturing process, including being more scalable and offering faster production in the event of an influenza pandemic.",
+        "\n",
+        "According to the Centers for Disease Control and Prevention (CDC), the best way to prevent influenza is by receiving an annual seasonal influenza vaccine.\u00a0More than 52,000 hospitalizations occurred in children aged 18 years of age and younger during the 2019/20 U.S. influenza season, and there were over 434 influenza-related deaths in this age group.\u00a0Children younger than five years of age are at high risk of developing serious flu-related complications.\u00a0The CDC recommends everyone six months of age and older without contraindications receive an influenza vaccine annually.",
+        "\u00a0",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        FDA issues Emergency Use Authorization for the Janssen COVID-19 Vaccine, the 3rd to date        "
+    ],
+    "Article": [
+        "On Saturday,\u00a0the U.S. Food and Drug Administration issued an emergency use authorization (EUA) for the third vaccine for the prevention of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The EUA allows the Janssen COVID-19 Vaccine to be distributed in the U.S for use in individuals 18 years of age and older.",
+        "\u201cThe authorization of this vaccine expands the availability of vaccines, the best medical prevention method for COVID-19, to help us in the fight against this pandemic, which has claimed over half a million lives in the United States,\u201d said Acting FDA Commissioner Janet Woodcock, M.D. \u201cThe FDA, through our open and transparent scientific review process, has now authorized three COVID-19 vaccines with the urgency called for during this pandemic, using the agency\u2019s rigorous standards for safety, effectiveness and manufacturing quality needed to support emergency use authorization.\u201d",
+        "The FDA has determined that the Janssen COVID-19 Vaccine has met the statutory criteria for issuance of an EUA. The totality of the available data provides clear evidence that the Janssen COVID-19 Vaccine may be effective in preventing COVID-19. The data also show that the vaccine\u2019s known and potential benefits outweigh its known and potential risks, supporting the company\u2019s request for the vaccine\u2019s use in people 18 years of age and older. In making this determination, the FDA can assure the public and medical community that it has conducted a thorough evaluation of the available safety, effectiveness and manufacturing quality information.",
+        "The Janssen COVID-19 Vaccine is manufactured using a specific type of virus called adenovirus type 26 (Ad26). The vaccine uses Ad26 to deliver a piece of the DNA, or genetic material, that is used to make the distinctive \u201cspike\u201d protein of the SARS-CoV-2 virus. While adenoviruses are a group of viruses that are relatively common, Ad26, which can cause cold symptoms and pink eye, has been modified for the vaccine so that it cannot replicate in the human body to cause illness. After a person receives this vaccine, the body can temporarily make the spike protein, which does not cause disease, but triggers the immune system to learn to react defensively, producing an immune response against SARS-CoV-2.",
+        "\u201cAfter a thorough analysis of the data, the FDA\u2019s scientists and physicians have determined that the vaccine meets the FDA\u2019s expectations for safety and effectiveness appropriate for the authorization of a vaccine for emergency use,\u201d said Peter Marks, M.D., Ph.D., director of the FDA\u2019s Center for Biologics Evaluation and Research. \u201cWith today\u2019s authorization, we are adding another vaccine in our medical toolbox to fight this virus. At the same time, the American people can be assured of the FDA\u2019s unwavering commitment to public health through our comprehensive and rigorous evaluation of the data submitted for vaccines to prevent COVID-19.\u201d",
+        "The Janssen COVID-19 Vaccine is administered as a single dose. The available safety data to support the EUA include an analysis of 43,783 participants enrolled in an ongoing randomized, placebo-controlled study being conducted in South Africa, certain countries in South America, Mexico, and the U.S. The participants, 21,895 of whom received the vaccine and 21,888 of whom received saline placebo, were followed for a median of eight weeks after vaccination. The most commonly reported side effects were pain at the injection site, headache, fatigue, muscle aches and nausea. Most of these side effects were mild to moderate in severity and lasted 1-2 days.",
+        "As part of the authorization, the FDA notes that it is mandatory for Janssen Biotech Inc. and vaccination providers to report the following to the Vaccine Adverse Event Reporting System (VAERS) for Janssen COVID-19 Vaccine: serious adverse events, cases of Multisystem Inflammatory Syndrome and cases of COVID-19 that result in hospitalization or death.",
+        "It is also mandatory for vaccination providers to report all vaccine administration errors to VAERS for which they become aware and for Janssen Biotech Inc. to include a summary and analysis of all identified vaccine administration errors in monthly safety reports submitted to the FDA.",
+        "The effectiveness data to support the EUA include an analysis of 39,321 participants in the ongoing randomized, placebo-controlled study being conducted in South Africa, certain countries in South America, Mexico, and the U.S. who did not have evidence of SARS-CoV-2 infection prior to receiving the vaccine. Among these participants, 19,630 received the vaccine and 19,691 received saline placebo. Overall, the vaccine was approximately 67% effective in preventing moderate to severe/critical COVID-19 occurring at least 14 days after vaccination and 66% effective in preventing moderate to severe/critical COVID-19 occurring at least 28 days after vaccination.",
+        "Additionally, the vaccine was approximately 77% effective in preventing severe/critical COVID-19 occurring at least 14 days after vaccination and 85% effective in preventing severe/critical COVID-19 occurring at least 28 days after vaccination.",
+        "There were 116 cases of COVID-19 in the vaccine group that occurred at least 14 days after vaccination, and 348 cases of COVID-19 in the placebo group during this time period. There were 66 cases of COVID-19 in the vaccine group that occurred at least 28 days after vaccination and 193 cases of COVID-19 in the placebo group during this time period. Starting 14 days after vaccination, there were 14 severe/critical cases in the vaccinated group versus 60 in the placebo group, and starting 28 days after vaccination, there were 5 severe/critical in the vaccine group versus 34 cases in the placebo group.",
+        "At this time, data are not available to determine how long the vaccine will provide protection, nor is there evidence that the vaccine prevents transmission of SARS-CoV-2 from person to person."
+    ]
+},
+{
+    "Title": [
+        "\r\n        Tick-borne encephalitis vaccine: FDA accepts for Priority Review Pfizer\u2019s application for TicoVac        "
+    ],
+    "Article": [
+        "Pfizer Inc. recently announced that the U.S. Food and Drug Administration (FDA) accepted for Priority Review the company\u2019s Biologics License Application (BLA) for TicoVac\u2122, its tick-borne encephalitis (TBE) vaccine for active immunization to prevent TBE in individuals 1 year of age and older.\u00a0If approved, TicoVac would be the first vaccine in the U.S. to help protect adults and children who are visiting or living in TBE endemic areas. In line with Priority Review designation, the FDA will target an action within six months of the application submission date,\u00a0with the anticipated Prescription Drug User Fee Act (PDUFA) action date expected for August 2021.",
+        "TBE is a viral infection of the brain and spine, which is transmitted to humans through the bite of an infected tick. To date, ticks infected with the TBE virus have been identified in more than 35 countries across Europe and Asia. The European Centre for Disease Prevention and Control (ECDC) currently recommends TBE vaccination for people who live in or are traveling to these risk areas.",
+        "\u201cFor many years, our TBE vaccine has helped protect millions of people in Europe from this potentially serious disease. We are proud that today\u2019s U.S. FDA Priority Review acceptance acknowledges the potential value that our vaccine candidate can bring,\u201d said Nanette Cocero, Ph.D., Global President, Vaccines, Pfizer Inc. \u201cIf approved in the U.S., we hope this vaccine will help protect those traveling to or residing temporarily in at-risk locations, potentially including military personnel who are serving overseas.\u201d",
+        "The BLA is based on results from more than 40 years of experience and evidence outside the U.S. In clinical trials, the safety and immunogenicity of TicoVac was assessed across two age groups (1-15 years of age and 16-65 years of age). In these studies, pooled seropositivity rates were 99-100% in 1-15 year olds and 94-99% in adults >15 years following three doses. Clinical studies demonstrated that TicoVac was well-tolerated with no unexpected adverse events or vaccine-related serious adverse events observed. Subsequent real-world studies have shown that the vaccine is 96-99% effective in people who have received at least two doses of the vaccine,\u00a0and two to three doses of the vaccine were shown to be sufficient to provide a long-lasting immune memory."
+    ]
+},
+{
+    "Title": [
+        "\r\n        2020-2021 flu season: Flu vaccination likely to be highest ever        "
+    ],
+    "Article": [
+        "More U.S. adults reported receiving or planning to receive an influenza vaccination during the 2020-2021 flu season than ever before, according to findings from a national survey.",
+        "The survey of 1,027 adults, conducted by the University of Georgia, found that 43.5% of respondents reported having already received a flu vaccination with an additional 13.5% stating they \u201cdefinitely will get one\u201d and 9.3% stating they \u201cprobably will get one.\u201d Combined, 66.3% have received or intend to receive an influenza vaccination.",
+        "By comparison, 48.4% of adults 18 and older received the vaccine during the 2019-2020 flu season, according to the Centers for Disease Control and Prevention, an increase of 3.1 percentage points from 2018-2019.",
+        "The survey was led by professor Glen Nowak, director of UGA\u2019s Center for Health and Risk Communication in the Grady College of Journalism and Mass Communication, and associate professor Michael Cacciatore, CHRC research director. The respondents came from the National Opinion Research Center\u2019s AmeriSpeak panel, which uses a prescreened, nationally representative pool of participants to obtain rapid and projectable survey findings.",
+        "\u201cOur survey shows that most Americans have or planned to act on the advice to get a flu vaccination this season,\u201d said Nowak. \u201cFurther, these results strongly suggest the U.S. will be crossing an important threshold this flu season, which is over half of U.S. adults getting a flu vaccination.\u201d",
+        "The survey results indicate much of the increase in flu vaccine uptake is being driven by people 60 years old and older. A total of 61.5% said they had already received the influenza vaccine in December, with another 12% stating they \u201cwould definitely get it\u201d and 5.8% stating they \u201cwould probably get it.\u201d",
+        "Demographic differences",
+        "The survey results also indicated many demographic differences when it came to having received a flu vaccination. Forty-eight percent of white respondents reported having a flu vaccination by December, compared to 35.1% of Hispanic respondents and 30.1% of Black respondents. Having already received a flu vaccination was also much higher for respondents with a college or higher education and those with annual household incomes of $75,000 a year or more.",
+        "Conversely, flu vaccination uptake and plans to get a flu vaccination were lowest for those 18-29 years old, those with some college or a high school education, and those with annual incomes less than $25,000. The survey found that 50.7% of those making more than $75,000 had already been vaccinated for the flu, while only 35% of those making less than $25,000 had been vaccinated.",
+        "\u201cIt was disappointing to see that significant differences by race, age, education and income persisted during a flu vaccination season that took place during a COVID pandemic,\u201d Cacciatore said. \u201cIt\u2019s important that we continue to learn more about why these disparities exist so we can take steps that will reduce them.\u201d",
+        "\u201cOverall, it is good news to find that many people, particularly those at highest risk for serious flu or COVID-19 illness, followed the advice to get the flu vaccine. Hopefully, we can sustain that level of success in the years ahead,\u201d Nowak said. \u201cIt also remains worrisome to find much lower flu vaccination rates and intentions in so many groups. We continue to have much work to do among Hispanic and Black adults and those with lower income and years of formal education when it comes to flu vaccination.\u201d",
+        "",
+        "\n"
+    ]
+},
+{
+    "Title": [
+        "\r\n        DNA vaccine candidate for Lassa fever: First subject dosed in Phase 1B Clinical Trial        "
+    ],
+    "Article": [
+        "Biotechnology company, INOVIO, announced the first participant was dosed in a Phase\u00a01B\u00a0clinical trial for INO-4500, its DNA vaccine candidate for Lassa fever, in\u00a0Ghana.",
+        "The Phase\u00a01B\u00a0clinical trial (LSV-002), ongoing at the Noguchi Memorial Institute for Medical Research in\u00a0Accra, Ghana, is the first vaccine clinical trial for Lassa fever to be conducted in\u00a0West Africa, where the infection is endemic. INO-4500 is also the first vaccine candidate for Lassa fever to enter human trials.",
+        "INOVIO is advancing INO-4500 with full funding from the Coalition for Epidemic Preparedness Innovations (CEPI), a global partnership that leverages funding from public, private, philanthropic, and civil society organizations to support research projects to develop vaccines against emerging infectious diseases. INOVIO previously received a\u00a0$56 million\u00a0grant from CEPI in 2018, under which the company is developing vaccine candidates for Lassa fever and Middle East Respiratory Syndrome (MERS). INOVIO and CEPI are committed to making a vaccine available as soon as possible for emergency use as a stockpile product post-Phase 2 testing.",
+        "Dr. J.\u00a0Joseph Kim, President and CEO of INOVIO, said, \u201cWe have observed that INO-4500 vaccination generates robust antibody and T cell immune responses in a Phase 1 clinical trial conducted in the U.S., and this continued advancement of INO-4500 into Phase\u00a01B\u00a0trial is another important step in a \u00a0fight against Lassa fever. This trial also represents a significant advancement within INOVIO\u2019s infectious disease portfolio and further validates the company\u2019s DNA medicines platform and proprietary CELLECTRA\u00ae delivery device.\u201d",
+        "Dr. Kim added, \u201cThis is the same device being used to deliver our DNA vaccine candidate, INO-4800, in the Phase 2 segment of our INNOVATE Phase 2/3 COVID-19 trial. We are grateful to CEPI for the continued support and confidence in our vaccine programs \u2013 and we look forward to advancing INO-4500 as a vaccine candidate against Lassa fever.\u201d",
+        "Dr\u00a0Melanie Saville, Director of Vaccine R&D at CEPI, said, \u201cWe are delighted to see our partner INOVIO launch the first-ever Lassa vaccine trial on the African continent, with today\u2019s announcement marking an important milestone in the fight against this deadly hemorrhagic fever. With the emerging infectious disease remaining a serious public health threat across\u00a0West Africa, including\u00a0Ghana, it is crucial that populations can participate in vaccine trials to ensure sufficient data is generated so that they can be confidently rolled out in outbreak-prone areas in the future, dependent on safety and immunogenicity testing. Together, this work plays into broader research efforts led by CEPI to minimize the threat of the disease, including the launch of the largest-ever Lassa fever epidemiology research program launched in\u00a0West Africa\u00a0late last year.\u201d",
+        "Professor\u00a0Kwadwo A. Koram, Principal Investigator of the clinical trial and head of Noguchi Medical Center, said,\u00a0\u201cI see this as a great opportunity to use the resources of the Institute for the benefit not only of the country but the sub-region at large.\u00a0We are grateful to the sponsor, INOVIO Pharmaceuticals, and hope that this will be only the beginning of a long and fruitful collaboration in the fight against infectious diseases.\u201d",
+        "\u00a0",
+        "\n",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Polio vaccination campaign starts Monday in Cuba        "
+    ],
+    "Article": [
+        "By NewsDesk\u00a0\u00a0@bactiman63",
+        "The Cuban Ministry of Health (Ministerio de Salud P\u00fablica de la Rep\u00fablica de Cuba) announced today that a polio vaccination campaign will begin Monday.",
+        "From February 22 to 27, Campaign 60 for Bivalent Oral Polio Vaccination will begin with the purpose of keeping polio eliminated in Cuba.",
+        "Some 330,000 children under three years of age will receive the first dose, and 124,000 children of nine years of age will also be reactivated with the vaccine.",
+        "Vaccination points were set up in medical offices that, together with the vaccinations of the polyclinics, will prevent crowds and bring service to the community.",
+        "Poliomyelitis is a vaccine-preventable disease caused by poliovirus that causes acute flaccid paralysis with notable motor disability in infants.",
+        "In Cuba, only two diseases preventable by vaccines were eliminated before 1962: yellow fever, in 1908, and smallpox, in 1923.",
+        "Between 1962 and until 2021, several other vaccine-preventable diseases remain eliminated.",
+        "Tetanus, Haemophilus influenzae type b meningitis, typhoid fever and meningococcal disease are no longer a health problem with rates below 0.1 per 100,000 inhabitants.",
+        "\u00a0",
+        "\n",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Chile: More than 1.7 million adults over 65 have been vaccinated against COVID-19        "
+    ],
+    "Article": [
+        "By NewsDesk\u00a0\u00a0@bactiman63",
+        "In Chile, a total of 2,818,147 people have been vaccinated against COVID-19 through Friday. 1,706,483 adults over 65 have been inoculated, according to data provided by the Department of Health Statistics and Information.",
+        "The Minister of Health, Enrique Paris, highlighted the participation of the elderly in the mass immunization campaign against SARS-CoV-2.\u00a0\u201cOlder adults are an example to follow for the country for their commitment to this historic process,\u201d said the authority.",
+        "Along these lines, the Secretary of State made a call to respect the immunization schedule.\u00a0\u201cIt is important that everyone goes to be vaccinated when appropriate, prioritization seeks to protect those who are most vulnerable and most exposed to COVID-19,\u201d emphasized the head of the portfolio.",
+        "Peru: Minister \u00d3scar Ugarte expects to have enough COVID-19 vaccines for 61% of the country\u2019s residents in July",
+        "Seasonal flu shot reduces COVID-19 symptoms in children: Study",
+        "Promising results from FIRST COVID-19 pill vaccine tested in humans",
+        "\n",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Peru: Minister \u00d3scar Ugarte expects to have enough COVID-19 vaccines for 61% of the country\u2019s residents in July        "
+    ],
+    "Article": [
+        "By NewsDesk\u00a0\u00a0@bactiman63",
+        "The Ministry of Health (Minsa) projects that by July of this year there will be enough vaccines against COVID-19 to apply to 61% of the elderly residents in the country, informed Minister \u00d3scar Ugarte during his presentation in the Special Commission Emergency Monitoring and Disaster Risk Management.",
+        "Accompanied by the president of the Council of Minister, Violeta Berm\u00fadez, Minister Ugarte explained that for this month the arrival of 117,000 Pfizer brand vaccines sent by Covax Facility is expected, while, in March, 2 million Sinopharm will arrive, 250 000 from Pfizer and 400,000 from AstraZeneca.",
+        "In April, Peru will receive 3 million from Sinopharm and 800,000 from Pfizer;\u00a0while in May it will be 3 million from Sinopharm and 2 350,000 from Pfizer;\u00a0in June, 6 million from Sinopharm, 2,350,000 from Pfizer and 1,200,000 from AstraZeneca;\u00a0and in July, 5 million from Sinopharm and 2.6 million from Pfizer.",
+        "\u201cThese planned shipments will allow us to cover 61% of the population, provided that the laboratories manage to meet their commitments,\u201d said Ugarte, who pointed out that the cold chain for these vaccines is assured, since even in areas without electricity, they have distributed 1100 solar freezers.",
+        "To date, Peru has recorded 1,269,523 confirmed cases, including 44,690 deaths.",
+        "Diphtheria: Dominican Republic reports 3 unrelated cases, No outbreak",
+        "Hantavirus: Argentina reports 5 cases in Salta since beginning of 2021",
+        "Candida auris in the Americas during the COVID-19 pandemic",
+        "Lima, Peru: 46.6% of COVID-19 cases in South Lima, Canine rabies risk",
+        "\n",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        New York: COVID-19 vaccine acceptance rises with Biden administration        "
+    ],
+    "Article": [
+        "Under the Biden Administration, New Yorkers\u2019 acceptance of the Covid-19 vaccine has increased significantly. In September, 55% of residents reported they would take the vaccine when it became available and this January, 64% reported they would take it.",
+        "Differences in vaccine acceptance persist across racial and ethnic groups. Among Whites and Asians acceptance is 70-72%; among Blacks and Latina/os it is 57-58%. On a positive note, the largest increase in rate of acceptance was seen among Black respondents, up from 33% in September to 57% in January.",
+        "These are key findings from the most recent tracking survey of public perceptions and experiences in New York City during the Covid-19 pandemic, conducted January 29-31 by the City University of New York Graduate School of Public Health and Health Policy (CUNY SPH).",
+        "\u201cObtaining a steady supply of Covid-19 vaccines and distributing them equitably and efficiently, as well as reaching and convincing\u00a0New Yorkers to take the vaccine are the pivotal challenges that lie ahead of us,\u201d said Dr. Ayman El-Mohandes, Dean of CUNY SPH. \u201cThe current strategy does not meet the needs of those with the greatest vulnerability.\u201d",
+        "Of concern, more than half (54%) of New York City respondents believe the state is not doing a good job of managing the vaccine rollout. Highest levels of disapproval were reported by Staten Island (59%) the Bronx (50%) and Manhattan (50%).",
+        "Almost half of New York City residents think that recovery will not happen until most New Yorkers are vaccinated. In contrast, only 53% of residents in the Bronx are willing to take the vaccine. This finding is of great concern, since the Bronx continues to bear the highest burden of infection and mortality associated with the pandemic.",
+        "Read more at City University of New York",
+        "\u00a0"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Nipah, Hendra Vaccine for Humans Effective 7 Days After Immunization        "
+    ],
+    "Article": [
+        "A vaccine for use against the deadly Nipah and Hendra viruses has demonstrated effectiveness in preclinical studies as early as 7 days following a single immunization, according to a new study, \u201cA Single Dose Investigational Subunit Vaccine for Human Use against Nipah virus and Hendra virus,\u201d published in the journal,\u00a0npj Vaccines, online February 8, 2021.",
+        "A collaborative group of investigators from the Uniformed Services University (USU), the University of Texas Medical Branch (UTMB) and Galveston National Laboratory (GNL), and Profectus BioSciences, Inc. (now Auro Vaccines LLC), carried out two preclinical studies of a Nipah and Hendra virus vaccine.\u00a0 Their results show that a subunit vaccine formulated for use in humans is effective as early as a week after the vaccination is administered.",
+        "Nipah virus and Hendra virus emerged in the 1990s causing serious disease outbreaks in humans and livestock in Australia, Malaysia, Singapore, Bangladesh and India. Recent Nipah outbreaks have resulted in acute respiratory distress syndrome and encephalitis, person-to-person transmission, and greater than 75 percent case fatality rates among humans. The viruses are found naturally in several species of Pteropid fruit bats (flying foxes). The National Institutes of Health (NIH) and Centers for Disease Control and Prevention have classified Nipah and Hendra as biothreat agents, and the U.S. Department of Agriculture has characterized them as agriculture threat agents.",
+        "In experiments conducted in nonhuman primates at the GNL, UTMB, Galveston, TX, where there is a high-level safety and security facility for working with live Nipah and Hendra viruses, the team of researchers, under the direction of Thomas Geisbert, Ph.D., Professor in the Department of Microbiology & Immunology, demonstrated that immunizing with a vaccine based on the Hendra virus attachment G glycoprotein afforded complete protection when administered as a single dose, against either Nipah virus or Hendra virus infection with no evidence of disease.",
+        "\u201cThese latest findings are really quite impressive and support a real potential vaccine treatment against Nipah and Hendra virus infection in people,\u201d said Christopher Broder, Ph.D., Professor and Chair of the Department of Microbiology & Immunology, USU.",
+        "The vaccine is a soluble, purified portion of the G glycoprotein of Hendra virus, known as Hendra-sG, which mediates viral infection, originally developed in Dr. Broder\u2019s laboratory at USU.\u00a0 It is now licensed to Auro Vaccines LLC by the Henry M. Jackson Foundation for the Advancement of Military Medicine, Inc. (HJF) through the USU-HJF Joint Office of Technology Transfer. The vaccine has also been in clinical evaluation studies supported by the Coalition for Epidemic Preparedness Innovations (CEPI) since March 2020.",
+        "",
+        "\u201cThis work now shows evidence that a simple, safe, and single dose of a recombinant subunit vaccine against Nipah and Hendra virus is possible. This is a critical step forward that supports use in people as an emergency vaccine or in case of an outbreak,\u201d said Antony S. Dimitrov, Ph.D., a lead scientist in the Department of Microbiology and Immunology at USU, and study corresponding author.",
+        "\u201cThere are currently no approved vaccines for prevention of infection and disease caused by Nipah virus and Hendra virus for use in people,\u201d Broder said. \u201cThis Hendra-sG vaccine has been shown to be fully effective against infection by both Nipah and Hendra in three animal species, and it is also the basis of the Hendra horse vaccine currently approved for use in Australia. A possible vaccine for use in people now seems close to reality.\u201d"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Norway: 1st AstraZeneca vaccines arrive Sunday        "
+    ],
+    "Article": [
+        "On Sunday night, Norwegian health officials report receiving \u00a0the first delivery of vaccines from Astra Zeneca,",
+        "The shipment included 21,600 vaccine doses.",
+        "Officials say first doses will be given to healthcare professionals under 65 years of age. \u201cThese vaccines will be given to people in Norway under the age of 65, as so far no such good effect of this vaccine has been documented for those over the age of 65\u201d, says Geir Bukholm.",
+        "In February, a total delivery from Astra Zeneca is expected to be just under 200,000 doses, and in March we expect about 250,000 doses.\u00a0The number for March has not yet been confirmed by AstraZeneca."
+    ]
+},
+{
+    "Title": [
+        "\r\n        Bulgaria: 28,800 doses of Oxford/ AstraZeneca vaccine arrive        "
+    ],
+    "Article": [
+        "By NewsDesk\u00a0\u00a0@infectiousdiseasenews",
+        "The first 28,800 doses of the COVID-19 vaccine from Oxford University / AstraZeneca were delivered tonight to BulBio\u2019s warehouse.\u00a0\u201cThis is the third type of vaccine and the second in terms of antibody production.\u00a0It is adenoviral.\u00a0It is very easy to store and use \u201c, explained the President of the National Vaccination Headquarters Prof. Krassimir Gigov.",
+        "When asked by a journalist about the use of the vaccine at Oxford University / AstraZeneca in people over the age of 55, the executive director of the Executive Agency for Medicines, Mag.\u00a0headlight.\u00a0Bogdan Kirilov replied that there are still discussions on this topic throughout the European Union.\u00a0\u201cWe are in constant contact with other colleagues.\u00a0There will be clearer guidelines next week, as we are analyzing the information not only from the EU, but also from the UK, where vaccination with it started earlier.\u00a0The Committee on Vaccination and Immunization of the United Kingdom also recommends the vaccine for people over 65. In the coming days, there will be instructions from us, as we want to have a picture of all countries where it is used.",
+        "The interval between the two doses of the Oxford University / AstraZeneca vaccine is between 4 and 12 weeks.\u00a0Therefore, the vaccination headquarters is considering using the resulting amount only as a first dose.\u00a0The final decision will be made next week at a staff meeting.",
+        "By the end of February, our country expects four more deliveries of the vaccine from Oxford University / AstraZeneca.\u00a017,550 doses of the Pfizer / BioNTech vaccine will be delivered to Bulgaria on Monday.\u00a0In the middle of the week we will also receive 6,000 doses of Moderna vaccine.",
+        "Europe authorizes AstraZeneca\u2019s COVID-19 vaccine, 3rd vaccine to be approved",
+        "Philippines FDA grants EUA to AstraZeneca\u2019s Covid-19 vaccine",
+        "Promising results from FIRST COVID-19 pill vaccine tested in humans",
+        "Seasonal flu shot reduces COVID-19 symptoms in children: Study",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Australia: Additional 10 million Pfizer-BioNTech vaccines secured        "
+    ],
+    "Article": [
+        "By NewsDesk\u00a0\u00a0@infectiousdiseasenews",
+        "Australia has secured an extra 10 million doses of the Pfizer/BioNTech COVID-19 vaccine, bringing the total number of doses of this vaccine to 20 million.",
+        "The additional doses will be available in the second half of 2021.",
+        "The vaccine rollout remains on track to begin in late February, with vaccines rolled out at thousands of sites across the nation throughout the year.",
+        "Prime Minister Scott Morrison said the Government is committed to providing safe and effective vaccines free to everyone in Australia.",
+        "\u201cSecuring the additional Pfizer-BioNTech vaccines is another positive step in protecting Australians from COVID-19,\u201d the Prime Minister said.",
+        "\u201cWe now have access to over 150 million vaccine doses, ensuring we remain a world leader in the fight against the virus.\u201d",
+        "Health Minister Greg Hunt said making safe and effective COVID-19 vaccines available to everyone in Australia is a key priority for the Australia Government.",
+        "\u201cI encourage people to get vaccinated when their turn comes \u2013 every vaccination helps us defeat the virus,\u201d Minister Hunt said.",
+        "\u201cAustralians understand that vaccines work. They save lives and improve lives. They protect lives. We can be confident that every COVID-19 vaccine approved in this country will be safe and effective.\u201d",
+        "\u201cAustralia is a vaccination nation\u2014we have one the highest vaccination rates in the world.\u201d",
+        "\u00a0",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Seasonal flu shot reduces COVID-19 symptoms in children: Study        "
+    ],
+    "Article": [
+        "Researchers from the University of Missouri School of Medicine have discovered that children who receive a seasonal flu shot are less likely to suffer symptoms from a COVID-19 infection. The finding comes from a review of more than 900 children diagnosed with COVID-19 in 2020.",
+        "\u201cIt is known that the growth of one virus can be inhibited by a previous viral infection,\u201d said Anjali Patwardhan, MD, professor of pediatric rheumatology and child health. \u201cThis phenomenon is called virus interference, and it can occur even when the first virus invader is an inactivated virus, such as the case with the flu vaccine.\u201d",
+        "Patwardhan reviewed records from 905 pediatric patients diagnosed with COVID-19 between February and August 2020 to determine each patient\u2019s influenza vaccination history. She discovered the COVID-19 positive children who received the influenza vaccine in the current flu season had lower odds of experiencing symptoms, respiratory problems or severe disease. She also found that children with COVID-19 who received the pneumococcal vaccine also had lower odds of experiencing symptomatic disease.",
+        "\u201cResearch on the pediatric population is critical because children play a significant role in influencing viral transmission,\u201d Patwardhan said. \u201cUnderstanding the relationship and co-existence of other viruses alongside COVID-19 and knowing the vaccination status of the pediatric patient may help in deploying the right strategies to get the best outcomes.\u201d",
+        "Patwardhan said it will also be important to explore the connection between vaccinations and COVID-19 symptoms in a larger geographical-multiracial study.",
+        "\u201cBased on these findings, we hypothesize that the higher incidence of COVID-19 in minority populations may also reflect their low vaccination rate apart from other health inequalities,\u201d Patwardhan said.",
+        "\n"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Bacteriophage therapy: NIH awards $2.5 million in grants to support research        "
+    ],
+    "Article": [
+        "The National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health, has awarded $2.5 million in grants to 12 institutes around the world to support research on bacteriophage therapy. These awards represent NIAID\u2019s first series of grants focused exclusively on research on this therapy, an emerging field that could yield new ways to fight antimicrobial-resistant bacteria. A 2019 report from CDC found that antibiotic-resistant pathogens cause more than 2.8 million infections in the U.S. each year and more than 35,000 people die.",
+        "Bacteriophages (or \u201cphages\u201d) are viruses that can kill or incapacitate specific kinds of bacteria while leaving other bacteria and human cells unharmed. By gathering naturally-occurring phages, or by modifying or engineering phages to display certain properties, researchers hope to create novel anti-bacterial therapeutics. Because phages eliminate bacteria by infecting them, rather by generating compounds like antibiotics which kill bacteria, phages can be used to treat antibiotic-resistant infections. In addition, some evidence suggests that combination therapy containing both phages and antibiotics could prevent bacteria from becoming drug resistant.",
+        "Although scientists have been aware of phages and their ability to kill bacteria since 1917, the first U.S.-based clinical trials of phage therapy have only recently begun. Individual U.S. patients have received phage therapy, but only under emergency investigational new drug protocols. In eastern Europe, where the use of phage therapy is more prevalent, its efficacy has not been rigorously demonstrated.",
+        "\u201cIn recent decades, multidrug-resistant bacteria, particularly those that cause potentially deadly diseases like tuberculosis, have become a serious and growing global public health concern,\u201d said NIAID Director Anthony S. Fauci, M.D. \u201cWith these awards, NIAID is supporting research needed to determine if phage therapy might be used in combination with antibiotics\u2013or replace them altogether\u2013in treating evolving antibiotic-resistant bacterial diseases.\u201d",
+        "The new NIAID grants support research to address key knowledge gaps in the development of phages as preventative and therapeutic tools for bacterial infections. Basic research supported by these grants will include a study characterizing different types of phages; a project studying how phages combat sticky, sheet-like colonies of microorganisms called biofilms, which can be difficult to treat with antibiotics; and research to determine how to identify new, potentially useful phages. Some translational research supported by these grants will study how to exploit the interaction between phages and bacteria to create lasting, re-usable therapeutics; and engineering viruses to combat Staphylococcus bacteria.",
+        "",
+        "\n",
+        "The recipients of the awards are as follows:",
+        "University of Pittsburgh at Pittsburgh\nPrincipal Investigator: Graham F. Hatfull, Ph.D.\nPhage resistance in\u00a0Mycobacterium tuberculosis",
+        "PhagePro, Inc. (Boston)\nPrincipal Investigators: Minmin Yen, Ph.D., MPH, and\nAndrew Camilli, Ph.D.\nTargeting antibiotic resistance genes in\u00a0Vibrio cholerae\u00a0using a phage-encoded CRISPR-Cas system to improve efficacy of phage prophylaxis",
+        "University of Connecticut (Storrs, Connecticut)\nPrincipal Investigator: Simon White, Ph.D.\nCharacterization of long-circulating phages isolated from\u00a0in vivo\u00a0mouse studies",
+        "Georgia Institute of Technology (Atlanta)\nPrincipal Investigator: Samuel Paul Brown, Ph.D.\nBuilding re-usable phage and antibiotic treatments via exploitation of bacteria-phage co-evolutionary dynamics",
+        "University of Wisconsin-Madison\nPrincipal Investigator: Srivatsan Raman, Ph.D.\nUnderstanding molecular rules governing bacteriophage specificity and virulence by high-throughput mutational and metagenomic scanning",
+        "Texas A&M Agrilife Research (College Station, Texas)\nPrincipal Investigators: Lanying Zeng, Ph.D., Junjie Zhang, Ph.D.\nReducing virulence through the suppression of retractile pili",
+        "Queens College, City University of New York\nPrincipal Investigator: John Joseph Dennehy, Ph.D.\nNovel strategies for treating biofilm-forming pathogens with phage therapy",
+        "Harvard School of Public Health (Boston)\nPrincipal Investigator: Eric J. Rubin, M.D., Ph.D.\nUsing genetics and multi-scale imaging to understand the mechanisms underlying mycobacteriophage host choice",
+        "Guild Associates, Inc. (Dublin, Ohio)\nPrincipal Investigator: Ian Fleming, Ph.D.\nOptimized methods for isolation and characterization of bacteriophage by VT-FACS",
+        "Geneva Foundation (Tacoma, Washington)\nPrincipal Investigator: Yoann Stephane Le Breton, Ph.D.\nA platform for genome mining of multidrug-resistant pathogens to develop therapeutic phages using synthetic biology",
+        "University of Alabama at Birmingham\nPrincipal Investigator: Terje Dokland, Ph.D., and Asma Hatoum, Ph.D.\nEngineering picoviruses with defined host range to combat drug-resistant\u00a0staphylococci",
+        "Albert Einstein College of Medicine (New York)\nPrincipal Investigator: William Robert Jacobs Jr., Ph.D.\nTB phage therapy: Optimizing delivery methods of mycobacteriophages to target intracellular\u00a0Mycobacterium tuberculosis",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Hydroxychloroquine had no effect in treating people with COVID-19: Study        "
+    ],
+    "Article": [
+        "A year ago, infectious disease doctor Christine Johnston was leading a study on the use of hydroxychloroquine for the treatment of people with COVID-19.",
+        "The trial launched at the end of March, when the disease was putting the world on pause and killing thousands.",
+        "Hydroxychloroquine showed promise in studies done in test tubes rather than in animals or humans. If the drug worked, it would be cheap, safe, and available. As the trial got going in April, however, hydroxychloroquine was being touted as a treatment without any rigorous evidence.",
+        "\u201cThe world was at a desperate moment and people were jumping to conclusions,\u201d Johnston said.",
+        "A year after the treatment trial launched in five cities, Johnston can say hydroxychloroquine had no effect in treating people with COVID-19. The results of the remote randomized, placebo-controlled trial were published Feb. 27 in\u00a0E Clinical Medicine.",
+        "The trial was seeking 630 participants, but trial enrollment was stopped in August at 231 participants due to very few people having progressive COVID-19. The primary clinical outcome of the study was progression of COVID-19 to pneumonia or hospitalization, and time to symptom resolution was a secondary outcome.",
+        "\u201cThere was no faster resolution of symptoms among people receiving hydroxychloroquine or hydroxychloroquine/azithromycin compared to placebo.\u201d Johnston said.",
+        "Another hydroxychloroquine study: There is no compelling data to suggest that hydroxychloroquine is effective",
+        "The data are consistent with multiple other randomized trials that have shown that hydroxychloroquine has no benefit in the outpatient or inpatient setting for treatment of COVID-19.",
+        "Between April and August, Johnston and colleagues were thrust in the world spotlight. They were interviewed by every major media outlet, including a Turkish talk show. Their message was always that they were conducting a rigorous clinical trial for definitive answers. Smaller trials and observational studies were having mixed results. Some showed it work, others showed it had no effect.",
+        "\n",
+        "Johnston said what the last year taught everyone is how quickly science has been able to provide definitive answers.",
+        "\u201cScience has led the way to get these studies up and running. And science has provided the evidence-base to treat these infections well,\u201d she said.",
+        "One of the upsides of the trial was it pushed remote research. Researchers were able to enroll participants without seeing them in person. The participants could obtain their own vital signs and nasal swabs to provide study information.",
+        "\u201cThis was a really effective way to include many people, and we didn\u2019t have to expose any staff,\u201d she said."
+    ]
+},
+{
+    "Title": [
+        "\r\n        Study: UK COVID-19 variant B.1.1.7: More deadly than previous strains        "
+    ],
+    "Article": [
+        "Variant B.1.1.7 of COVID-19 associated with a significantly higher mortality rate, research shows",
+        "The highly infectious variant of COVID-19 discovered in Kent, which swept across the UK last year before spreading worldwide, is between 30 and 100 per cent more deadly than previous strains, new analysis has shown.",
+        "A pivotal study, by epidemiologists from the Universities of Exeter and Bristol, has shown that the SARS-CoV-2 variant, B.1.1.7, is associated with a significantly higher mortality rate amongst adults diagnosed in the community compared to previously circulating strains.",
+        "The study compared death rates among people infected with the new variant and those infected with other strains.",
+        "It showed that the new variant led to 227 deaths in a sample of 54906 patients \u2013 compared to 141 amongst the same number of closely matched patients who had the previous strains.",
+        "With the new variant already detected in more than 50 countries worldwide, the analysis provides crucial information to governments and health officials to help prevent its spread.",
+        "The study is published in the\u00a0British Medical Journal\u00a0on Wednesday, 10 March 2021.",
+        "Robert Challen, lead author of the study from the University of Exeter said: \u201cIn the community, death from COVID-19 is still a rare event, but the B.1.1.7 variant raises the risk. Coupled with its ability to spread rapidly this makes B.1.1.7 a threat that should be taken seriously.\u201d",
+        "The Kent variant, first detected in the UK in September 2020, has been identified as being significantly quicker and easier to spread, and was behind the introduction of new lockdown rules across the UK from January.",
+        "The study shows that the higher transmissibility of the Kent strain meant that more people who would have previously been considered low risk were hospitalised with the newer variant.",
+        "Having analysed data from 54609 matched pairs of patients of all age-groups and demographics, and differing only in strain detected, the team found that there were 227 deaths attributed to the new strain, compared to 141 attributable to earlier strains.",
+        "Leon Danon, senior author of the study from the University of Bristol said: \u201cWe focussed our analysis on cases that occurred between November 2020 and January 2021, when both the old variants and the new variant were present in the UK. This meant we were able to maximise the number of \u201cmatches\u201d and reduce the impact of other biases. Subsequent analyses have confirmed our results.",
+        "\n",
+        "\u201cSARS-CoV-2 appears able to mutate quickly, and there is a real concern that other variants will arise with resistance to rapidly rolled out vaccines. Monitoring for new variants as they arise, measuring their characteristics and acting appropriately needs to be a key part of the public health response in the future.\u201d",
+        "Ellen Brooks-Pollock from the University of Bristol expanded: \u201cIt was fortunate the mutation happened in a part of the genome covered by routine testing. Future mutations could arise and spread unchecked\u201d."
+    ]
+},
+{
+    "Title": [
+        "\r\n        Babesiosis: New research with herbal medicines demonstrate inhibitory activity        "
+    ],
+    "Article": [
+        "Bay Area Lyme Foundation, a leading sponsor of Lyme disease research in the U.S., today announced the publication of new data finding that five herbal medicines had potent activity compared to commonly-used antibiotics in test tubes against Babesia duncani, a malaria-like parasite found on the West Coast of the U.S. that causes the disease babesiosis. Published in the journal\u00a0Frontiers in Cellular and Infection Microbiology, the laboratory study was funded in part by the Bay Area Lyme Foundation. Collaborating researchers were from Johns Hopkins Bloomberg School of Public Health, California Center for Functional Medicine, and FOCUS Health Group, Naturopathic.",
+        "\u201cThis research is particularly important as babesiosis is a significant emerging health risk. Due to limited therapeutics and a rise in treatment resistance, current treatment options for this disease are inadequate and many patients rely on herbal therapies for which there is only anecdotal evidence of efficacy,\u201d said co-author Sunjya K. Schweig, MD, Founder and Director, California Center for Functional Medicine and Scientific Advisory Board Member, Bay Area Lyme Foundation, who has also studied herbal treatments for Lyme disease.",
+        "\u201cIncreasingly, Americans with chronic diseases are pursuing complementary and alternative medicine to improve general health or quality of life. We hope this data offers inspiration to other researchers to further explore similar options for people living with persistent tick-borne diseases that do not respond to current treatments,\u201d added Dr. Schweig.",
+        "While current treatment protocols for babesiosis recommend use of antibiotics including atovaquone, azithromycin, clindamycin, quinine, and their combinations, these regimens are often associated with treatment failures and significant side effects, even in immunocompetent patients. In addition, epidemiologic studies have documented that up to 23% of patients with babesiosis experienced concurrent Lyme disease and its associated disabling effects.",
+        "According to this laboratory study, the five herbal medicines that demonstrated inhibitory activity against B. duncani are:",
+        "Further, the study discovered that the bioactive compounds derived from\u00a0Cryptolepis sanguinolenta,\u00a0Artemisia annua, and Scutellaria baicalensis, had comparable or even better activity against B. duncani than the commonly used antimicrobial medications quinine and clindamycin.",
+        "This is the first study to report the antibabesial activity of Scutellaria baicalensis. However, the antimicrobial and anti-inflammatory activity of\u00a0Alchornea cordifolia\u00a0and\u00a0Polygonum cuspidatum\u00a0extracts have been previously documented, and other studies have found benefits of combining agents such as compounds derived from\u00a0Cryptolepis sanguinolenta\u00a0and an artemisinin-based therapy.",
+        "These compounds still need to be tested both in vitro and in animal models as well as in clinical trials. While each of these botanical medicines are already in clinical use, it is important for future studies to evaluate them directly in patients using specific clinical treatment regimens, as each have the potential to produce side effects in patients, and should be taken only under the care of a clinician knowledgeable of their capabilities and toxicities.",
+        "\u201cHerbal medicines have been successfully used by various traditional medicine systems and ancient cultures,\u201d said Linda Giampa, executive director, Bay Area Lyme Foundation. \u201cCoinfected tick-borne disease patients frequently experience a greater number of symptoms for a longer duration than those with Lyme disease alone, pointing to the need for novel treatments for babesiosis, one of the most common tick-borne infections after Lyme disease. We hope that findings from this study are an important step towards developing new therapeutic options for doctors and their patients with persistent Lyme disease and other tick-borne infections.\u201d",
+        "Babesia venatorum reported for the first time in the UK",
+        "Babesia assay for blood donor screening receives FDA approval",
+        "Single blood test can accurately detect Lyme, Babesia and half dozen other tick-borne diseases",
+        "Babesiosis: 1st locally acquired case recorded in the UK"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Diphtheria: \u2018We risk it becoming a major global threat again\u2019        "
+    ],
+    "Article": [
+        "Diphtheria \u2013 a relatively easily-preventable infection \u2013 is evolving to become resistant to a number of classes of antibiotics and in future could lead to vaccine escape, warn an international team of researchers from the UK and India.",
+        "The researchers, led by scientists at the University of Cambridge, say that the impact of COVID-19 on diphtheria vaccination schedules, coupled with a rise in the number of infections, risk the disease once more becoming a major global threat.",
+        "Diphtheria is a highly contagious infection that can affect the nose and throat, and sometimes the skin. If left untreated it can prove fatal. In the UK and other high-income countries, babies are vaccinated against infection. However, in low- and middle-income countries, the disease can still cause sporadic infections or outbreaks in unvaccinated and partially-vaccinated communities.",
+        "The number of diphtheria cases reported globally has being increasing gradually. In 2018, there were 16,651 reported cases, more than double the yearly average for 1996-2017 (8,105 cases).",
+        "Diphtheria is primarily caused by the bacterium Corynebacterium diphtheriae and is mainly spread by coughs and sneezes, or through close contact with someone who is infected. In most cases, the bacteria cause acute infections, driven by the diphtheria toxin \u2013 the key target of the vaccine. However, non-toxigenic C. diphtheria can also cause disease, often in the form of systemic infections.",
+        "In a study published today in\u00a0Nature Communications, an international team of researchers from the UK and India used genomics to map infections, including a subset from India, where over half of the globally reported cases occurred in 2018.",
+        "By analysing the genomes of 61 bacteria isolated from patients and combining these with 441 publicly available genomes, the researchers were able to build a phylogenetic tree \u2013 a genetic \u2018family tree\u2019 \u2013 to see how the infections are related and understand how they spread. They also used this information to assess the presence of antimicrobial resistance (AMR) genes and assess toxin variation.",
+        "The researchers found clusters to genetically-similar bacteria isolated from multiple continents, most commonly Asia and Europe. This indicates that C. diphtheriae has been established in the human population for at least over a century, spreading across the globe as populations migrated.",
+        "\n",
+        "The main disease-causing component of C. diphtheriae is the diphtheria toxin, which is encoded by the tox gene. It is this component that is targeted by vaccines. In total, the researchers found 18 different variants of the tox gene, of which several had the potential to change the structure of the toxin.",
+        "Professor Gordon Dougan from the Cambridge Institute of Therapeutic Immunology and Infectious Disease (CITIID) said: \u201c\u201dThe diphtheria vaccine is designed to neutralise the toxin, so any genetic variants that change the toxin\u2019s structure could have an impact on how effective the vaccine is. While our data doesn\u2019t suggest the currently used vaccine will be ineffective, the fact that we are seeing an ever-increasing diversity of tox variants suggests that the vaccine, and treatments that target the toxin, need to be appraised on a regular basis.\u201d",
+        "Diphtheria infections can usually be treated with a number of classes of antibiotic. While C. diphtheriae resistant to antibiotics have been reported, the extent of such resistance remains largely unknown.",
+        "When the team looked for genes that might confer some degree of resistance to antimicrobials, they found that the average number of AMR genes per genome was increasing each decade. Genomes of bacteria isolated from infections from the most recent decade (2010-19) showed the highest average number of AMR genes per genome, almost four times as many on average than in the next highest decade, the 1990s.",
+        "Robert Will, a PhD student at CITIID and the study\u2019s first author, said: \u201cThe C. diphtheriae genome is complex and incredibly diverse. It\u2019s acquiring resistance to antibiotics that are not even clinically used in the treatment of diphtheria. There must be other factors at play, such as asymptomatic infection and exposure to a plethora of antibiotics meant for treating other diseases.\u201d",
+        "Apple Cider Vinegar Gummy Vitamins by Goli Nutrition \u2013 3 Pack \u2013 (180 Count, Organic, Vegan, Gluten-Free, Non-GMO, with\u201dThe Mother\u201d, Vitamin B9, B12, Beetroot, Pomegranate)",
+        "Erythromycin and penicillin are the traditionally recommended antibiotics of choice for treating confirmed cases of early-stage diphtheria, though there are several different classes of antibiotics available to treat the infection. The team identified variants resistant to six of these classes in isolates from the 2010s, higher than in any other decades.",
+        "Dr Pankaj Bhatnagar from the World Health Organization country office for India said: \u201cAMR has rarely been considered as a major problem in the treatment of diphtheria, but in some parts of the world, the bacterial genomes are acquiring resistance to numerous classes of antibiotics. There are likely to be a number of reasons to this, including exposure of the bacteria to antibiotics in their environment or in asymptomatic patients being treated against other infections.\u201d",
+        "",
+        "The researchers say that COVID-19 has had a negative impact on childhood vaccination schedules worldwide and comes at a time when reported case numbers are rising, with 2018 showing the highest incidence in 22 years.",
+        "Dr Ankur Mutreja from CITIID, who led the study, said: \u201cIt\u2019s more important than ever that we understand how diphtheria is evolving and spreading. Genome sequencing gives us a powerful tool for observing this in real time, allowing public health agencies to take action before it\u2019s too late.",
+        "\u201cWe mustn\u2019t take our eye off the ball with diphtheria, otherwise we risk it becoming a major global threat again, potentially in a modified, better adapted, form.\u201d"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Monoclonal antibody \u2018cocktail\u2019 blocks COVID-19 variants: Study        "
+    ],
+    "Article": [
+        "A monoclonal antibody \u201ccocktail\u201d developed at Vanderbilt University Medical Center (VUMC) to neutralize the COVID-19 virus is effective against all known strains, or variants, of the virus, according to a report published in the journal\u00a0Nature Medicine.",
+        "That was one of the findings reported by a multi-institutional team led by researchers at Washington University School of Medicine in St. Louis.",
+        "In cell-culture studies, the researchers determined the ability of monoclonal antibodies as well as antibodies isolated from the \u201cconvalescent plasma\u201d of previously infected people to neutralize highly transmissible variants of the SARS-CoV-2 virus that have arisen in the United Kingdom, South Africa, Brazil and elsewhere.",
+        "In general, most of the monoclonal antibodies that have been developed to combat COVID-19 showed \u201cdiminished neutralizing potency,\u201d specifically against strains of the virus bearing a specific mutation at position 484 in the surface \u201cspike\u201d protein, which enables the virus to attach to and enter its host cell in the body.",
+        "However, several other highly neutralizing monoclonal antibody cocktails, including those developed at VUMC, showed intact or only mildly diminished activity against the variants tested, possibly because they target sites on the spike protein other than the highly mutable E484K residue.",
+        "The study indicated substantially reduced neutralization of variants viruses containing this E484K mutation by antibodies in the sera of both previously infected and COVID-19 vaccinated individuals, further highlighting the need for variant-resistant treatments like the VUMC antibody cocktail.",
+        "\u201cThis study highlights the importance of rationally designed antibody cocktails like those we developed,\u201d said James Crowe, Jr., MD, director of the Vanderbilt Vaccine Center (VVC) and Ann Scott Carell Professor in the Departments of Pediatrics and Pathology, Microbiology and Immunology at Vanderbilt.",
+        "\u201cWe chose two antibodies to create a mixture that specifically would resist escape by SARS-CoV-2,\u201d Crowe said. \u201cFortunately, this work and several other papers recently published show that the protection mediated by the antibodies we discovered that are now in six different phase 3 clinical trials should extend to all current variants of concern.\u201d",
+        "Robert Carnahan, PhD, associate VVC director and associate professor of Pediatrics, added, \u201cThese findings that the antibodies we are developing inhibit the new SARS-CoV-2 variants well are made even more important by the fact that some previously approved monoclonal antibody treatments look very unlikely to protect against these variants.",
+        "\u201cUsing our variant-resistant antibody cocktails likely will provide an important new tool for controlling the COVID-19 pandemic,\u201d Carnahan said."
+    ]
+},
+{
+    "Title": [
+        "\r\n        Ivermectin: 5-day course did not significantly improve the time to resolution of mild COVID-19 symptoms        "
+    ],
+    "Article": [
+        "According to a study published in JAMA\u00a0today, researchers from the Centro de Estudios en Infectologia Pediatrica in Cali, Colombia looked at the effect of Ivermectin on time to resolution of symptoms among adults with mild COVID-19.",
+        "Importance\u00a0\u00a0Ivermectin is widely prescribed as a potential treatment for COVID-19 despite uncertainty about its clinical benefit.",
+        "Objective\u00a0\u00a0To determine whether ivermectin is an efficacious treatment for mild COVID-19.",
+        "Design, Setting, and Participants\u00a0\u00a0Double-blind, randomized trial conducted at a single site in Cali, Colombia. Potential study participants were identified by simple random sampling from the state\u2019s health department electronic database of patients with symptomatic, laboratory-confirmed COVID-19 during the study period. A total of 476 adult patients with mild disease and symptoms for 7 days or fewer (at home or hospitalized) were enrolled between July 15 and November 30, 2020, and followed up through December 21, 2020.",
+        "Intervention\u00a0\u00a0Patients were randomized to receive ivermectin, 300 \u03bcg/kg of body weight per day for 5 days (n\u2009=\u2009200) or placebo (n\u2009=\u2009200).",
+        "Main Outcomes and Measures\u00a0\u00a0Primary outcome was time to resolution of symptoms within a 21-day follow-up period. Solicited adverse events and serious adverse events were also collected.",
+        "Results\u00a0\u00a0Among 400 patients who were randomized in the primary analysis population (median age, 37 years [interquartile range {IQR}, 29-48]; 231 women [58%]), 398 (99.5%) completed the trial. The median time to resolution of symptoms was 10 days (IQR, 9-13) in the ivermectin group compared with 12 days (IQR, 9-13) in the placebo group (hazard ratio for resolution of symptoms, 1.07 [95% CI, 0.87 to 1.32];\u00a0P\u2009=\u2009.53 by log-rank test). By day 21, 82% in the ivermectin group and 79% in the placebo group had resolved symptoms. The most common solicited adverse event was headache, reported by 104 patients (52%) given ivermectin and 111 (56%) who received placebo. The most common serious adverse event was multiorgan failure, occurring in 4 patients (2 in each group).",
+        "Conclusion and Relevance\u00a0\u00a0Among adults with mild COVID-19, a 5-day course of ivermectin, compared with placebo, did not significantly improve the time to resolution of symptoms. The findings do not support the use of ivermectin for treatment of mild COVID-19, although larger trials may be needed to understand the effects of ivermectin on other clinically relevant outcomes.",
+        "Ivermectin: South Africa officials say routine use for either the prevention or treatment of COVID-19 is not justified",
+        "NIH changes on use of ivermectin for treatment of COVID-19",
+        "Peru tops 1 million COVID-19 cases, increased restrictions and ivermectin use warning",
+        "FDA warning: Ivermectin meant for animals are not for human treatment for COVID-19",
+        "Anti-parasitic drug, Ivermectin, inhibits SARS-CoV-2 virus in 48 hours in vitro: Monash University researchers",
+        "\n"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Travel bans effective only in the first phases of the epidemic: Study        "
+    ],
+    "Article": [
+        "Travel bans have been key to efforts by many countries to control the spread of COVID-19. But new research aimed at providing a decision support system to Italian policy makers, recently published in the\u00a0Journal of the Royal Society Interface, suggests that reducing individual activity (i.e., social distancing, closure of non-essential business, etc.) is far superior in controlling the dissemination of Sars-CoV-2, the virus that causes COVID-19.",
+        "The research, which has implications for the United States and other countries, found that limiting personal mobility through travel restrictions and similar tactics is effective only\u00a0in the first phases of the epidemic, and reduces in proportion to the spread of infection across a population.",
+        "In the study, \u201cModelling and predicting the effect of social distancing and travel restrictions on COVID-19 spreading\u201d the researchers, led by\u00a0Alessandro Rizzo, visiting professor in the Office of Innovation at NYU Tandon and professor at the\u00a0Politecnico di Torino, and\u00a0Maurizio Porfiri\u00a0Institute Professor of mechanical and aerospace, biomedical and civil and urban engineering at NYU Tandon and a member of the\u00a0Center for Urban Science and Progress\u00a0(CUSP), detail a data modeling framework for isolating the differential efficacy of different COVID-19 intervention policies. Since their method benefits from a low computational load (it can easily run on a personal computer), it can be a valuable decision support system to policy makers, toward the implementation of combined containment actions that can protect citizens\u2019 health, while avoiding total closures, with all their economic, social, and psychological consequences.",
+        "\u201cWhile this project was focused specifically on Italy, the results are revelatory for virtually any country relying on travel restrictions to stem the spread of the pandemic. We look forward to using US data to tune the model and give specific answers to combat this delicate phase of the pandemic,\u201d said Porfiri.",
+        "Added Rizzo, \u201cWe are particularly satisfied with this model, as it provides very detailed answers even though it relies only on aggregated sources of data \u2013 a further guarantee of people\u2019s privacy.\u201d",
+        "The work includes a realistic representation of demographic data and travel patterns of both commuters and those taking long-distance trips, using only aggregated and publicly available data, without resorting to individual tracking devices. It follows upon a\u00a0study\u00a0on the spread of Covid-19 in New Rochelle, New York predicting the diffusion of COVID-19 in medium sized cities and provinces, published as the cover of\u00a0Advanced Modeling and Simulations (Wiley),",
+        "The investigators, including Francesco Parino of Politecnico di Torino and Lorenzo Zino of the University of Groningen, The Netherlands, also found that selective lockdown policies, for example restriction only on the activity of the elderly, seems not to have a great effect on the overall transmission of the epidemic.",
+        "Deploying their algorithmic framework to model scenarios in which restrictions are lifted, discovered that restrictions on social activity must be gradually removed to avoid a second wave, while the timing and swiftness of removal of travel restrictions seem not to have a great effect on the transmission.",
+        "In view of the scarce resources and the inherent slowness of vaccination campaigns, the research group is now engaged in the use of the model to assess the effect of different vaccination policies, toward the definition of vaccination rollouts that will aim at providing an optimal outcome in spite of the limited resources in terms of vaccine doses and operators.",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Has lockdown driven tinnitus sufferers to despair?        "
+    ],
+    "Article": [
+        "One in six people in Australia suffer from chronic tinnitus \u2013 the debilitating and irreversible hearing ailment characterised by unceasing ringing in the ears \u2013 yet scant research has been done to find solutions and improve treatments.",
+        "This gap in research knowledge has proved enticing for enterprising young scientist Dr Dee Domingo, who recently joined Flinders University\u2019s fledgling Audiology Department to commence bold new research ideas and analysis of tinnitus \u2013 involving brain stimulation trials to manage the condition and examining whether tinnitus suffers fared worse during COVID-19 lockdowns.",
+        "It\u2019s a timely reminder about hearing awareness, on the eve of\u00a0World Hearing Day on March 3, which encourages people to have their hearing tested.",
+        "\u201cThis is a hidden disease \u2013 and because it\u2019s not visible, many people simply don\u2019t know it exists, yet it deserves our full attention and focus,\u201d says Dr Domingo, 27, from Whyalla.",
+        "\u201cWe\u2019re trying to find the neural networks that underlie tinnitus and use that information to inform new treatments or therapy options. This is the area that hasn\u2019t been plumbed enough.",
+        "\u201cIt\u2019s the type of disease that is hard to understand if someone hasn\u2019t experienced it, which is why we are going directly to patients for their involvement, to best understand their ongoing problems with tinnitus.\u201d",
+        "Dr Domingo is working with Professor Raj Shekhawat, who is currently leading an International Discovery Research Grant funded by the Royal National Institute for the Deaf, United Kingdom. This three-year project \u2013 conducted at Flinders University in collaboration with South Australian Health & Medical Research Institute (SAHMRI) \u2013 is investigating the use of non-invasive brain stimulation for tinnitus management.",
+        "As a prelude to these trials \u2013 which are expected to commence in May \u2013 Dr Domingo is preparing a survey to learn how people with tinnitus coped with their condition through COVID-19 lockdowns.",
+        "The new survey, being done in conjunction with Professor Bamini Gopinath and collaborators at Macquarie University and expected to be issued in early March, is looking to catalogue the experiences of tinnitus sufferers during COVID-19, when lockdown and isolation would have amplified the effects and annoyance of the condition.",
+        "\u201cMany people with tinnitus were living alone with this constant audio annoyance, and without other distractions during lockdown it would have been at the forefront of their thinking at every waking moment,\u201d says Dr Domingo. \u201cWhen you have nothing else to distract you, the noise produced by tinnitus becomes most bothersome, especially when you are attempting to get to sleep. It became their primary focus, and it loomed large as the most upsetting part of their life \u2013 at worst, it has developed into a mental health problem. Our survey needs to understand the true depth of this situation.\u201d",
+        "Dr Domingo says the key to her tinnitus survey, for which she expects to have completed within a year, is highlighting the voice of patients in the research \u2013 and making them active participants in the research process. \u201cWe have to have a holistic view to move forward with tinnitus treatment, to stop people from feeling as though they are dealing with this condition in isolation. Information is power.\u201d",
+        "Professor Raj Shekhawat says it is necessary for his team\u2019s research to demonstrate the value of tinnitus solutions, and to send a powerful message that will better inform the general public.",
+        "\u201cTinnitus is not a disease, but an associated symptom \u2013 and in 99.9% of circumstances it is inflicted damage that triggers tinnitus. It is not just going to happen of its own accord,\u201d says Professor Shekhawat. \u201cIt can be self-inflicted, through exposure to extreme loud music, for example, or industrial noise \u2013 and that once the tiny hairs on the cochlear in the inner ear are damaged, even the slightest bit, they can never be regenerated. It is a sense lost forever \u2013 and that changes people\u2019s perception once they understand that.\u201d",
+        "Professor Shekhawat says the importance of conquering the tinnitus problem is more fundamental than most people realise. \u201cWhen a baby is conceived, the first sensory system to develop is hearing. Our abilities with language are all related to our hearing. If your hearing is not functioning, you won\u2019t develop speech and language, then think about the implication on your education, your vocation and social development. Yet it\u2019s only people who suffer hearing problems ever come to truly understand all this.\u201d",
+        "Dr Domingo says the explorations of neural networks she is doing with Professor Shekhawat may provide the key to find new answers and solutions for tinnitus treatment.",
+        "\u201cTracking the neural networks will finally give us a visual representation of how tinnitus occurs and the damage it inflicts \u2013 and these visuals will help more people understand and appreciate the disease,\u201d she says. \u201cIt will paint a literal picture of what causes it, and that\u2019s the first step on the path to finding solutions.\u201d",
+        "\n"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Down syndrome: Adults with genetic disorder are more likely to die from COVID-19        "
+    ],
+    "Article": [
+        "A new study by an international team of researchers found that adults with Down syndrome are more likely to die from COVID-19 than the general population, supporting the need to prioritize vaccinating people with the genetic disorder.",
+        "Investigators found that adults with Down syndrome were roughly three times more likely to die from COVID-19 than the general population. This increased risk was especially apparent in from fifth decade of life: A 40-year-old with Down syndrome had a similar risk of dying from COVID-19 as someone 30 years older in the general population.",
+        "The study was published this week in The Lancet\u2019s\u00a0EClinical Medicine.",
+        "\u201cOur results, which are based on more than 1,000 COVID-19 unique patients with Down syndrome, show that individuals with Down syndrome often have more severe symptoms at hospitalization and experience high rates of lung complications associated with increased mortality,\u201d said Anke Huels, an assistant professor of epidemiology at Emory University\u2019s Rollins School of Public Health, and the study\u2019s first author. \u201cThese results have implications for preventive and clinical management of COVID-19 patients with Down syndrome and emphasize the need to prioritize individuals with Down syndrome for vaccination.\u201d",
+        "Down syndrome is a genetic condition typically caused by the trisomy\u2013or having an extra copy\u2013of chromosome 21. This extra copy changes how a baby\u2019s body and brain develop, which can cause both mental and physical challenges.",
+        "To collect data for the study, T21RS COVID-19 Initiative launched an international survey of clinicians and caregivers of individuals with Down syndrome infected with COVID-19 between April and October, 2020. Survey respondents were mainly from Europe, the United States, Latin America and India. (The survey was available in English, Spanish, French, Italian, Portuguese, German, Bengali, Hindi and Mandarin).",
+        "\u201cWe are delighted to see that, partly based on our findings, the CDC included Down syndrome in the list of \u2018high-risk medical conditions,\u2019 which will prioritize those with this genetic condition for vaccination,\u201d said co-author Alberto Costa, professor of pediatrics and psychiatry at the Case Western Reserve University School of Medicine. \u201cSimilar decisions have been made in the United Kingdom and Spain, and we hope that other countries will soon follow.\u201d",
+        "\n"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Combined vaccination and physical distancing enough to prevent future COVID-19 surges: Study        "
+    ],
+    "Article": [
+        "A combination of robust vaccination programmes and strict physical distancing rules could avoid recurring peaks of COVID-19 without the need to rely on stay-at-home restrictions, according to a new study by epidemiologists and demographers from WorldPop at the University of Southampton, in collaboration with The Chinese University of Hong Kong.",
+        "This research used anonymised mobile phone geolocation data with epidemiological and coronavirus case data from China to model the potential impact of vaccination and physical distancing on virus transmission. They predicted the effect of different combinations of interventions on low, medium and high density cities in the country.",
+        "The impact of physical distancing in containing future resurgences of COVID-19 depends greatly on the intensity of measures, population density, and the availability of vaccines across geographical areas and time. The researchers set out to gain a greater understanding of the relationship between these factors.",
+        "The findings are published in the journal\u00a0Nature Human Behaviour.",
+        "The team predicts that in most cities, vaccination programmes and physical distancing combined will be enough to contain virus resurgence without the need to greatly restrict population mobility. Containment in this study was defined as maintaining a low transmission rate, or \u2018R\u2019 below one.",
+        "The researchers report cities with medium and high density populations will need both vaccination and distancing to prevent future intense waves of COVID-19, until herd immunity is reached. However, they suggest cities with low populations and effective vaccination could fully interrupt transmission without the need for physical distancing. In all cities, full \u2018stay-at-home\u2019 lockdowns would no longer be necessary.",
+        "The team\u2019s results also suggest strong physical distancing interventions implemented for short periods of time may be more effective than mild, longer term ones.",
+        "The author and spatial epidemiologist, Dr Shengjie Lai, Senior Research Fellow in Geography and Environmental Sciences at the University of Southampton comments: \u201cOur research provides a framework and set of outputs that can be used by policy-makers and public health authorities to identify appropriate levels of intervention to keep COVID-19 outbreaks in check over time. Although our study was based on data from China, our methods and findings are applicable to cities worldwide with similar levels of population density and social contact patterns.\u201d",
+        "Director of WorldPop, Professor Andy Tatem, added: \u201cPrevious studies have assumed that when people reduce mobility, they proportionately reduce their social contacts, but this isn\u2019t necessarily the case and as more SARS-CoV-2 vaccines come online, there is an urgent need to understand the relationship between these factors, so we can adjust and tailor interventions and open up sections of society in a safer way.\u201d",
+        "The researchers recognise some limitations to their study, for example, the absence of data on the contribution of handwashing and face masks and challenges of vaccine supply, but emphasise that their approach can be quickly adapted to provide near real-time data to address emerging, time critical needs.",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Prion diseases: new clues in the structure of prion proteins        "
+    ],
+    "Article": [
+        "Prion diseases are a group of rapidly progressive, fatal and infectious neurodegenerative disorders affecting both humans and animals: Bovine Spongiform Encephalopathy (BSE) or \u2018mad cow\u2019 disease is one of the most famous since in 1996 scientists found that the agent responsible for the disease in cows, is the same agent responsible for the so-called variant Creutzfeldt-Jakob Disease (vCJD), a disease affecting humans.",
+        "A new study carried out by SISSA \u2013 Scuola Internazionale Superiore di Studi Avanzati in collaboration with other institutions including Genos Glycoscience Research Laboratory from Zagreb, Croatia and Elettra Sincrotrone Trieste, provides important information on the differences in structures of the prions, proteins responsible for diseases that at the state of the art are incurable.",
+        "One of the main unanswered problems revolving around prion diseases is the existence of strains, leading to a wide range of disorders with different symptoms, incubation time, histopathology, etc. \u201cFor a better understanding of the mechanism of the diseases and the existence of strains, resolving the structure of the prion protein is necessary\u201d neuroscientist Natali Naki?, first author of the paper \u201cSite-specific analysis of N-glycans from different sheep prion strains\u201d, just published in\u00a0PLOS Pathogens, says. The prion protein is a glycoprotein, meaning polysaccharides called glycans encompass a large part of the protein structure. The new study is the first one of its kind as it focuses on comparing glycan structures from different strains.",
+        "",
+        "Professor Giuseppe Legname, co-author of the paper, is the Director of SISSA Prion Biology Laboratory and has been collaborating with Elettra Sincrotrone Trieste since 2006: \u201cCarbohydrate of the glycoproteins were sequenced for the first time thanks to the collaboration with Genos Glycoscience Research Laboratory, using a highly sensitive technique called Liquid Chromatography/Mass Spectrometry\u201d he says. \u201cIt has long been questioned whether the diversity in prion strains may depend on the glycans that compose them as well as on protein folding. Our results led us to an answer for the first time\u201d.",
+        "\u201cIn this study, glycans from two different sheep prion strains were compared\u201d",
+        "Natali Naki adds. \u201cAfter an extensive analysis, no major differences in glycan structures were found between the two strains, suggesting that glycans may not be responsible for the biochemical and neuropathological differences\u201d. A remarkable goal as it represents another step toward the fully understanding of prion glycoproteins and the cellular mechanism of prion diseases.",
+        "\n"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Tourists could be spreading COVID-19 virus to gorillas by taking selfies with the animals        "
+    ],
+    "Article": [
+        "Tourists could be spreading the virus causing COVID-19 to wild mountain gorillas by taking selfies with the animals without following precautions. Researchers from Oxford Brookes University examined nearly 1,000 Instagram posts and found most gorilla trekking tourists were close enough to the animals, without face masks on, to make transmission of viruses and diseases possible.",
+        "Examining the photos from people visiting mountain gorillas in East Africa, lead author and Oxford Brookes University Primate Conservation alumnus Gaspard Van Hamme said: \u201cThe risk of disease transmission between visitors and gorillas is very concerning. It is vital that we strengthen and enforce tour regulations to ensure gorilla trekking practices do not further threaten these already imperiled great apes\u201d.",
+        "In January 2021, captive gorillas at San Diego Zoo tested positive for SARS-CoV-2, the virus that causes COVID-19, providing evidence that the current pandemic has the potential to also possibly also can affect great apes. Tourists\u2019 photos examined for this research found people were close enough to the animals that disease transmission would be possible.",
+        "The importance of wearing face masks",
+        "Dr Magdalena Svensson, lecturer in biological anthropology at Oxford Brookes University added: \u201cIn the photos we analysed, we found that face masks were rarely worn by tourists visiting gorillas and that brings potential for disease transmission between people and the gorillas they visit. With people all over the world getting more used to wearing face masks we have hope that in the future wearing face masks will become common practice in gorilla trekking.\u201d",
+        "Gorilla numbers in the balance",
+        "Mountain gorillas are endemic to the East African region. They are present in the Democratic Republic of Congo (Virunga National Park), Uganda (Bwindi Impenetrable National Park and Mgahinga Gorilla National Park), and Rwanda (Volcanoes National Park). In recent decades, these populations have suffered from the ill effects of human activities but in more recent years gorilla numbers have started to increase and now it is estimated that there are 1,063 individuals.",
+        "Dr Gladys Kalema-Zikusoka from Conservation Through Public Health, Uganda, said: \u201cThis research provides a valuable perspective on how much tourists are willing to share their too close encounters with mountain gorillas through Instagram, which creates expectations for future tourists. It highlights a great need for responsible tourism to provide adequate protection while minimizing disease transmission, especially now during the COVID-19 pandemic.\u201d",
+        "San Diego Zoo reports gorillas test positive for SARS-CoV-2",
+        "Tourism: environment and wildlife",
+        "Trekking is an important financial support to mountain gorilla conservation. But large visitor numbers can impact on the wildlife and environment \u2013 guidelines to mitigate these include maintaining a minimum distance of 7 metres between visitors and gorillas. The Oxford Brookes study shows that these guidelines are not adequately followed and enforced.",
+        "Russell A. Mittermeier, Chair of the IUCN/SSC Primate Specialist Group, who was not involved in the study, commented: \u201cIt has become apparent in the past few years that studies of anthroponotic and zoonotic disease spread are crucial to the field of primate conservation. With that in mind, it is very exciting to see the new research on this topic coming out of the Primate Conservation Group at Oxford Brookes University. While this study focused on one species, the mountain gorilla, the lessons learned are also applicable to many other primate species that are increasingly coming into contact with people. This line of research will certainly become more important in the future.\u201d",
+        "Antibody-based COVID-19 treatments work best in concert with immune cells",
+        "Cold sores: Discovery reveals how stress, illness and even sunburn trigger flareups",
+        "Cleveland Clinic study: High-dose zinc, Vitamin C show no significant impact on COVID-19 symptoms",
+        "Scent detection dogs can identify individuals infected with COVID-19",
+        "\n",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Antibody-based COVID-19 treatments work best in concert with immune cells        "
+    ],
+    "Article": [
+        "Of the nine treatments and preventives for COVID-19 authorized for emergency use by the Food and Drug Administration, three are drugs made from so-called monoclonal antibodies. Such drugs provide patients with ready-made antibodies that neutralize the virus, bypassing the body\u2019s slower and sometimes less effective process of making its own antibodies.",
+        "But such therapies were developed without detailed information about how antibodies interact with the rest of the immune system during COVID-19. Faced with a new, deadly and fast-spreading disease, drug designers started work without knowing whether antibodies\u2019 ability to activate a variety of immune cells would aid or hinder efforts to control the disease. Such abilities are collectively known as antibody effector functions.",
+        "A new study from researchers at Washington University School of Medicine in St. Louis has shown that antibody effector functions are a crucial part of effectively treating infections with SARS-CoV-2 \u2014 the virus that causes COVID-19 \u2014 but are dispensable when the antibodies are used to prevent infection. The findings, available online in the journal\u00a0Cell, could help scientists improve the next generation of antibody-based COVID-19 drugs.",
+        "\u201cSome of the companies removed the effector functions from their antibodies, and other companies are trying to optimize the effector functions,\u201d said senior author Michael S. Diamond, MD, PhD, the Herbert S. Gasser Professor of Medicine. \u201cNeither of these strategies is backed by data in the context of SARS-CoV-2 infections. Based on our findings, if you have a potently neutralizing antibody without effector functions and you give it before infection, as a preventive, it will probably work. But if you give it after infection, it won\u2019t work well; you need to optimize effector functions to get maximal benefit.\u201d",
+        "Antibodies are shaped like the letter Y. The tips of the two short arms are almost infinitely changeable, giving antibodies the ability to recognize virtually any molecular shape. The short arms attach to foreign molecules and target them for clearance. The long arm is where the effector functions are located. It attaches to receptors on immune cells, inducing them to kill infected cells and release molecules that sculpt the immune response.",
+        "But this process can go wrong. In a process known as antibody-dependent enhancement, interactions between the long arm of antibodies and immune cells can worsen some viral infections, notably infections with the tropical dengue virus. People who have antibodies against one strain of dengue virus are at risk of developing life-threatening dengue fever if they become infected with another strain of the virus.",
+        "To avoid the danger of antibody-dependent enhancement, some companies developing antibody-based COVID-19 drugs changed the sequence in the long arm of the antibodies to prevent it from interacting with immune cells. Other companies took the opposite tack: strengthening antibody effector functions to potentially boost the potency of their drugs.",
+        "To determine the role of antibody effector functions in COVID-19, Diamond and colleagues, including first author Emma Winkler, an MD/PhD student in Diamond\u2019s lab, and co-senior author James E. Crowe Jr., MD, of Vanderbilt University Medical Center, started with an antibody that is very effective at recognizing and neutralizing SARS-CoV-2. They eliminated the antibody\u2019s effector functions by mutating its long arm so that it could not stimulate immune cells.",
+        "\n",
+        "The researchers gave separate groups of mice the original or the mutated SARS-CoV-2 antibodies, or a placebo antibody that does not recognize SARS-CoV-2. The antibodies were given to the animals one day before they were infected through the nose with the virus that causes COVID-19. Regardless of whether the effector functions of the antibodies were intact, the SARS-CoV-2 antibodies protected the mice against disease. Mice that had received either of the SARS-CoV-2 antibodies lost less weight and had lower levels of virus in their lungs than the ones that received the placebo antibody. Importantly, there was no sign of antibody-dependent enhancement of disease.",
+        "Then, the researchers investigated whether antibody effector functions are needed for treatment after infection. They gave mice the virus that causes COVID-19 and treated them one, two or three days later with the original or mutated SARS-CoV-2 antibodies, or a placebo antibody. Compared to the placebo, the original SARS-CoV-2 antibody protected mice against weight loss and death, but the one without effector functions did not.",
+        "Listen to Outbreak News Interviews podcast on Spotify",
+        "Further experiments with different antibodies with and without effector functions, and in a different animal \u2014 hamsters \u2014 yielded the same result: Effector functions are an indispensable part of effective antibody treatment for COVID-19.",
+        "Some antibody-based drugs for COVID-19 are being developed as preventives for use in high-risk environments such as nursing homes. But most such drugs are geared toward treating people who are already infected. For that purpose, optimizing antibody effector functions could be the key to making a powerful drug, Diamond said. As part of this study, the researchers discovered that the loss of effector functions changed the kinds of immune cells that were recruited to fight the infection and how they behaved.",
+        "\u201c\u2018Effector functions\u2019 refers to a complex set of interactions between antibodies and other elements of the immune system,\u201d said Diamond, who also is a professor of molecular microbiology and of pathology & immunology. \u201cYou can introduce different point mutations to augment certain kinds of effector functions, and some might be harmful to the immune response while others might be beneficial. There\u2019s a lot of nuance. We are still learning how to harness effector functions so you get what you want but not what you don\u2019t want.\u201d"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Cold sores: Discovery reveals how stress, illness and even sunburn trigger flareups        "
+    ],
+    "Article": [
+        "Researchers at the University of Virginia School of Medicine have shed light on what causes herpes simplex virus to flare up, explaining how stress, illness and even sunburn can trigger unwanted outbreaks.",
+        "The discovery could lead to new ways to prevent cold sores and herpes-related eye disease from reoccurring, the researchers report.",
+        "\u201cHerpes simplex recurrence has long been associated with stress, fever and sunburn,\u201d said researcher Anna R. Cliffe, PhD, of UVA\u2019s Department of Microbiology, Immunology and Cancer Biology. \u201cThis study sheds light on how all these triggers can lead to herpes simplex-associated disease.\u201d",
+        "About Herpes Simplex Recurrence",
+        "Once you\u2019re infected with herpes simplex virus (HSV) \u2013 and more half of Americans are \u2013 the virus never really goes away. Instead, it lurks inside neurons, waiting for the right moment to strike again, a process known as reactivation.",
+        "Cold sores, also known as fever blisters, are one of the most common symptoms of HSV reactivation. Recurrent reactivation in the eye leads to herpes keratitis, which, if left untreated, can result in blindness. HSV infection has also been linked to the progression of Alzheimer\u2019s disease.",
+        "Recurrences of HSV are typically associated with stress, illness or sunburn, but doctors have been uncertain exactly what causes the virus to reactivate. Cliffe and her collaborators found that when neurons harboring the virus were exposed to stimuli that induce \u201cneuronal hyperexcitation,\u201d the virus senses this particular change and seizes its opportunity to reactivate.",
+        "Working in a model developed by the Cliffe lab using mouse neurons infected with HSV, the researchers determined that the virus highjacks an important immune response within the body. In response to prolonged periods of inflammation or stress, the immune system releases a particular cytokine, Interleukin 1 beta. This cytokine is also present in epithelial cells in the skin and eye and is released when these cells are damaged by ultraviolet light.",
+        "Interleukin 1 beta then increases the excitability in the affected neurons, setting the stage for HSV to flare up, the UVA researchers discovered.",
+        "\u201cIt is really remarkable that the virus has hijacked this pathway that is part of our body\u2019s immune response,\u201d Cliffe said. \u201cit highlights how some viruses have evolved to take advantage of what should be part of our infection-fighting machinery.\u201d",
+        "The scientists say that more research will need to be done to fully understand the potential factors which play into herpes simplex disease. It may vary depending on the virus strain or the type of neuron infected, even. And it is still unknown if the virus alters how neurons respond to cytokines such as Interleukin 1 beta. But the new insights help doctors better understand what is happening in neurons and the immune system, and that could lead to ways to prevent unwanted outbreaks, the researchers hope.",
+        "\u201cA better understanding of what causes HSV to reactivate in response to a stimulus is needed to develop novel therapeutics,\u201d Cliffe said. \u201cUltimately, what we hope to do is target the latent virus itself and make it unresponsive to stimuli such as Interleukin 1 beta.\u201d",
+        "Scientists reveal DNA packaging mechanism of HSV-1, the virus that causes cold sores",
+        "Herpes virus causes cold sores. Does it also cause Alzheimer\u2019s disease?",
+        "How to Treat Cold Sores",
+        "Genital herpes is a substantial health concern worldwide: WHO"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Cleveland Clinic study: High-dose zinc, Vitamin C show no significant impact on COVID-19 symptoms        "
+    ],
+    "Article": [
+        "Zinc and ascorbic acid (vitamin C) supplementation have long been thought to have a possible role in fighting viral infection, based on theoretical grounds and some evidence for efficacy.",
+        "In a recent study by researchers from the Cleveland Clinic they find ten days of high-dose zinc, ascorbic acid or a combination of the two has no significant impact on severity or duration of symptoms when taken early in the course of COVID-19.",
+        "That\u2019s the conclusion of a randomized open-label trial, called COVID A to Z, that compared these interventions with usual care among more than 200 ambulatory patients with COVID-19. The study, which was stopped early for futility, was conducted by Cleveland Clinic researchers and\u00a0published in\u00a0JAMA Network Open.",
+        "\u201cBased on this study, neither high-dose zinc nor ascorbic acid can be recommended to reduce symptoms of COVID-19 illness,\u201d says the study\u2019s senior author,\u00a0Milind Desai, MD, Director of Operations in Cleveland Clinic\u2019s Department of Cardiovascular Medicine.",
+        "Read more at Cleveland Clinic",
+        "",
+        "\n"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Scent detection dogs can identify individuals infected with COVID-19        "
+    ],
+    "Article": [
+        "In a recent article in the\u00a0Journal of Osteopathic Medicine, authors gathered previously published research to summarize current thinking on the feasibility and efficacy of using scent detection dogs to screen for the COVID-19 virus. The researchers report that sensitivity, specificity, and overall success rates reported by the canine scent detection studies are comparable or better than the standard RT-PCR and antigen testing procedures.",
+        "These findings indicate scent detection dogs can likely be used to effectively screen and identify individuals infected with the COVID-19 virus in hospitals, senior care facilities, schools, universities, airports, and even large public gatherings for sporting events and concerts.",
+        "\u201cAccurate and rapid screening of individuals who may be carriers, symptomatic or asymptotic, of the COVID-19 virus will remain important for slowing and limiting the spread of infection,\u201d said Tommy Dickey, PhD, professor, University of California, Santa Barbara. \u201cThese preliminary studies suggest the use of medical scent detection dogs offers a promising approach.\u201d",
+        "Documented success detecting disease",
+        "Dogs can sense a broad range of molecules with extremely small concentrations: 1 part in a quadrillion compared with 1 part in 1 billion for humans. This capability is used for search and for identification of diseases with their individual chemistries and odors.",
+        "Using inhaled air molecules and particulates, dogs can detect odorous human molecules (volatile organic compounds, or VOCs) that originate from flaked off skin or hair cells, blood, breath, saliva, sweat, tears, nasal mucous, urine, semen, or feces. Since smells linger, dogs can maintain a historical library of the smells of complex molecules.",
+        "\u201cThe science behind and efficacy of using dogs in detecting medical conditions and diseases such as cancers, diabetes, malaria, Parkinson\u2019s disease, and more has been documented,\u201d said Heather Junqueira. \u201cThese new studies provide support for additional research to determine their ability to detect COVID-19 at scale.\u201d",
+        "",
+        "The qualified studies",
+        "For their review, the authors assessed four recent studies analyzing the success of scent detecting dogs at identifying VOCs associated with COVID-19. First, they described the work of a team of collaborating researchers from France and Lebanon, who tested with 8 dogs that had previously been trained to detect both explosives and colon cancer.",
+        "These dogs were independently presented with cotton or wool gauze samples that had been soaked with sweat from one of 198 human armpits of patients in different hospitals. While the COVID-19 virus does not itself have a smell, researchers hypothesized that the resulting infection generates metabolic changes, which cause the release of a distinctive type of sweat odor that can be detected by a dog.",
+        "The dogs were trained to only sit in front of a COVID-19-positive sample contained in a box with a sample canister. After four days of training using COVID-19 samples, the success rate for the dogs ranged between 83 and 100%.",
+        "Saliva or tracheobronchial secretions",
+        "In another study described by the authors, a research team in Germany conducted a randomized, double-blinded, controlled pilot study to determine whether previously trained scent dogs could successfully detect the presence of the COVID-19 virus. Dogs were trained over 1 week to detect the COVID-19 virus in samples of saliva or tracheobronchial secretions collected from infected patients.",
+        "Each dog, its handler, and the person observing the study were blindfolded. The number and duration of each dogs\u2019 \u201cnose dips\u201d into the scent holes, along with the location of the positive and negative samples, were automatically recorded and verified using time-stamped video analysis, which automated the process and reduced trainer interference.",
+        "The results, derived from 1,012 automated sample presentations, showed an overall average detection rate of 94%: 157 correct indications of positive, 792 correct rejections of negative, 33 false positives, and 30 false negative indications. Interestingly, the team reported no notable difference in detection ability between the use of sample saliva and sample tracheal secretion.",
+        "While that pilot study had limitations\u2013in particular, the positive samples came only from severely affected, hospitalized COVID-19 patients and the negative samples were from healthy individuals with no indications of respiratory infections\u2013the authors of the present study found those results encouraging.",
+        "Support for additional research",
+        "A third study done by a team in Colombia tested 6 trained scent dogs of various and mixed breeds to develop a screening method for detecting COVID-19 in individuals who may be asymptomatic, pre-symptomatic, or symptomatic.",
+        "The researchers developed a device to safely expose the scent-trained dogs to VOC samples collected from respiratory secretions of COVID-19-positive patients, and their detailed study was conducted in 3 phases, with the third phase ongoing.",
+        "\u201cOf the 6,000 samples, the dogs\u2019 performances [in that study] resulted in a sensitivity of 95.5% and a selectivity of 99.6%,\u201d said Dickey. \u201cThe high success rates among different types of dogs suggests a range of breeds or mixed breeds may be trained to effectively screen for COVID-19.\u201d",
+        "Challenges remain",
+        "\u201cThe results of recently reported and ongoing research are encouraging; however, there remain challenges to be considered before broad-scale implementation of scent detecting dogs to identify and screen for COVID-19,\u201d said Junqueira. \u201cNonetheless, the research supports the use of scent detection dogs for pilot COVID-19 screening studies in venues such as airports and sporting events.\u201d",
+        "The authors hope that their research review, which presented recent information and perspectives on the potential for broad application of trained scent dogs for screening of COVID-19-infected individuals, can be used to assist in the development of future studies and implementation of screening programs to benefit preventative medical research."
+    ]
+},
+{
+    "Title": [
+        "\r\n        COVID-19: Risk of death 3.5 times higher than from flu, according to Canadian study        "
+    ],
+    "Article": [
+        "A new study published in\u00a0CMAJ (Canadian Medical Association Journal) found that the risk of death from COVID-19 was\u00a03.5 times higher than from influenza.",
+        "\u201cWe can now say definitively that COVID-19 is much more severe than seasonal influenza,\u201d says Dr. Amol Verma, St. Michael\u2019s Hospital, Unity Health Toronto, and the University of Toronto. \u201cPatients admitted to hospital in Ontario with COVID-19 had a 3.5 times greater risk of death, 1.5 times greater use of the ICU, and 1.5 times longer hospital stays than patients admitted with influenza.\u201d",
+        "These findings are similar to study results recently reported in France and the United States.",
+        "The study compared hospitalizations for influenza between November 1, 2019, and June 30, 2020, in 7 large hospitals in Toronto and Mississauga \u2014 areas with large populations and high levels of COVID-19. It included all patients admitted to medical services or the intensive care unit (ICU) for influenza or COVID-19. There were 783 hospitalizations for influenza in 763 unique patients compared with 1027 hospitalizations for COVID-19 in 972 unique patients (representing 23.5% of all hospitalizations for COVID-19 in Ontario during the study period).",
+        "Most patients hospitalized with COVID-19 had few other illnesses, and 21% were younger than 50 years of age. People younger than 50 also accounted for almost 1 in 4 (24%) admissions to the ICU.",
+        "\u201cMany people believe that COVID-19 mainly affects older people,\u201d says Dr. Verma. \u201cIt is true that COVID-19 affects older adults most severely. We found that among adults over 75 years who were hospitalized with COVID-19, nearly 40% died in hospital. But it can also cause very serious illness in younger adults. Adults under 50 accounted for 20% of all COVID-19 hospitalizations in the first wave of the pandemic. Nearly 1 in 3 adults younger than 50 hospitalized with COVID-19 required intensive care, and nearly 1 in 10 required an unplanned readmission to hospital after discharge.\u201d",
+        "People hospitalized for COVID-19 had greater use of the ICU, were more likely to be put on a ventilator and had longer hospital stays than people with influenza.",
+        "\u201cThese differences may be magnified by low levels of immunity to the novel coronavirus compared with seasonal influenza, which results from past infections and vaccination,\u201d says Dr. Verma. \u201cHopefully, the severity of COVID-19 will decrease over time as people are vaccinated against the virus and more effective treatments are identified. There is, unfortunately, also the possibility that variants of the virus could be even more severe.\u201d",
+        "\n",
+        ""
+    ]
+},
+{
+    "Title": [
+        "\r\n        Point-of-care COVID-19 tests: Study lists top performers        "
+    ],
+    "Article": [
+        "After screening more than 1,100 independently assessed, point-of-care COVID-19 tests, researchers at NSF International and Novateur Ventures have identified 5 direct (antigen/RNA) tests for detection of acute infection and 6 indirect (antibody) tests for detection of prior infection that meet the recently published World Health Organization (WHO) \u201cdesirable\u201d Target Product Profile (TPP) criteria. The researchers hope their work will help communities and healthcare systems make more informed decisions when choosing rapid, point-of-care COVID-19 tests.",
+        "TPPs outline the desired characteristics of a product aimed at a specific disease. The WHO TPPs can be used to compare key features of COVID-19 tests and select products that best respond to the public health needs of each region.",
+        "\u201cAs communities around the world consider expanding existing COVID-19 testing strategies to include large-scale, rapid point-of-care tests, it\u2019s essential for them to understand which tests work best in different situations,\u201d said study co-author Robyn Meurant, Executive Director of Health Sciences at NSF International. \u201cOur previous research found significant variability in performance and features of commercially available point-of-care tests, which makes it difficult to select and procure an appropriate test for a specific use case.\u201d",
+        "The study, COVID-19 Point-of-Care Diagnostics That Satisfy Global Target Product Profiles, appears in the January 2021 issue of the journal Diagnostics, an international peer-reviewed, open-access journal published monthly by the Multidisciplinary Publishing Institute (MDPI).",
+        "\u201cThe COVID-19 pandemic will continue to pose a major public health threat until vaccination mediated herd immunity is achieved,\u201d said study co-author Ali Ardakani, Founder & Managing Director at Novateur Ventures. \u201cMost projections predict vaccines will reach a large subset of the population in late 2021 or early 2022. Until then, there will continue to be a need for fast and accurate COVID-19 testing.\u201d",
+        "The researchers screened more than 300 COVID-19 diagnostic tests that have obtained U.S. Food and Drug Administration (FDA) Emergency Use Authorization (EUA), and more than 850 tests\u00ac listed on the Switzerland-based Foundation for Innovative New Diagnostics (FIND) database. From those tests, they analyzed two types of COVID-19 point-of-care (POC) tests: direct (antigen/RNA) tests to detect acute infection and indirect (antibody) tests to detect past infection.",
+        "Top Performing COVID-19 POC Tests",
+        "According to the study, the following COVID-19 POCTs met the WHO TPP \u201cdesirable\u201d criteria for clinical sensitivity/specificity, limit of detection, and time to results:",
+        "Direct (Antigen/RNA) POC Tests:",
+        "Indirect (Antibody) POC Tests:",
+        "\u201cA few weeks has passed since we conducted our research in December 2020, so it is likely that additional tests have undergone independent assessment and can meet the WHO criteria now,\u201d Robyn Meurant said. \u201cThe most important takeaway from this study is that purchasers of point-of-care COVID tests should do their research and make sure they are selecting a test that meets the WHO TPP criteria for their specific use case.\u201d",
+        "\n"
+    ]
+},
+{
+    "Title": [
+        "\r\n        Rabies treatment, KEDRAB, demonstrated to be safe and effective in children        "
+    ],
+    "Article": [
+        "A treatment, known as KEDRAB (Rabies Immune Globulin [Human]), currently used in the prevention of rabies has been demonstrated to be safe and effective for patients age 17 and under.",
+        "Results published today in\u00a0Human Vaccines & Immunotherapeutics\u00a0report the first and only pediatric trial of any human rabies immunoglobulin (HRIG) currently available in the US. Findings have been submitted to the US Food and Drug Administration for review.",
+        "In the United States, someone is treated for possible exposure to rabies every 10 minutes. Globally, the World Health Organization (WHO) estimates that rabies causes 59,000 human deaths annually in over 150 countries, with 95% of cases occurring in Africa and Asia \u2013 however they concede it is likely a gross underestimate of the true burden of disease.",
+        "The WHO also estimates that 40% of the global rabies disease burden occurs in children under 15 years of age, and that most encounters of the disease follow a dog bite.",
+        "Once clinical symptoms appear; rabies is virtually 100% fatal.",
+        "The current treatment for previously unvaccinated people potentially exposed to rabies is called rabies post-exposure prophylaxis (PEP), which includes thorough wound washing, passive neutralization of the virus with infiltration of human rabies immune globulin (HRIG) into and around the wound site, and a series of 4 doses of rabies vaccine given over a 2-week timeframe.",
+        "And in this latest study carried out by a team of international experts from the US and Israel, KEDRAB\u00ae (HRIG150) has become the first HRIG shown to be safe and effective in children when administered promptly and properly as part of the rabies PEP process.",
+        "\u201cDespite the large proportion of pediatric cases, limited safety and efficacy data had previously existed for use in pediatric patients,\u201d says senior author Dr James Linakis, from the Warren Alpert Medical School of Brown University.",
+        "\u201cEvidence from this KEDRAB US Pediatric Trial confirms that this product addresses an unmet need in children who may have been exposed to rabies, and gives healthcare providers confidence when preventing this deadly condition in countless numbers of young patients across the US,\u201d says lead author Dr Nicholas Hobart-Porter, Pediatric Emergency Physician at University of Arkansas for Medical Sciences and Arkansas Children\u2019s Hospital.",
+        "The study looked at a group of 30 trial participants, with suspected or confirmed rabies exposure, over an 84-day period (as to include a 3-month follow-up). Each participant received PEP. KEDRAB was infiltrated into and around detectable wound site(s) and/or given intramuscularly along with the first of a 4-dose series of rabies vaccine. Although the study did not include a placebo control group, placebo treatment of exposed patients is ethically unacceptable due to the near 100% fatality rate of rabies.",
+        "No participant showed an active rabies infection at any point, and there were no deaths and no serious adverse events.",
+        "While 70% of participants experienced some form of unrelated or related side effect, all of these were mild.",
+        "",
+        "\u201cThe study not only confirms the safety and efficacy of KEDRAB, but also that KEDRAB could be well tolerated by all patients who participated in this trial,\u201d says Novinyo Serge Amega, M.D., head of US Medical Affairs at Kedrion Biopharma. \u201cIt was the first and only pediatric study of any HRIG available in the United States and, as such, may provide a healthy degree of reassurance for physicians and others who treat children exposed to rabies.\u201d",
+        "In the US, rabies in humans is extremely rare; with around two deaths on average per year. The low incidence of human rabies in the US can be attributed to successful pet vaccination and animal control programs, public health surveillance and testing, and availability of post-exposure prophylaxis (PEP) for rabies.",
+        "It is important to note, that KEDRAB is not licensed outside the United States. Therefore, the authors cannot make any connection to its use in other nations. Availability, accessibility and affordability of PEP in developing nations remains a major component of the global burden of rabies.",
+        "Lima, Peru: 46.6% of COVID-19 cases in South Lima, Canine rabies risk",
+        "South Africa reports another human rabies death",
+        "China reports 4th rabies case from organ transplantation in four years"
+    ]
+}
+]
