@@ -1,5 +1,7 @@
 import requests
+from sys import getsizeof
 from bs4 import BeautifulSoup
+import boto3
 import json
 import os
 
@@ -9,6 +11,9 @@ categories = ['vaccines']
 f = open("article.json", "w")
 f.write("[\n")
 f.close()
+
+key_id = 'AKIAVZY2NVATXQRVYVEI'
+secret_key = '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'
 
 for cat in categories:
     for count in range(1,numberOfPages+1):
@@ -47,9 +52,18 @@ for cat in categories:
                 json_data["Article"].append(p.text)
 
             text = ''.join(json_data["Article"])
-            # print(text)
+            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
+            print(text)
+            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
             json_data["Article"] = text
 
+            comprehend = boto3.client(service_name='comprehend', region_name='ap-southeast-2', aws_access_key_id=key_id, aws_secret_access_key=secret_key)
+            entity_report = {} # Dictionary representation of json returned from Amazon Comprehend API
+            text_truncated = text[:4960]
+            entity_report = comprehend.detect_entities(Text=text_truncated, LanguageCode='en')
+            print(">>>>>>>>>>Entity Report for article>>>>>>>>>>>>>>>>>>>>>>>>")
+            print(entity_report)
+            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
             with open('disease_list.json') as disease_json_file:
                 ddata = json.load(disease_json_file)
                 for d in ddata:
