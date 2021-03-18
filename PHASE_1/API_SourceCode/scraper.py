@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import json
 import os
 
-numberOfPages = 2
-categories = ['vaccines','research']
+numberOfPages = 1
+categories = ['vaccines']
 
 f = open("article.json", "w")
 f.write("[\n")
@@ -39,9 +39,9 @@ for cat in categories:
             for span_tag in date_value.findAll('span'):
                 span_tag.replace_with('')
 
-            print(date_value.text)
-            json_data = {"Title":[],"Article":[]}
+            json_data = {"Title":[],"Article":[],"PublishedDate":[],"Diseases":[],"Syndromes":[]}
             json_data["Title"].append(title.text)
+            json_data["PublishedDate"].append(date_value.text)
 
             for p in para:
                 json_data["Article"].append(p.text)
@@ -49,6 +49,19 @@ for cat in categories:
             text = ''.join(json_data["Article"])
             # print(text)
             json_data["Article"] = text
+
+            with open('disease_list.json') as disease_json_file:
+                ddata = json.load(disease_json_file)
+                for d in ddata:
+                    if d['name'].lower() in text.lower():
+                        json_data["Diseases"].append(d['name'])
+
+            with open('syndrome_list.json') as syndrome_json_file:
+                sdata = json.load(syndrome_json_file)
+                for s in sdata:
+                    if s['name'].lower() in text.lower():
+                        json_data["Syndromes"].append(s['name'])
+
             f = open("article.json", "a")
             f.write(json.dumps(json_data,indent=4))
             f.write(",\n")
@@ -60,4 +73,3 @@ f = open("article.json", "a")
 f.truncate(f.tell() - remove_chars * 2)
 f.write("\n]")
 f.close()
-
