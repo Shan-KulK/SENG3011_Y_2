@@ -1,0 +1,494 @@
+{
+    "Entities": [
+        {
+            "Score": 0.9985879063606262,
+            "Type": "ORGANIZATION",
+            "Text": "INOVIO",
+            "BeginOffset": 23,
+            "EndOffset": 29
+        },
+        {
+            "Score": 0.9479143619537354,
+            "Type": "QUANTITY",
+            "Text": "first participant",
+            "BeginOffset": 45,
+            "EndOffset": 62
+        },
+        {
+            "Score": 0.9130576252937317,
+            "Type": "OTHER",
+            "Text": "Phase 1B",
+            "BeginOffset": 78,
+            "EndOffset": 86
+        },
+        {
+            "Score": 0.8024333715438843,
+            "Type": "OTHER",
+            "Text": "INO-4500",
+            "BeginOffset": 106,
+            "EndOffset": 114
+        },
+        {
+            "Score": 0.5498688220977783,
+            "Type": "OTHER",
+            "Text": "Lassa",
+            "BeginOffset": 146,
+            "EndOffset": 151
+        },
+        {
+            "Score": 0.987854540348053,
+            "Type": "LOCATION",
+            "Text": "Ghana.The",
+            "BeginOffset": 162,
+            "EndOffset": 171
+        },
+        {
+            "Score": 0.948460042476654,
+            "Type": "OTHER",
+            "Text": "Phase 1B",
+            "BeginOffset": 172,
+            "EndOffset": 180
+        },
+        {
+            "Score": 0.8877546787261963,
+            "Type": "OTHER",
+            "Text": "LSV-002",
+            "BeginOffset": 197,
+            "EndOffset": 204
+        },
+        {
+            "Score": 0.9689206480979919,
+            "Type": "ORGANIZATION",
+            "Text": "Noguchi Memorial Institute for Medical Research",
+            "BeginOffset": 222,
+            "EndOffset": 269
+        },
+        {
+            "Score": 0.9508635401725769,
+            "Type": "LOCATION",
+            "Text": "Accra, Ghana",
+            "BeginOffset": 273,
+            "EndOffset": 285
+        },
+        {
+            "Score": 0.9797096848487854,
+            "Type": "QUANTITY",
+            "Text": "first vaccine",
+            "BeginOffset": 294,
+            "EndOffset": 307
+        },
+        {
+            "Score": 0.5136924386024475,
+            "Type": "QUANTITY",
+            "Text": "trial",
+            "BeginOffset": 317,
+            "EndOffset": 322
+        },
+        {
+            "Score": 0.7447065711021423,
+            "Type": "OTHER",
+            "Text": "Lassa",
+            "BeginOffset": 327,
+            "EndOffset": 332
+        },
+        {
+            "Score": 0.9984747171401978,
+            "Type": "LOCATION",
+            "Text": "West Africa",
+            "BeginOffset": 358,
+            "EndOffset": 369
+        },
+        {
+            "Score": 0.7997919917106628,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "INO-4500",
+            "BeginOffset": 403,
+            "EndOffset": 411
+        },
+        {
+            "Score": 0.9540427923202515,
+            "Type": "QUANTITY",
+            "Text": "first vaccine",
+            "BeginOffset": 424,
+            "EndOffset": 437
+        },
+        {
+            "Score": 0.7815378308296204,
+            "Type": "OTHER",
+            "Text": "Lassa",
+            "BeginOffset": 452,
+            "EndOffset": 457
+        },
+        {
+            "Score": 0.9476420283317566,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "INO-4500",
+            "BeginOffset": 506,
+            "EndOffset": 514
+        },
+        {
+            "Score": 0.9963337182998657,
+            "Type": "ORGANIZATION",
+            "Text": "Coalition for Epidemic Preparedness Innovations",
+            "BeginOffset": 542,
+            "EndOffset": 589
+        },
+        {
+            "Score": 0.9689823389053345,
+            "Type": "ORGANIZATION",
+            "Text": "CEPI",
+            "BeginOffset": 591,
+            "EndOffset": 595
+        },
+        {
+            "Score": 0.9932820796966553,
+            "Type": "ORGANIZATION",
+            "Text": "INOVIO",
+            "BeginOffset": 798,
+            "EndOffset": 804
+        },
+        {
+            "Score": 0.9967302083969116,
+            "Type": "QUANTITY",
+            "Text": "$56 million",
+            "BeginOffset": 827,
+            "EndOffset": 838
+        },
+        {
+            "Score": 0.9965559244155884,
+            "Type": "ORGANIZATION",
+            "Text": "CEPI",
+            "BeginOffset": 850,
+            "EndOffset": 854
+        },
+        {
+            "Score": 0.9993370175361633,
+            "Type": "DATE",
+            "Text": "2018",
+            "BeginOffset": 858,
+            "EndOffset": 862
+        },
+        {
+            "Score": 0.9473500847816467,
+            "Type": "OTHER",
+            "Text": "Lassa fever",
+            "BeginOffset": 925,
+            "EndOffset": 936
+        },
+        {
+            "Score": 0.9758771657943726,
+            "Type": "OTHER",
+            "Text": "Middle East Respiratory Syndrome",
+            "BeginOffset": 941,
+            "EndOffset": 973
+        },
+        {
+            "Score": 0.9682421684265137,
+            "Type": "OTHER",
+            "Text": "MERS",
+            "BeginOffset": 975,
+            "EndOffset": 979
+        },
+        {
+            "Score": 0.9969156980514526,
+            "Type": "ORGANIZATION",
+            "Text": "INOVIO",
+            "BeginOffset": 982,
+            "EndOffset": 988
+        },
+        {
+            "Score": 0.9923559427261353,
+            "Type": "ORGANIZATION",
+            "Text": "CEPI",
+            "BeginOffset": 993,
+            "EndOffset": 997
+        },
+        {
+            "Score": 0.5375491976737976,
+            "Type": "QUANTITY",
+            "Text": "Phase",
+            "BeginOffset": 1108,
+            "EndOffset": 1113
+        },
+        {
+            "Score": 0.36512306332588196,
+            "Type": "OTHER",
+            "Text": "2",
+            "BeginOffset": 1114,
+            "EndOffset": 1115
+        },
+        {
+            "Score": 0.9940169453620911,
+            "Type": "PERSON",
+            "Text": "J. Joseph Kim",
+            "BeginOffset": 1128,
+            "EndOffset": 1141
+        },
+        {
+            "Score": 0.8467792272567749,
+            "Type": "PERSON",
+            "Text": "President",
+            "BeginOffset": 1143,
+            "EndOffset": 1152
+        },
+        {
+            "Score": 0.6713771820068359,
+            "Type": "PERSON",
+            "Text": "CEO",
+            "BeginOffset": 1157,
+            "EndOffset": 1160
+        },
+        {
+            "Score": 0.9921786785125732,
+            "Type": "ORGANIZATION",
+            "Text": "INOVIO",
+            "BeginOffset": 1164,
+            "EndOffset": 1170
+        },
+        {
+            "Score": 0.9064905047416687,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "INO-4500",
+            "BeginOffset": 1201,
+            "EndOffset": 1209
+        },
+        {
+            "Score": 0.5260841846466064,
+            "Type": "QUANTITY",
+            "Text": "Phase 1",
+            "BeginOffset": 1281,
+            "EndOffset": 1288
+        },
+        {
+            "Score": 0.9788962006568909,
+            "Type": "LOCATION",
+            "Text": "U.S.",
+            "BeginOffset": 1321,
+            "EndOffset": 1325
+        },
+        {
+            "Score": 0.638420820236206,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "INO-4500",
+            "BeginOffset": 1361,
+            "EndOffset": 1369
+        },
+        {
+            "Score": 0.5191460251808167,
+            "Type": "QUANTITY",
+            "Text": "Phase",
+            "BeginOffset": 1375,
+            "EndOffset": 1380
+        },
+        {
+            "Score": 0.7357633113861084,
+            "Type": "OTHER",
+            "Text": "1B",
+            "BeginOffset": 1381,
+            "EndOffset": 1383
+        },
+        {
+            "Score": 0.8779745697975159,
+            "Type": "OTHER",
+            "Text": "Lassa",
+            "BeginOffset": 1436,
+            "EndOffset": 1441
+        },
+        {
+            "Score": 0.9912772178649902,
+            "Type": "ORGANIZATION",
+            "Text": "INOVIO",
+            "BeginOffset": 1509,
+            "EndOffset": 1515
+        },
+        {
+            "Score": 0.3535626530647278,
+            "Type": "ORGANIZATION",
+            "Text": "CELLECTRA®",
+            "BeginOffset": 1622,
+            "EndOffset": 1632
+        },
+        {
+            "Score": 0.9911969900131226,
+            "Type": "PERSON",
+            "Text": "Kim",
+            "BeginOffset": 1654,
+            "EndOffset": 1657
+        },
+        {
+            "Score": 0.7906849384307861,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "INO-4800",
+            "BeginOffset": 1739,
+            "EndOffset": 1747
+        },
+        {
+            "Score": 0.6688410639762878,
+            "Type": "OTHER",
+            "Text": "Phase 2",
+            "BeginOffset": 1756,
+            "EndOffset": 1763
+        },
+        {
+            "Score": 0.8230749368667603,
+            "Type": "OTHER",
+            "Text": "Phase 2/3 COVID-19",
+            "BeginOffset": 1788,
+            "EndOffset": 1806
+        },
+        {
+            "Score": 0.9973856806755066,
+            "Type": "ORGANIZATION",
+            "Text": "CEPI",
+            "BeginOffset": 1833,
+            "EndOffset": 1837
+        },
+        {
+            "Score": 0.92472904920578,
+            "Type": "COMMERCIAL_ITEM",
+            "Text": "INO-4500",
+            "BeginOffset": 1938,
+            "EndOffset": 1946
+        },
+        {
+            "Score": 0.6338573694229126,
+            "Type": "OTHER",
+            "Text": "Lassa",
+            "BeginOffset": 1978,
+            "EndOffset": 1983
+        },
+        {
+            "Score": 0.9991493821144104,
+            "Type": "PERSON",
+            "Text": "Melanie Saville",
+            "BeginOffset": 1994,
+            "EndOffset": 2009
+        },
+        {
+            "Score": 0.6689310669898987,
+            "Type": "PERSON",
+            "Text": "Director",
+            "BeginOffset": 2011,
+            "EndOffset": 2019
+        },
+        {
+            "Score": 0.7767870426177979,
+            "Type": "ORGANIZATION",
+            "Text": "Vaccine R&D",
+            "BeginOffset": 2023,
+            "EndOffset": 2034
+        },
+        {
+            "Score": 0.9883832335472107,
+            "Type": "ORGANIZATION",
+            "Text": "CEPI",
+            "BeginOffset": 2038,
+            "EndOffset": 2042
+        },
+        {
+            "Score": 0.9966567754745483,
+            "Type": "ORGANIZATION",
+            "Text": "INOVIO",
+            "BeginOffset": 2087,
+            "EndOffset": 2093
+        },
+        {
+            "Score": 0.891285240650177,
+            "Type": "QUANTITY",
+            "Text": "first",
+            "BeginOffset": 2105,
+            "EndOffset": 2110
+        },
+        {
+            "Score": 0.6147348284721375,
+            "Type": "OTHER",
+            "Text": "Lassa",
+            "BeginOffset": 2116,
+            "EndOffset": 2121
+        },
+        {
+            "Score": 0.7415869832038879,
+            "Type": "LOCATION",
+            "Text": "African",
+            "BeginOffset": 2143,
+            "EndOffset": 2150
+        },
+        {
+            "Score": 0.9292756915092468,
+            "Type": "DATE",
+            "Text": "today",
+            "BeginOffset": 2167,
+            "EndOffset": 2172
+        },
+        {
+            "Score": 0.9977790713310242,
+            "Type": "LOCATION",
+            "Text": "West Africa",
+            "BeginOffset": 2356,
+            "EndOffset": 2367
+        },
+        {
+            "Score": 0.996889054775238,
+            "Type": "LOCATION",
+            "Text": "Ghana",
+            "BeginOffset": 2379,
+            "EndOffset": 2384
+        },
+        {
+            "Score": 0.9648471474647522,
+            "Type": "ORGANIZATION",
+            "Text": "CEPI",
+            "BeginOffset": 2683,
+            "EndOffset": 2687
+        },
+        {
+            "Score": 0.6696600914001465,
+            "Type": "OTHER",
+            "Text": "Lassa fever",
+            "BeginOffset": 2768,
+            "EndOffset": 2779
+        },
+        {
+            "Score": 0.9992973208427429,
+            "Type": "LOCATION",
+            "Text": "West Africa",
+            "BeginOffset": 2822,
+            "EndOffset": 2833
+        },
+        {
+            "Score": 0.8628264665603638,
+            "Type": "DATE",
+            "Text": "late last year",
+            "BeginOffset": 2834,
+            "EndOffset": 2848
+        },
+        {
+            "Score": 0.7894374132156372,
+            "Type": "PERSON",
+            "Text": "Professor",
+            "BeginOffset": 2850,
+            "EndOffset": 2859
+        },
+        {
+            "Score": 0.9964147806167603,
+            "Type": "PERSON",
+            "Text": "Kwadwo A. Koram",
+            "BeginOffset": 2860,
+            "EndOffset": 2875
+        },
+        {
+            "Score": 0.9982694983482361,
+            "Type": "ORGANIZATION",
+            "Text": "Noguchi Medical Center",
+            "BeginOffset": 2934,
+            "EndOffset": 2956
+        },
+        {
+            "Score": 0.9929054975509644,
+            "Type": "ORGANIZATION",
+            "Text": "INOVIO Pharmaceuticals",
+            "BeginOffset": 3138,
+            "EndOffset": 3160
+        }
+    ]
+}

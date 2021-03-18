@@ -1,14 +1,19 @@
 import requests
+from sys import getsizeof
 from bs4 import BeautifulSoup
+import boto3
 import json
 import os
 
-numberOfPages = 2
-categories = ['vaccines','research']
+numberOfPages = 1
+categories = ['vaccines']
 
 f = open("article.json", "w")
 f.write("[\n")
 f.close()
+
+key_id = 'AKIAVZY2NVATXQRVYVEI'
+secret_key = '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'
 
 for cat in categories:
     for count in range(1,numberOfPages+1):
@@ -36,12 +41,44 @@ for cat in categories:
             para = article.find_all('p')
             print(date_value)
 
-            json_data = {"Title":[],"Article":[]}
+            meta_data = article.find("div", {"class": "single_meta"})
+            date_object = meta_data.find("div", {"class": "datesingle"})
+            date_value = date_object.find("div", {"class":"datsingle"})
+            para = article.find_all('p')
+            for span_tag in date_value.findAll('span'):
+                span_tag.replace_with('')
+
+            json_data = {"Title":[],"Article":[],"PublishedDate":[],"Diseases":[],"Syndromes":[]}
             json_data["Title"].append(title.text)
-            # json_data["Date_of_Publication"].append(title.text)
+            json_data["PublishedDate"].append(date_value.text)
 
             for p in para:
                 json_data["Article"].append(p.text)
+
+            text = ''.join(json_data["Article"])
+            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
+            print(text)
+            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
+            json_data["Article"] = text
+
+            comprehend = boto3.client(service_name='comprehend', region_name='ap-southeast-2', aws_access_key_id=key_id, aws_secret_access_key=secret_key)
+            entity_report = {} # Dictionary representation of json returned from Amazon Comprehend API
+            text_truncated = text[:4960]
+            entity_report = comprehend.detect_entities(Text=text_truncated, LanguageCode='en')
+            print(">>>>>>>>>>Entity Report for article>>>>>>>>>>>>>>>>>>>>>>>>")
+            print(entity_report)
+            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
+            with open('disease_list.json') as disease_json_file:
+                ddata = json.load(disease_json_file)
+                for d in ddata:
+                    if d['name'].lower() in text.lower():
+                        json_data["Diseases"].append(d['name'])
+
+            with open('syndrome_list.json') as syndrome_json_file:
+                sdata = json.load(syndrome_json_file)
+                for s in sdata:
+                    if s['name'].lower() in text.lower():
+                        json_data["Syndromes"].append(s['name'])
 
             f = open("article.json", "a")
             f.write(json.dumps(json_data,indent=4))
@@ -54,4 +91,3 @@ f = open("article.json", "a")
 f.truncate(f.tell() - remove_chars * 2)
 f.write("\n]")
 f.close()
-
