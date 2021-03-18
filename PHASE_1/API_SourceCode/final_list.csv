@@ -1,0 +1,1010 @@
+Text,Type
+unknown,DISEASE
+other,DISEASE
+anthrax cutaneous,DISEASE
+anthrax gastrointestinous,DISEASE
+anthrax inhalation,DISEASE
+botulism,DISEASE
+brucellosis,DISEASE
+chikungunya,DISEASE
+cholera,DISEASE
+cryptococcosis,DISEASE
+cryptosporidiosis,DISEASE
+crimean-congo haemorrhagic fever,DISEASE
+dengue,DISEASE
+diphteria,DISEASE
+ebola haemorrhagic fever,DISEASE
+ehec (e.coli),DISEASE
+enterovirus 71 infection,DISEASE
+influenza a/h5n1,DISEASE
+influenza a/h7n9,DISEASE
+influenza a/h9n2,DISEASE
+influenza a/h1n1,DISEASE
+influenza a/h1n2,DISEASE
+influenza a/h3n5,DISEASE
+influenza a/h3n2,DISEASE
+influenza a/h2n2,DISEASE
+"hand, foot and mouth disease",DISEASE
+hantavirus,DISEASE
+hepatitis a,DISEASE
+hepatitis b,DISEASE
+hepatitis c,DISEASE
+hepatitis d,DISEASE
+hepatitis e,DISEASE
+histoplasmosis,DISEASE
+hiv/aids,DISEASE
+lassa fever,DISEASE
+malaria,DISEASE
+marburg virus disease,DISEASE
+measles,DISEASE
+mers-cov,DISEASE
+mumps,DISEASE
+nipah virus,DISEASE
+norovirus infection,DISEASE
+pertussis,DISEASE
+plague,DISEASE
+pneumococcus pneumonia,DISEASE
+poliomyelitis,DISEASE
+q fever,DISEASE
+rabies,DISEASE
+rift valley fever,DISEASE
+rotavirus infection,DISEASE
+rubella,DISEASE
+salmonellosis,DISEASE
+sars,DISEASE
+shigellosis,DISEASE
+smallpox,DISEASE
+staphylococcal enterotoxin b,DISEASE
+thypoid fever,DISEASE
+tuberculosis,DISEASE
+tularemia,DISEASE
+vaccinia and cowpox,DISEASE
+varicella,DISEASE
+west nile virus,DISEASE
+yellow fever,DISEASE
+yersiniosis,DISEASE
+zika,DISEASE
+legionares,DISEASE
+listeriosis,DISEASE
+monkeypox,DISEASE
+COVID-19,DISEASE
+thymus gland disease,DISEASE
+"Intellectual disability, mild",DISEASE
+Specific learning disability,DISEASE
+Mild global developmental delay,DISEASE
+Inability to walk by childhood/adolescence,DISEASE
+Poor eye contact,DISEASE
+Personality disorder,DISEASE
+Parasomnia,DISEASE
+social communication impairment,DISEASE
+Abnormal pyramidal sign,DISEASE
+Paraparesis,DISEASE
+Gait ataxia,DISEASE
+Neurological speech impairment,DISEASE
+asymptomatic neurocognitive impairment,DISEASE
+Generalized hyperreflexia,DISEASE
+Reduced tendon reflexes,DISEASE
+Abnormal posterior eye segment morphology,DISEASE
+Chorioretinal degeneration,DISEASE
+severe pre-eclampsia,DISEASE
+Uveal melanoma,DISEASE
+Low intraocular pressure,DISEASE
+necrosis,DISEASE
+post term pregnancy,DISEASE
+Transient tyrosinemia of the newborn,DISEASE
+Congenital sensorineural hearing impairment,DISEASE
+Anterior creases of earlobe,DISEASE
+Femoral bowing,DISEASE
+Congenital finger flexion contractures,DISEASE
+Tibial pseudarthrosis,DISEASE
+Patellar hypoplasia,DISEASE
+Cardiac shunt,DISEASE
+Abnormality of metabolism/homeostasis,DISEASE
+Abnormal heart morphology,DISEASE
+Insulinogenic index measurement,DISEASE
+tri-iodothyronine measurement,DISEASE
+long QT syndrome 16,DISEASE
+monocyte percentage of leukocytes,DISEASE
+Ovalocyte Count,DISEASE
+Prorubricyte Count,DISEASE
+albumin:globulin ratio measurement,DISEASE
+Hemoglobin B Measurement,DISEASE
+red blood cell distribution width,DISEASE
+complement C3d subcomponent measurement,DISEASE
+mosquito bite measurement,DISEASE
+gestational weight gain measurement,DISEASE
+egg allergy measurement,DISEASE
+pack-years measurement,DISEASE
+Thyroid preparation use measurement,DISEASE
+susceptibility to plantar warts measurement,DISEASE
+Anti-rubella virus IgG measurement,DISEASE
+susceptibility to mumps measurement,DISEASE
+susceptibility to mononucleosis measurement,DISEASE
+susceptibility to Mycobacterium tuberculosis infection measurement,DISEASE
+amino acid measurement,DISEASE
+isoleucine measurement,DISEASE
+nicotine glucuronidation measurement,DISEASE
+metabolic network measurement,DISEASE
+advanced glycation end-product measurement,DISEASE
+phosphatidylcholine 36:5 measurement,DISEASE
+myocardial disorder,DISEASE
+heart rate response to recovery post exercise,DISEASE
+rheumatic myocarditis,DISEASE
+body weight,DISEASE
+waist-hip ratio,DISEASE
+symptomatic heart failure,DISEASE
+White forelock with malformations,DISEASE
+putamen volume,DISEASE
+corpus callosum mid-anterior volume measurement,DISEASE
+illness severity status,DISEASE
+transforming growth factor beta measurement,DISEASE
+renal system measurement,DISEASE
+APOL1 risk genotype carrier status,DISEASE
+serum urea measurement,DISEASE
+cerebrospinal fluid biomarker measurement,DISEASE
+carboxylic acid measurement,DISEASE
+LDL peak particle diameter measurement,DISEASE
+sphingomyelin 16:0 measurement,DISEASE
+bone sarcoma,DISEASE
+upper digestive tract disease,DISEASE
+chondroblastic osteosarcoma,DISEASE
+Phakomatosis pigmentovascularis,DISEASE
+Neurofibromatosis type 2,DISEASE
+Familial infantile bilateral striatal necrosis,DISEASE
+Fatal post-viral neurodegenerative disorder,DISEASE
+chronic encephalitis,DISEASE
+mosquito-borne viral encephalitis,DISEASE
+encephalitis,DISEASE
+bacterial meningitis,DISEASE
+Listeria meningitis,DISEASE
+acquired Creutzfeldt-Jakob disease,DISEASE
+tick paralysis,DISEASE
+pituitary adenocarcinoma (disease),DISEASE
+"charcot-marie-tooth disease, axonal, type 2t",DISEASE
+"Charcot-Marie-Tooth disease, dominant intermediate G",DISEASE
+Autosomal recessive hereditary demyelinating motor and sensory neuropathy,DISEASE
+SURF1-related Charcot-Marie-Tooth disease type 4,DISEASE
+X-linked hereditary sensory and autonomic neuropathy with deafness,DISEASE
+Hereditary sensory and autonomic neuropathy type 6,DISEASE
+Autosomal recessive Emery-Dreifuss muscular dystrophy,DISEASE
+Spinocerebellar ataxia type 1 with axonal neuropathy,DISEASE
+Spinal atrophy - ophthalmoplegia - pyramidal syndrome,DISEASE
+Corpus callosum agenesis - neuronopathy,DISEASE
+Autosomal dominant congenital benign spinal muscular atrophy,DISEASE
+Spinocerebellar ataxia type 2,DISEASE
+Triple A syndrome,DISEASE
+Polyneuropathy - hearing loss - ataxia - retinitis pigmentosa - cataract,DISEASE
+Rare hereditary metabolic disease with peripheral neuropathy,DISEASE
+Spinocerebellar ataxia with epilepsy,DISEASE
+Pyruvate dehydrogenase phosphatase deficiency,DISEASE
+MEHMO syndrome,DISEASE
+Tay-Sachs disease,DISEASE
+"Tay-Sachs disease, B variant, juvenile form",DISEASE
+autosomal erythropoietic protoporphyria,DISEASE
+Neonatal adrenoleukodystrophy,DISEASE
+Chédiak-Higashi syndrome,DISEASE
+polyneuritis,DISEASE
+acquired peripheral movement disorder,DISEASE
+multiple sclerosis variant,DISEASE
+episodic kinesigenic dyskinesia 1,DISEASE
+Benign essential blepharospasm,DISEASE
+Progressive non-fluent aphasia,DISEASE
+COASY protein-associated neurodegeneration,DISEASE
+Aceruloplasminemia,DISEASE
+chorea,DISEASE
+"intellectual developmental disorder with dysmorphic facies, seizures, and distal limb anomalies",DISEASE
+Tourette syndrome,DISEASE
+Early-onset parkinsonism - intellectual disability,DISEASE
+Autosomal dominant cerebellar ataxia type 3,DISEASE
+RIDDLE syndrome,DISEASE
+"Autosomal recessive ataxia, Beauce type",DISEASE
+Dysequilibrium syndrome,DISEASE
+Autosomal recessive cerebellar ataxia-pyramidal signs-nystagmus-oculomotor apraxia syndrome,DISEASE
+"spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy",DISEASE
+Hereditary episodic ataxia,DISEASE
+Episodic ataxia type 7,DISEASE
+Lethal ataxia with deafness and optic atrophy,DISEASE
+Ptosis - syndactyly - learning difficulties,DISEASE
+Mucopolysaccharidosis type 1,DISEASE
+Catel-Manzke syndrome,DISEASE
+"intellectual disability, autosomal dominant 47",DISEASE
+Galactosialidosis,DISEASE
+Male hypergonadotropic hypogonadism - intellectual disability - skeletal anomalies,DISEASE
+Epidermolysis bullosa simplex with muscular dystrophy,DISEASE
+macrothrombocytopenia-lymphedema-developmental delay-facial dysmorphism-camptodactyly syndrome,DISEASE
+Distal tetrasomy 15q,DISEASE
+"Mitochondrial DNA depletion syndrome, encephalomyopathic form",DISEASE
+Curry-Jones syndrome,DISEASE
+Oculodentodigital dysplasia,DISEASE
+Bardet-Biedl syndrome 5,DISEASE
+Silver-Russell syndrome due to imprinting defect of 11p15,DISEASE
+Silver-Russell syndrome due to maternal uniparental disomy of chromosome 7,DISEASE
+9p13 microdeletion syndrome,DISEASE
+Atelosteogenesis type II,DISEASE
+19p13.13 microdeletion syndrome,DISEASE
+Hartsfield-Bixler-Demyer syndrome,DISEASE
+Muscle-eye-brain disease,DISEASE
+Lissencephaly with cerebellar hypoplasia type A,DISEASE
+Acrocallosal syndrome,DISEASE
+X-linked intellectual disability - cerebellar hypoplasia,DISEASE
+"Microcephalic osteodysplastic dysplasia, Saul-Wilson type",DISEASE
+Seckel syndrome 1,DISEASE
+Microcephaly-cerebellar hypoplasia-cardiac conduction defect syndrome,DISEASE
+Central bilateral macrogyria,DISEASE
+Polymicrogyria,DISEASE
+periventricular nodular heterotopia 9,DISEASE
+Solitary median maxillary central incisor syndrome,DISEASE
+Hypothalamic hamartomas with gelastic seizures,DISEASE
+sporadic fetal brain disruption sequence,DISEASE
+"macrocephaly/megalencephaly syndrome, autosomal recessive",DISEASE
+Cervical spina bifida aperta,DISEASE
+Lumbosacral spina bifida aperta,DISEASE
+Upper thoracic spina bifida aperta,DISEASE
+Parietal foramina,DISEASE
+Duane retraction syndrome,DISEASE
+Isolated Dandy-Walker malformation without hydrocephalus,DISEASE
+"Intellectual disability, Buenos-Aires type",DISEASE
+Carpenter-Waziri syndrome,DISEASE
+"X-linked intellectual disability, Stevenson type",DISEASE
+"Osteodysplasty, Melnick-Needles type",DISEASE
+Atherosclerosis - deafness - diabetes - epilepsy - nephropathy,DISEASE
+MEGDEL syndrome,DISEASE
+hearing impairment and infertile male syndrome,DISEASE
+Caudal appendage - deafness,DISEASE
+Lowe-Kohn-Cohen syndrome,DISEASE
+Johanson-Blizzard syndrome,DISEASE
+Retinitis pigmentosa - intellectual disability - deafness - hypogenitalism,DISEASE
+Otopalatodigital syndrome,DISEASE
+Genitopatellar syndrome,DISEASE
+Alpha-N-acetylgalactosaminidase deficiency type 3,DISEASE
+Tall stature-intellectual disability-facial dysmorphism syndrome,DISEASE
+"X-linked intellectual disability, Sutherland-Haan type",DISEASE
+Trisomy 12p,DISEASE
+"X-linked intellectual disability, Raynaud type",DISEASE
+"X-linked intellectual disability, Brooks type",DISEASE
+"X-linked intellectual disability, Cantagrel type",DISEASE
+X-linked intellectual disability - cardiomegaly - congestive heart failure,DISEASE
+Menkes disease,DISEASE
+Severe intellectual disability and progressive spastic paraplegia,DISEASE
+COG5-CDG,DISEASE
+PGM3-CDG,DISEASE
+"intellectual disability, X-linked 21",DISEASE
+"3-phosphoglycerate dehydrogenase deficiency, infantile/juvenile form",DISEASE
+Huntington disease-like syndrome,DISEASE
+"Hereditary cerebral hemorrhage with amyloidosis, Italian type",DISEASE
+Early-onset autosomal dominant Alzheimer disease,DISEASE
+Inclusion body myopathy with Paget disease of bone and frontotemporal dementia,DISEASE
+GM2 gangliosidosis,DISEASE
+Autosomal recessive limb-girdle muscular dystrophy type 2O,DISEASE
+Central Nervous System Anaplastic Large Cell Lymphoma,DISEASE
+"migraine, familial hemiplegic, 3",DISEASE
+familial hemiplegic migraine,DISEASE
+undetermined early-onset epileptic encephalopathy,DISEASE
+X-linked mixed deafness with perilymphatic gusher,DISEASE
+Epidermal nevus syndrome,DISEASE
+"Brain calcification, Rajab type",DISEASE
+CARASIL,DISEASE
+Genetic muscular channelopathy,DISEASE
+Hypokalemic periodic paralysis,DISEASE
+Qualitative or quantitative defects of TRIM32,DISEASE
+Severe congenital nemaline myopathy,DISEASE
+Qualitative or quantitative defects of glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase -,DISEASE
+Genetic skeletal muscle disease,DISEASE
+Benign Samaritan congenital myopathy,DISEASE
+Generalized congenital lipodystrophy with myopathy,DISEASE
+Adenosine monophosphate deaminase deficiency,DISEASE
+"Mitochondrial DNA depletion syndrome, myopathic form",DISEASE
+Dorfman-Chanarin disease,DISEASE
+myopathy of extraocular muscle,DISEASE
+Pericardial and diaphragmatic defect,DISEASE
+Autosomal dominant limb-girdle muscular dystrophy,DISEASE
+KLHL9-related childhood-onset distal myopathy,DISEASE
+"Autosomal recessive optic atrophy, OPA6 type",DISEASE
+Progressive cavitating leukoencephalopathy,DISEASE
+Leukoencephalopathy - metaphyseal chondrodysplasia,DISEASE
+Autosomal recessive complex spastic paraplegia,DISEASE
+Autosomal recessive spastic paraplegia type 45,DISEASE
+Autosomal recessive spastic paraplegia type 67,DISEASE
+Autosomal recessive spastic paraplegia type 18,DISEASE
+Autosomal recessive pure spastic paraplegia,DISEASE
+Autosomal dominant spastic paraplegia type 13,DISEASE
+Retinitis pigmentosa,DISEASE
+Choroideremia,DISEASE
+Retinal macular dystrophy type 2,DISEASE
+Familial primary hypomagnesemia with hypercalciuria and nephrocalcinosis with severe ocular involvement,DISEASE
+Fundus pulverulentus,DISEASE
+Progressive cone dystrophy,DISEASE
+Sorsby's fundus dystrophy,DISEASE
+Retinitis punctata albescens,DISEASE
+Bradyopsia,DISEASE
+red-green color blindness,DISEASE
+pathological gambling,DISEASE
+non-lobar intracerebral hemorrhage,DISEASE
+carotid artery disease,DISEASE
+age-related hearing impairment,DISEASE
+endolymphatic hydrops,DISEASE
+complex neurodevelopmental disorder,DISEASE
+autism spectrum disorder,DISEASE
+Asperger syndrome,DISEASE
+retinopathy,DISEASE
+retinal degeneration,DISEASE
+macular holes,DISEASE
+neuroma,DISEASE
+optic nerve neoplasm,DISEASE
+supratentorial ependymal tumor,DISEASE
+diffuse intrinsic pontine glioma,DISEASE
+benign neoplasm of brain,DISEASE
+cerebral astrocytoma,DISEASE
+extracranial neuroblastoma,DISEASE
+ganglioneuroma,DISEASE
+pilomyxoid astrocytoma,DISEASE
+low grade ependymoma,DISEASE
+meningeal neoplasm,DISEASE
+Papillary Meningioma,DISEASE
+grade III meningioma,DISEASE
+leptomeningeal metastasis,DISEASE
+Alzheimer's disease,DISEASE
+headache disorder,DISEASE
+temporal lobe epilepsy,DISEASE
+"epilepsy, nocturnal frontal lobe",DISEASE
+amino acid or protein metabolism disease with epilepsy,DISEASE
+infancy electroclinical syndrome,DISEASE
+"encephalopathy, acute, infection-induced",DISEASE
+thalamic disease,DISEASE
+circadian rhythm sleep disorder,DISEASE
+anorexia nervosa,DISEASE
+bipolar II disorder,DISEASE
+depressive disorder,DISEASE
+panic disorder without agoraphobia,DISEASE
+phencyclidine abuse,DISEASE
+schizoaffective disorder,DISEASE
+Schizoaffective disorder-bipolar type,DISEASE
+post-operative delirium,DISEASE
+benign peripheral nerve sheath tumor,DISEASE
+autonomic nervous system neoplasm,DISEASE
+ethmoid sinus squamous cell carcinoma,DISEASE
+otitis externa,DISEASE
+sympathetic nervous system disease,DISEASE
+causalgia,DISEASE
+autoimmune disease of the nervous system,DISEASE
+disease of visual system,DISEASE
+Coloboma of eye lens,DISEASE
+Aniridia - absent patella,DISEASE
+ciliary body disease,DISEASE
+Generalized galactose epimerase deficiency,DISEASE
+Syndromic ichthyosis associated with ocular features,DISEASE
+X-linked dominant chondrodysplasia punctata,DISEASE
+Oculocutaneous albinism type 7,DISEASE
+Oculocutaneous albinism type 1,DISEASE
+Minimal pigment oculocutaneous albinism type 1,DISEASE
+Severe generalized recessive dystrophic epidermolysis bullosa,DISEASE
+"Oculodental syndrome, Rutherfurd type",DISEASE
+Alagille syndrome,DISEASE
+diffuse scleroderma,DISEASE
+Glaucoma associated with neural crest cell migration anomaly,DISEASE
+Cerulean cataract,DISEASE
+cataract 13 with adult I phenotype,DISEASE
+autosomal recessive osteopetrosis 4,DISEASE
+Lens size anomaly,DISEASE
+Rare lacrimal system disease,DISEASE
+EEC syndrome and related syndrome,DISEASE
+Lacrimoauriculodentodigital syndrome,DISEASE
+Secretory apparatus of the lacrimal system anomaly,DISEASE
+Autosomal recessive hypohidrotic ectodermal dysplasia,DISEASE
+Oculogastrointestinal muscular dystrophy,DISEASE
+Congenital ectropion,DISEASE
+Eyelid border anomaly,DISEASE
+Syndromic palpebral coloboma,DISEASE
+Hypertrichosis lanuginosa congenita,DISEASE
+MITF-related melanoma and renal cell carcinoma predisposition syndrome,DISEASE
+filarial elephantiasis,DISEASE
+ocular tuberculosis,DISEASE
+disease of orbital part of eye adnexa,DISEASE
+cornea plana,DISEASE
+Bangstad syndrome,DISEASE
+autoimmune polyendocrinopathy,DISEASE
+Acrodysostosis with multiple hormone resistance,DISEASE
+obstructive jaundice,DISEASE
+cholangitis,DISEASE
+emphysematous cholecystitis,DISEASE
+genetic non-acquired premature ovarian failure,DISEASE
+Tetrasomy X,DISEASE
+Trisomy X,DISEASE
+Short stature-delayed bone age due to thyroid hormone metabolism deficiency,DISEASE
+Hyposmia - nasal and ocular hypoplasia - hypogonadotropic hypogonadism,DISEASE
+Hypogonadotropic hypogonadism - frontoparietal alopecia,DISEASE
+thymoma type A,DISEASE
+malignant tumor of parathyroid gland,DISEASE
+malignant endocrine neoplasm,DISEASE
+medullary thyroid gland carcinoma,DISEASE
+small cell lung carcinoma,DISEASE
+digestive system melanoma,DISEASE
+Thyroid Gland Oncocytic Follicular Carcinoma,DISEASE
+Thyroid Gland Mucosa-Associated Lymphoid Tissue Lymphoma,DISEASE
+papillary thyroid carcinoma,DISEASE
+Thyroid Gland Mucoepidermoid Carcinoma,DISEASE
+liver adenosquamous carcinoma,DISEASE
+islet cell tumor,DISEASE
+ovarian cancer,DISEASE
+ovarian angiosarcoma,DISEASE
+Adenomyosis,DISEASE
+Benign Ovarian Mucinous Tumor,DISEASE
+primary biliary cirrhosis,DISEASE
+Atypical Carcinoid Tumor,DISEASE
+appendix neuroendocrine neoplasm,DISEASE
+"digestive system neuroendocrine tumor, grade 1/2",DISEASE
+Non-Functioning Adrenal Cortex Adenoma,DISEASE
+Apparent mineralocorticoid excess,DISEASE
+primary adrenal insufficiency,DISEASE
+adrenocortical insufficiency,DISEASE
+Familial hyperinsulinism,DISEASE
+Congenital hypothyroidism,DISEASE
+Congenital isolated thyroxine-binding globulin deficiency,DISEASE
+resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta,DISEASE
+toxic diffuse goiter,DISEASE
+multinodular goiter,DISEASE
+hereditary hypophosphatemic rickets,DISEASE
+Hypophosphatemic rickets,DISEASE
+chronic hepatitis C virus infection,DISEASE
+Benign recurrent intrahepatic cholestasis,DISEASE
+Growth retardation-mild developmental delay-chronic hepatitis syndrome,DISEASE
+"Hepatitis, Alcoholic",DISEASE
+clonorchiasis,DISEASE
+Obesity due to CEP19 deficiency,DISEASE
+Obesity due to MC3R deficiency,DISEASE
+Keppen-Lubinsky syndrome,DISEASE
+Familial partial lipodystrophy due to AKT2 mutations,DISEASE
+Denys-Drash syndrome,DISEASE
+"46,XY disorder of sex development due to a defect in testosterone metabolism by peripheral tissue",DISEASE
+Leydig cell hypoplasia,DISEASE
+"46,XY disorder of sex development due to cholesterol synthesis defect",DISEASE
+Sex chromosome disorder of sex development,DISEASE
+Short fifth metacarpals - insulin resistance,DISEASE
+Wolcott-Rallison syndrome,DISEASE
+autoimmune hypoparathyroidism (disease),DISEASE
+Peripheral precocious puberty,DISEASE
+hypogonadotropic hypogonadism,DISEASE
+amenorrhea,DISEASE
+Iron accumulation in brain,DISEASE
+Congenital microcephaly,DISEASE
+Hypoplasia of the frontal lobes,DISEASE
+Paresthesia,DISEASE
+"Tuberculosis, Cutaneous",DISEASE
+Hydatidiform Mole,DISEASE
+"masculinization of female, CTCAE",DISEASE
+"hypertension, pregnancy-induced",DISEASE
+Visual field defect,DISEASE
+Horizontal nystagmus,DISEASE
+gestational trophoblastic disease,DISEASE
+Diffuse alveolar damage,DISEASE
+Hyperventilation,DISEASE
+Breathing dysregulation,DISEASE
+Abnormality of the urinary system,DISEASE
+persistent fetal circulation syndrome,DISEASE
+Abnormal urine output,DISEASE
+Glycosuria,DISEASE
+Genu varum,DISEASE
+Abnormal mitochondria in muscle tissue,DISEASE
+Short foot,DISEASE
+Contractures of the joints of the lower limbs,DISEASE
+Aplasia/Hypoplasia of the thumb,DISEASE
+Abnormality of the upper limb,DISEASE
+Small hand,DISEASE
+Decreased activity of the pyruvate dehydrogenase complex,DISEASE
+Hypothermia,DISEASE
+Atrioventricular canal defect,DISEASE
+Left atrial enlargement,DISEASE
+coronary artery calcification,DISEASE
+Neurodegeneration,DISEASE
+hypocretin deficiency,DISEASE
+Abnormal circulating lipid concentration,DISEASE
+Hypocholesterolemia,DISEASE
+Hypercalcemia,DISEASE
+Abnormal circulating carboxylic acid concentration,DISEASE
+Abnormality of body weight,DISEASE
+Weight loss,DISEASE
+Severe intrauterine growth retardation,DISEASE
+Micropenis,DISEASE
+Small scrotum,DISEASE
+Abnormality of the skin,DISEASE
+impetigo,DISEASE
+Sacral dimple,DISEASE
+Coarse hair,DISEASE
+Abnormality of facial skeleton,DISEASE
+Abnormality of the mandible,DISEASE
+Dolichocephaly,DISEASE
+Pathologic fracture,DISEASE
+Cholecystitis,DISEASE
+gastric hemorrhage,DISEASE
+Abdominal symptom,DISEASE
+Esophagitis,DISEASE
+Achalasia,DISEASE
+Decreased intestinal transit time,DISEASE
+Breast hypertrophy,DISEASE
+thymus atrophy,DISEASE
+eye inflammation,DISEASE
+vaginal inflammation,DISEASE
+decreased susceptibility to hepatitis C infection,DISEASE
+Abnormal leukocyte morphology,DISEASE
+Narrow mouth,DISEASE
+Delayed eruption of primary teeth,DISEASE
+Premature eruption of permanent teeth,DISEASE
+Short nose,DISEASE
+Short columella,DISEASE
+Nasal obstruction,DISEASE
+Venous thrombosis,DISEASE
+deep vein thrombosis,DISEASE
+Myelofibrosis,DISEASE
+Prolonged bleeding time,DISEASE
+pulmonary artery enlargement,DISEASE
+neuropathic pain,DISEASE
+facial pain,DISEASE
+dysuria,DISEASE
+helix rolling,DISEASE
+tragus size,DISEASE
+antitragus size,DISEASE
+spontaneous preterm birth,DISEASE
+Female infertility due to an implantation defect of genetic origin,DISEASE
+azoospermia,DISEASE
+Male infertility with azoospermia or oligozoospermia due to single gene mutation,DISEASE
+endometrial adenosquamous carcinoma,DISEASE
+endometrium adenocarcinoma,DISEASE
+Cervical Intraepithelial Neoplasia Grade 2/3,DISEASE
+Endometrial Stromal Nodule,DISEASE
+endometrial stromal sarcoma,DISEASE
+Bartholin duct cyst,DISEASE
+cervical cancer,DISEASE
+female genital tuberculosis,DISEASE
+Mammary-digital-nail syndrome,DISEASE
+fallopian tube disease,DISEASE
+male reproductive system disease,DISEASE
+penis carcinoma in situ,DISEASE
+benign male reproductive system neoplasm,DISEASE
+prostate carcinoma,DISEASE
+genital herpes,DISEASE
+viral sexually transmitted disease,DISEASE
+HIV infection,DISEASE
+breast cancer,DISEASE
+breast synovial sarcoma,DISEASE
+inflammatory breast carcinoma,DISEASE
+estrogen-receptor positive breast cancer,DISEASE
+luminal A breast carcinoma,DISEASE
+breast fibroepithelial neoplasm,DISEASE
+metastasis,DISEASE
+infarction,DISEASE
+granuloma,DISEASE
+infection,DISEASE
+cellular process,DISEASE
+ribonucleoside monophosphate metabolic process,DISEASE
+purine ribonucleoside triphosphate biosynthetic process,DISEASE
+nucleoside phosphate biosynthetic process,DISEASE
+cellular macromolecule metabolic process,DISEASE
+positive regulation of glucagon secretion,DISEASE
+regulation of renal sodium excretion,DISEASE
+regulation of platelet activation,DISEASE
+regulation of muscle system process,DISEASE
+negative regulation of gastric acid secretion,DISEASE
+positive regulation of gastric acid secretion,DISEASE
+regulation of locomotion,DISEASE
+carbohydrate derivative metabolic process,DISEASE
+respiratory process,DISEASE
+response to methylphenidate,DISEASE
+response to vancomycin,DISEASE
+response to sertraline,DISEASE
+response to immunochemotherapy,DISEASE
+response to anticoagulant,DISEASE
+response to warfarin,DISEASE
+response to terbinafine,DISEASE
+response to phenylephrine,DISEASE
+response to non-steroidal anti-inflammatory,DISEASE
+response to disappointment,DISEASE
+response to dietary potassium supplementation,DISEASE
+response to osmotic stress,DISEASE
+atopic march,DISEASE
+complicated disease course,DISEASE
+sensory perception of taste,DISEASE
+digestion,DISEASE
+lipid localization,DISEASE
+lipid homeostasis,DISEASE
+phosphate ion homeostasis,DISEASE
+heart transplant rejection,DISEASE
+intelligence,DISEASE
+word reading,DISEASE
+Schöpf-Schulz-Passarge syndrome,DISEASE
+Curly hair-acral keratoderma-caries syndrome,DISEASE
+Diffuse palmoplantar keratoderma-acrocyanosis syndrome,DISEASE
+"Hereditary palmoplantar keratoderma, Gamborg-Nielsen type",DISEASE
+Focal palmoplantar keratoderma,DISEASE
+acquired keratosis,DISEASE
+Sebocystomatosis,DISEASE
+hypotrichosis 5,DISEASE
+endocrine alopecia,DISEASE
+Ichthyosis follicularis - alopecia - photophobia,DISEASE
+Ringed hair disease,DISEASE
+Hypertrichosis,DISEASE
+Odonto-tricho-ungual-digito-palmar syndrome,DISEASE
+Ellis Van Creveld syndrome,DISEASE
+Tricho-oculo-dermo-vertebral syndrome,DISEASE
+Taurodontia - absent teeth - sparse hair,DISEASE
+benign melanocytic skin nevus,DISEASE
+vegetating cicatricial pemphigoid,DISEASE
+pemphigus foliaceus,DISEASE
+pemphigus vulgaris,DISEASE
+pemphigus herpetiformis,DISEASE
+Acral dystrophic epidermolysis bullosa,DISEASE
+Epidermolysis bullosa simplex with pyloric atresia,DISEASE
+Kindler syndrome,DISEASE
+anaerobic cellulitis,DISEASE
+acquired dermis elastic tissue disorder,DISEASE
+Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency,DISEASE
+Familial cutaneous collagenoma,DISEASE
+Ehlers-Danlos syndrome with periventricular heterotopia,DISEASE
+mixed dermis disorder,DISEASE
+Ichthyosis-cheek-eyebrow syndrome,DISEASE
+Ichthyosis hystrix gravior,DISEASE
+peeling skin syndrome 6,DISEASE
+Acral peeling skin syndrome,DISEASE
+Kimura disease,DISEASE
+neonatal erythema toxicum,DISEASE
+epithelioid and spindle cell nevus,DISEASE
+esophageal basaloid carcinoma,DISEASE
+Salivary Gland Adenosquamous Carcinoma,DISEASE
+pharyngeal squamous cell carcinoma,DISEASE
+laryngeal squamous cell carcinoma,DISEASE
+Skin Cavernous Hemangioma,DISEASE
+toxic epidermal necrolysis,DISEASE
+edema,DISEASE
+dipetalonemiasis,DISEASE
+psoriasis,DISEASE
+guttate psoriasis,DISEASE
+Chilblain lupus,DISEASE
+bacterial exanthem,DISEASE
+mediastinal lipomatosis,DISEASE
+parasitic skin disease,DISEASE
+trombiculiasis,DISEASE
+lichen disease,DISEASE
+"lichen planus, familial",DISEASE
+seborrheic dermatitis,DISEASE
+folliculitis,DISEASE
+acrodermatitis,DISEASE
+skin sarcoidosis,DISEASE
+Chronic granulomatous disease,DISEASE
+Hereditary acrokeratotic poikiloderma of Kindler-Weary,DISEASE
+Spondyloepimetaphyseal dysplasia with multiple dislocations,DISEASE
+sunburn,DISEASE
+other acquired skin disease,DISEASE
+Inverse Klippel-Trénaunay syndrome,DISEASE
+lymphatic vessel neoplasm,DISEASE
+Aneurysm - osteoarthritis syndrome,DISEASE
+vascular hemostatic disease,DISEASE
+rare genetic venous malformation,DISEASE
+atypical coarctation of aorta,DISEASE
+aneurysm or dilatation of ascending aorta,DISEASE
+congenital pulmonary venous return anomaly,DISEASE
+thrombotic disease,DISEASE
+arterial disorder,DISEASE
+malignant renovascular hypertension,DISEASE
+primary hypertension,DISEASE
+arteriosclerosis disorder,DISEASE
+intermittent vascular claudication,DISEASE
+aortitis,DISEASE
+Prinzmetal's angina,DISEASE
+intermediate coronary syndrome,DISEASE
+hypersensitivity vasculitis,DISEASE
+hemangiopericytoma,DISEASE
+peripheral vascular disease,DISEASE
+Congenital heart block,DISEASE
+bundle branch block,DISEASE
+catecholaminergic polymorphic ventricular tachycardia 1,DISEASE
+conscientiousness measurement,DISEASE
+CD3-positive T-lymphocyte count,DISEASE
+Sino-auricular heart block,DISEASE
+long QT syndrome 12,DISEASE
+long QT syndrome 3,DISEASE
+trans/cis-18:2 fatty acid measurement,DISEASE
+ventricular rate measurement,DISEASE
+visceral:total adipose tissue ratio,DISEASE
+transverse temporal cortex volume measurement,DISEASE
+Eosinophilia-Myalgia Syndrome,DISEASE
+childhood aggressive behaviour measurement,DISEASE
+glucose homeostasis measurement,DISEASE
+pesticide exposure measurement,DISEASE
+Isobutyryl-CoA dehydrogenase deficiency,DISEASE
+congenital heart malformation,DISEASE
+Situs inversus totalis,DISEASE
+Congenitally uncorrected transposition of the great arteries,DISEASE
+"Atrial septal defect, ostium primum type",DISEASE
+univentricular cardiopathy,DISEASE
+familial hypertrophic cardiomyopathy,DISEASE
+non-familial hypertrophic cardiomyopathy,DISEASE
+Non-familial restrictive cardiomyopathy,DISEASE
+unclassified cardiomyopathy,DISEASE
+idiopathic cardiomyopathy,DISEASE
+delivery measurement,DISEASE
+mammographic density measurement,DISEASE
+upper face morphology measurement,DISEASE
+lip morphology measurement,DISEASE
+nucleotide measurement,DISEASE
+guanosine diphosphate measurement,DISEASE
+pulmonary artery-aorta diameter ratio measurement,DISEASE
+susceptibility to pneumonia measurement,DISEASE
+tissue factor pathway inhibitor measurement,DISEASE
+coronary atherosclerosis measurement,DISEASE
+triacylglycerol 46:1 measurement,DISEASE
+triacylglycerol 52:6 measurement,DISEASE
+triacylglycerol 58:9 measurement,DISEASE
+triacylglycerol 48:3 measurement,DISEASE
+triacylglycerol 48:4 measurement,DISEASE
+gondoic acid measurement,DISEASE
+very long-chain saturated fatty acid measurement,DISEASE
+total glycated albumin,DISEASE
+ursodeoxycholate measurement,DISEASE
+fumarate measurement,DISEASE
+taurochenodeoxycholate measurement,DISEASE
+spine bone mineral density,DISEASE
+volumetric bone mineral density,DISEASE
+birth rate,DISEASE
+plasma plasminogen measurement,DISEASE
+interleukin-2 receptor subunit alpha measurement,DISEASE
+granulins measurement,DISEASE
+CCL17 measurement,DISEASE
+platelet-derived growth factor receptor beta measurement,DISEASE
+carbohydrate sulfotransferase 15 measurement,DISEASE
+soluble gp130 measurement,DISEASE
+leukocyte immunoglobulin-like receptor subfamily B member 2 measurement,DISEASE
+MAP kinase-activated protein kinase 3 measurement,DISEASE
+methionine aminopeptidase 2 measurement,DISEASE
+death-associated protein kinase 2 measurement,DISEASE
+CD6 measurement,DISEASE
+collectin-11 measurement,DISEASE
+fibronectin fragment 3 measurement,DISEASE
+interleukin 6 receptor subunit beta measurement,DISEASE
+Ck-beta-8-1 measurement,DISEASE
+ficolin-1 measurement,DISEASE
+insulin-like growth factor-binding protein 7 measurement,DISEASE
+tumor necrosis factor ligand superfamily member 11 measurement,DISEASE
+interleukin 18 receptor 1 measurement,DISEASE
+ADAMTS13 activity measurement,DISEASE
+matrix metalloproteinase 12 measurement,DISEASE
+blood zinc measurement,DISEASE
+blood nickel measurement,DISEASE
+blood lead measurement,DISEASE
+blood mercury measurement,DISEASE
+fructose-bisphosphate aldolase measurement,DISEASE
+collection latitude,DISEASE
+prothrombin fragments F1+2 measurement,DISEASE
+optic disc measurement,DISEASE
+anterior chamber depth measurement,DISEASE
+thiopurine metabolite measurement,DISEASE
+health satisfaction measurement,DISEASE
+worry measurement,DISEASE
+behavioural disinhibition measurement,DISEASE
+family history of Alzheimer’s disease,DISEASE
+adenosine measurement,DISEASE
+vital signs,DISEASE
+seasonal gut microbiome measurement,DISEASE
+functional microbiome measurement,DISEASE
+white matter lesion progression measurement,DISEASE
+cingulate cortex measurement,DISEASE
+cerebral cortex growth measurement,DISEASE
+dihydroxy docosatrienoic acid measurement,DISEASE
+red blood cell folate measurement,DISEASE
+thrombin-antithrombin complex measurement,DISEASE
+tiredness measurement,DISEASE
+sampling time,DISEASE
+date of birth,DISEASE
+longevity,DISEASE
+motor development measurement,DISEASE
+substance-related disorder,DISEASE
+alcohol abuse,DISEASE
+dendritic cell tumor,DISEASE
+reticulum cell sarcoma,DISEASE
+deficiency of the interleukin-36 receptor antagonist,DISEASE
+immunodeficiency due to a complement regulatory deficiency,DISEASE
+Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency,DISEASE
+"neutropenia, severe congenital, 8, autosomal dominant",DISEASE
+Shwachman-Diamond syndrome,DISEASE
+Low birth weight - dwarfism - dysgammaglobulinemia,DISEASE
+T-B+ severe combined immunodeficiency due to CD45 deficiency,DISEASE
+Severe combined immunodeficiency due to LCK deficiency,DISEASE
+Combined immunodeficiency due to CRAC channel dysfunction,DISEASE
+Purine nucleoside phosphorylase deficiency,DISEASE
+Autosomal recessive lymphoproliferative disease,DISEASE
+LIG4 syndrome,DISEASE
+Multiple intestinal atresia,DISEASE
+Hereditary folate malabsorption,DISEASE
+autoimmune disease of musculoskeletal system,DISEASE
+occupational allergic alveolitis,DISEASE
+acute leukemia of ambiguous lineage,DISEASE
+Granulocytic Sarcoma,DISEASE
+minimally differentiated acute myeloblastic leukemia,DISEASE
+adult acute monocytic leukemia,DISEASE
+precursor B-cell acute lymphoblastic leukemia,DISEASE
+prolymphocytic leukemia,DISEASE
+Autosomal recessive secondary polycythemia not associated with VHL gene,DISEASE
+perianal Crohn's disease,DISEASE
+tendinitis,DISEASE
+eosinophil peroxidase deficiency,DISEASE
+eosinophil disease,DISEASE
+selective IgA deficiency disease,DISEASE
+GATA2 deficiency with susceptibility to MDS/AML,DISEASE
+cat-scratch disease,DISEASE
+sinus histiocytosis with massive lymphadenopathy,DISEASE
+splenic tuberculosis,DISEASE
+Giant Lymph Node Hyperplasia,DISEASE
+Laryngo-tracheo-esophageal cleft - pulmonary hypoplasia,DISEASE
+Cutis laxa-Marfanoid syndrome,DISEASE
+Grange syndrome,DISEASE
+diaphragmatic or abdominal wall malformation,DISEASE
+Ring chromosome 21,DISEASE
+Ring chromosome 6,DISEASE
+Distal monosomy 19p13.3,DISEASE
+Monosomy 9p,DISEASE
+Partial deletion of chromosome 18,DISEASE
+Monosomy 22q13,DISEASE
+Partial deletion of the long arm of chromosome 7,DISEASE
+Non-distal monosomy 10q,DISEASE
+Partial deletion of the long arm of chromosome 15,DISEASE
+17q23.1q23.2 microdeletion syndrome,DISEASE
+Mesomelia-synostoses syndrome,DISEASE
+Partial deletion of the long arm of chromosome 5,DISEASE
+5q31.3 microdeletion syndrome,DISEASE
+Partial trisomy/tetrasomy of chromosome 5,DISEASE
+Partial duplication of chromosome 4,DISEASE
+3q26 microduplication syndrome,DISEASE
+Partial duplication of the short arm of chromosome 7,DISEASE
+Tetrasomy 18p,DISEASE
+Total autosomal trisomy,DISEASE
+Mosaic trisomy 14,DISEASE
+Mosaic trisomy 20,DISEASE
+Maternal uniparental disomy of chromosome 21,DISEASE
+Maternal uniparental disomy of chromosome 13,DISEASE
+Maternal uniparental disomy of chromosome 4,DISEASE
+Partial deletion of chromosome X,DISEASE
+Gonosome number anomaly,DISEASE
+"chromosome 16p12.1 deletion syndrome, 520kb",DISEASE
+Tetraploidy,DISEASE
+Infantile hypophosphatasia,DISEASE
+Mitochondrial substrate carrier disorder,DISEASE
+Combined oxidative phosphorylation defect type 2,DISEASE
+Isolated CoQ-cytochrome C reductase deficiency,DISEASE
+"mitochondrial complex 4 deficiency, nuclear type 4",DISEASE
+"mitochondrial complex 4 deficiency, nuclear type 14",DISEASE
+"mitochondrial complex 4 deficiency, nuclear type 8",DISEASE
+Congenital disorder of glycosylation with developmental anomaly,DISEASE
+Anotia,DISEASE
+Van der Woude syndrome,DISEASE
+Verloove Vanhorick-Brubakk syndrome,DISEASE
+"Central polydactyly of fingers, bilateral",DISEASE
+Syndactyly type 2,DISEASE
+Congenital deformities of limbs,DISEASE
+Limb overgrowth,DISEASE
+Macrodactyly of fingers,DISEASE
+Congenital shoulder dislocation,DISEASE
+Hemimelia,DISEASE
+"Ulnar hemimelia, bilateral",DISEASE
+Terminal limb defects,DISEASE
+"Congenital absence/hypoplasia of thumb, bilateral",DISEASE
+"Apodia, bilateral",DISEASE
+"Symbrachydactyly of hand and foot, bilateral",DISEASE
+Congenital absence of both lower leg and foot,DISEASE
+Humeral agenesis/hypoplasia,DISEASE
+Camptodactyly - taurinuria,DISEASE
+Heart-hand syndrome,DISEASE
+Autosomal recessive amelia,DISEASE
+Ulna hypoplasia - intellectual disability,DISEASE
+Syndactyly-polydactyly-ear lobe syndrome,DISEASE
+Finger hyperphalangy-toe anomalies-severe pectus excavatum syndrome,DISEASE
+Greig cephalopolysyndactyly syndrome,DISEASE
+brachydactyly type B1,DISEASE
+Malformation syndrome with skin/mucosae involvement,DISEASE
+Infantile systemic hyalinosis,DISEASE
+Postaxial polydactyly - dental and vertebral anomalies,DISEASE
+Craniosynostosis and dental anomalies,DISEASE
+Craniomicromelic syndrome,DISEASE
+Summitt syndrome,DISEASE
+Intestinal malformation,DISEASE
+Epibulbar lipodermoid - preauricular appendage - polythelia,DISEASE
+hydrops fetalis (disease),DISEASE
+Partial pancreatic agenesis,DISEASE
+Polysyndactyly - cardiac malformation,DISEASE
+Microcephaly - albinism - digital anomalies,DISEASE
+Aymé-Gripp syndrome,DISEASE
+Dentin dysplasia - sclerotic bones,DISEASE
+short stature with microcephaly and distinctive facies,DISEASE
+Intermittent hydrarthrosis,DISEASE
+Fibrochondrogenesis,DISEASE
+Mild spondyloepiphyseal dysplasia due to COL2A1 mutation with early-onset osteoarthritis,DISEASE
+"Spondyloepiphyseal dysplasia, Cantu type",DISEASE
+Metaphyseal acroscyphodysplasia,DISEASE
+Short rib-polydactyly syndrome,DISEASE
+Genochondromatosis type 2,DISEASE
+Genochondromatosis type 1,DISEASE
+Dysplasia epiphysealis hemimelica,DISEASE
+Autosomal recessive omodysplasia,DISEASE
+"Rhizomelic syndrome, Urbach type",DISEASE
+"Acromesomelic dysplasia, Maroteaux type",DISEASE
+Dappled diaphyseal dysplasia,DISEASE
+Dysplastic cortical hyperostosis,DISEASE
+X-linked calvarial hyperostosis,DISEASE
+Congenital vascular bone syndrome,DISEASE
+Rare hereditary disease with avascular necrosis,DISEASE
+"Humero-radio-ulnar synostosis, bilateral",DISEASE
+familial calcium pyrophosphate deposition,DISEASE
+Hemophilia A,DISEASE
+kidney Wilms tumor,DISEASE
+Autosomal dominant distal renal tubular acidosis,DISEASE
+"Isolated autosomal dominant hypomagnesemia, Glaudemans type",DISEASE
+Familial renal amyloidosis due to Apolipoprotein AI variant,DISEASE
+phosphohydroxylysinuria,DISEASE
+neurodevelopmental disorder with non-specific brain abnormalities and with or without seizures,DISEASE
+Imagawa-Matsumoto syndrome,DISEASE
+Sifrim-Hitz-Weiss syndrome,DISEASE
+Beta-thalassemia and related diseases,DISEASE
+Hemoglobin C - beta-thalassemia,DISEASE
+acquired hemoglobinopathy,DISEASE
+Hereditary spherocytosis,DISEASE
+Congenital dyserythropoietic anemia type IV,DISEASE
+Bleeding diathesis due to thromboxane synthesis deficiency,DISEASE
+Medich giant platelet syndrome,DISEASE
+Isolated delta-storage pool disease,DISEASE
+acquired factor XIII deficiency,DISEASE
+"vitamin K-dependent clotting factors, combined deficiency of, type 2",DISEASE
+trypsinogen deficiency,DISEASE
+Unclassified intestinal pseudoobstruction,DISEASE
+Genetic gastro-esophageal disease,DISEASE
+"neurodegeneration, infantile-onset, biotin-responsive",DISEASE
+hereditary clear cell renal cell carcinoma,DISEASE
+hereditary papillary renal cell carcinoma,DISEASE
+"urinary bladder, atony of",DISEASE
+Rare genetic urogenital disease,DISEASE
+Crigler-Najjar syndrome,DISEASE
+"respiratory papillomatosis, juvenile recurrent, congenital",DISEASE
+Homocarnosinosis,DISEASE
+Disorder of neurotransmitter metabolism and transport,DISEASE
+hereditary hyperbilirubinemia,DISEASE
+disorders of pentose/polyol metabolism,DISEASE
+Pentosuria,DISEASE
+Phosphoenolpyruvate carboxykinase 1 deficiency,DISEASE
+Disorder of ornithine metabolism,DISEASE
+Disorder of tyrosine metabolism,DISEASE
+Seizures - intellectual disability due to hydroxylysinuria,DISEASE
+3-methylglutaconic aciduria,DISEASE
+Thiamine-responsive maple syrup urine disease,DISEASE
+Intermittent maple syrup urine disease,DISEASE
+TMEM199-CDG,DISEASE
+congenital disorder of glycosylation with defective fucosylation,DISEASE
+glycosylphosphatidylinositol biosynthesis defect 17,DISEASE
+glycosylphosphatidylinositol biosynthesis defect 18,DISEASE
+Disorder of thiamine metabolism and transport,DISEASE
+Mitchell syndrome,DISEASE
+"neurodevelopmental disorder with hypotonia, microcephaly, and seizures",DISEASE
+x-linked ichthyosis with steryl-sulfatase deficiency,DISEASE
+Genetic mixed dermis disorder,DISEASE
+Genetic acrokeratoderma,DISEASE
+neurodevelopmental disorder with cerebellar atrophy and with or without seizures,DISEASE
+myelophthisic anemia,DISEASE
+enterobiasis,DISEASE
+schistosomiasis,DISEASE
+trichomoniasis,DISEASE
+epidemic louse-borne typhus,DISEASE
+trench fever,DISEASE
+measles,DISEASE
+influenza A (H1N1),DISEASE
+COVID-19,DISEASE
+simian immunodeficiency virus infection,DISEASE
+congenital rubella,DISEASE
+Aeromonas hydrophila infection,DISEASE
+silicotuberculosis,DISEASE
+berylliosis,DISEASE
+anthracosilicosis,DISEASE
+byssinosis,DISEASE
+asbestosis,DISEASE
+pneumonia caused by gram negative bacteria,DISEASE
+actinomycosis,DISEASE
+Actinobacillus infectious disease,DISEASE
+staphylococcal pneumonia,DISEASE
+"Tuberculosis, Avian",DISEASE
+synovitis (disease),DISEASE
+patellofemoral pain syndrome,DISEASE
+root caries,DISEASE
