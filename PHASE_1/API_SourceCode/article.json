@@ -7,10 +7,17 @@
     "PublishedDate": [
         "March 17, 2021"
     ],
-    "Diseases": [
-        "COVID-19"
-    ],
-    "Syndromes": []
+    "Reports": {
+        "Diseases": [
+            "COVID-19"
+        ],
+        "Syndromes": [],
+        "Locations": [],
+        "Dates": [
+            "today",
+            "next two"
+        ]
+    }
 },
 {
     "Title": [
@@ -20,10 +27,16 @@
     "PublishedDate": [
         "March 16, 2021"
     ],
-    "Diseases": [
-        "COVID-19"
-    ],
-    "Syndromes": []
+    "Reports": {
+        "Diseases": [
+            "COVID-19"
+        ],
+        "Syndromes": [],
+        "Locations": [
+            "Sweden"
+        ],
+        "Dates": []
+    }
 },
 {
     "Title": [
@@ -33,10 +46,30 @@
     "PublishedDate": [
         "March 15, 2021"
     ],
-    "Diseases": [
-        "COVID-19"
-    ],
-    "Syndromes": []
+    "Reports": {
+        "Diseases": [
+            "COVID-19"
+        ],
+        "Syndromes": [],
+        "Locations": [
+            "Spain",
+            "Spain",
+            "UK",
+            "EU",
+            "EU"
+        ],
+        "Dates": [
+            "last week",
+            "past Saturday",
+            "Sunday",
+            "March 13",
+            "14",
+            "today",
+            "today.However",
+            "tomorrow",
+            "next two weeks.Philippines"
+        ]
+    }
 },
 {
     "Title": [
@@ -46,10 +79,19 @@
     "PublishedDate": [
         "March 14, 2021"
     ],
-    "Diseases": [
-        "COVID-19"
-    ],
-    "Syndromes": []
+    "Reports": {
+        "Diseases": [
+            "COVID-19"
+        ],
+        "Syndromes": [],
+        "Locations": [
+            "Tynset"
+        ],
+        "Dates": [
+            "yesterday",
+            "March 13"
+        ]
+    }
 },
 {
     "Title": [
@@ -59,11 +101,21 @@
     "PublishedDate": [
         "March 12, 2021"
     ],
-    "Diseases": [
-        "other",
-        "COVID-19"
-    ],
-    "Syndromes": []
+    "Reports": {
+        "Diseases": [
+            "other",
+            "COVID-19"
+        ],
+        "Syndromes": [],
+        "Locations": [
+            "European Economic Area.In",
+            "Austria",
+            "Denmark"
+        ],
+        "Dates": [
+            "week"
+        ]
+    }
 },
 {
     "Title": [
@@ -73,12 +125,24 @@
     "PublishedDate": [
         "March 11, 2021"
     ],
-    "Diseases": [
-        "other",
-        "smallpox",
-        "COVID-19"
-    ],
-    "Syndromes": []
+    "Reports": {
+        "Diseases": [
+            "other",
+            "smallpox",
+            "COVID-19"
+        ],
+        "Syndromes": [],
+        "Locations": [
+            "Florida",
+            "Florida",
+            "Florida",
+            "Florida",
+            "Florida",
+            "US",
+            "Florida"
+        ],
+        "Dates": []
+    }
 },
 {
     "Title": [
@@ -88,8 +152,18 @@
     "PublishedDate": [
         "March 9, 2021"
     ],
-    "Diseases": [],
-    "Syndromes": []
+    "Reports": {
+        "Diseases": [],
+        "Syndromes": [],
+        "Locations": [
+            "North America",
+            "Europe"
+        ],
+        "Dates": [
+            "Monday",
+            "today"
+        ]
+    }
 },
 {
     "Title": [
@@ -99,11 +173,25 @@
     "PublishedDate": [
         "March 8, 2021"
     ],
-    "Diseases": [
-        "other",
-        "sars"
-    ],
-    "Syndromes": []
+    "Reports": {
+        "Diseases": [
+            "other",
+            "sars"
+        ],
+        "Syndromes": [],
+        "Locations": [
+            "Finland",
+            "South African",
+            "UK",
+            "Finland",
+            "Kuopio",
+            "Finnish",
+            "European",
+            "Kuopio",
+            "Europe"
+        ],
+        "Dates": []
+    }
 },
 {
     "Title": [
@@ -113,8 +201,21 @@
     "PublishedDate": [
         "March 6, 2021"
     ],
-    "Diseases": [],
-    "Syndromes": []
+    "Reports": {
+        "Diseases": [],
+        "Syndromes": [],
+        "Locations": [
+            "U.S."
+        ],
+        "Dates": [
+            "this week",
+            "2021/22",
+            "2017",
+            "2017/18",
+            "2018/19",
+            "2019/20"
+        ]
+    }
 },
 {
     "Title": [
@@ -124,13 +225,34 @@
     "PublishedDate": [
         "February 28, 2021"
     ],
-    "Diseases": [
-        "other",
-        "sars",
-        "COVID-19"
-    ],
-    "Syndromes": [
-        "Acute respiratory syndrome"
-    ]
+    "Reports": {
+        "Diseases": [
+            "other",
+            "sars",
+            "COVID-19"
+        ],
+        "Syndromes": [
+            "Acute respiratory syndrome"
+        ],
+        "Locations": [
+            "U.S",
+            "United States",
+            "EUA",
+            "South Africa",
+            "South America",
+            "Mexico",
+            "U.S.",
+            "EUA",
+            "South Africa",
+            "South America",
+            "Mexico",
+            "U.S."
+        ],
+        "Dates": [
+            "Saturday",
+            "2019",
+            "today"
+        ]
+    }
 }
 ]

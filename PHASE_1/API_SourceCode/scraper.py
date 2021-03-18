@@ -48,7 +48,9 @@ for cat in categories:
             for span_tag in date_value.findAll('span'):
                 span_tag.replace_with('')
 
-            json_data = {"Title":[],"Article":[],"PublishedDate":[],"Diseases":[],"Syndromes":[]}
+
+            reports = {"Diseases":[],"Syndromes":[], "Locations":[],"Dates":[]}
+            json_data = {"Title":[],"Article":[],"PublishedDate":[],"Reports":reports}
             json_data["Title"].append(title.text)
             json_data["PublishedDate"].append(date_value.text)
 
@@ -65,20 +67,29 @@ for cat in categories:
             entity_report = {} # Dictionary representation of json returned from Amazon Comprehend API
             text_truncated = text[:4960]
             entity_report = comprehend.detect_entities(Text=text_truncated, LanguageCode='en')
-            print(">>>>>>>>>>Entity Report for article>>>>>>>>>>>>>>>>>>>>>>>>")
-            print(entity_report)
-            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
+            # print(">>>>>>>>>>Entity Report for article>>>>>>>>>>>>>>>>>>>>>>>>")
+            # print(entity_report)
+            # print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
             with open('disease_list.json') as disease_json_file:
                 ddata = json.load(disease_json_file)
                 for d in ddata:
                     if d['name'].lower() in text.lower():
-                        json_data["Diseases"].append(d['name'])
+                        json_data["Reports"]["Diseases"].append(d['name'])
 
             with open('syndrome_list.json') as syndrome_json_file:
                 sdata = json.load(syndrome_json_file)
                 for s in sdata:
                     if s['name'].lower() in text.lower():
-                        json_data["Syndromes"].append(s['name'])
+                        json_data["Reports"]["Syndromes"].append(s['name'])
+
+            for values in entity_report['Entities']:
+                if values['Type'] == 'LOCATION':
+                    json_data["Reports"]["Locations"].append(values['Text'])
+                if values['Type'] == 'DATE':
+                    json_data["Reports"]["Dates"].append(values['Text'])
+            
+
+
 
             f = open("article.json", "a")
             f.write(json.dumps(json_data,indent=4))
