@@ -137,13 +137,23 @@ def lambda_handler():
             "body": json.dumps({"Result": "No articles matching the given query."})
         }
 
+    final_article_ids = [sub["article_id"] for sub in result_table]   
 
+    table_articles = dynamodb.Table('Articles')
+    response = table_articles.scan()
+    data = response['Items']
+    print(">>>>>")
+    print(data)
+    print(">>>>>")
+    
+    new_filtered_table = [l for l in data if any(e in final_article_ids for e in l.values())]
+    print(new_filtered_table)
     return {
         "statusCode": 200,
         "headers": {
             "Content-Type": "application/json"
         },
-        "body": json.dumps(result_table)
+        "body": json.dumps(new_filtered_table)
     }
 
 
