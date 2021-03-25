@@ -91,30 +91,6 @@ for cat in categories:
                 if values['Type'] == 'DATE':
                     json_data["Reports"]["Dates"].append(values['Text'])
             
-    
-            table = []
-            start_date = ""
-            end_date = ""
-            key_terms = ["d","dr"]
-            location = "Sweden"
-
-            date_limiter = []
-
-            for items in table:
-                for date in items.dates:
-                    if parse(date, fuzzy=False) and parse(date, fuzzy=False) > parse(start_date, fuzzy=False) and  parse(date, fuzzy=False) < parse(end_date, fuzzy=False):
-                        date_limiter.append(items)
-
-            key_term_limiter = []
-            for items in date_limiter:
-                for key_term in key_terms:
-                    if key_term in items.key_terms:
-                        key_term_limiter.append(items)
-
-            location_limiter = []
-            for items in key_term_limiter:
-                if location in items.locations:
-                    location_limiter.append[items]
 
             f = open("article.json", "a")
             f.write(json.dumps(json_data,indent=4))
