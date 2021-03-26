@@ -1,4 +1,6 @@
+import uuid
 import requests
+from datetime import datetime
 from sys import getsizeof
 from bs4 import BeautifulSoup
 import boto3
@@ -52,19 +54,24 @@ for cat in categories:
                 span_tag.replace_with('')
 
 
-            reports = {"Diseases":[],"Syndromes":[], "Locations":[],"Dates":[]}
-            json_data = {"Title":[],"Article":[],"PublishedDate":[],"Reports":reports}
-            json_data["Title"].append(title.text)
-            json_data["PublishedDate"].append(date_value.text)
+            reports = {"diseases":[],"syndromes":[], "locations":[]}
+            json_data = {"main_text": [],"reports":[reports]}
+            json_data["headline"] = title.text
+            json_data["url"] = URL
+            date_value_text = date_value.text
+            d = datetime.strptime(date_value_text, '%B %d, %Y')
+            date_string = str(d.strftime('%Y-%m-%d %X'))
+            json_data["date_of_publication"] = date_string
+
 
             for p in para:
-                json_data["Article"].append(p.text)
+                json_data["main_text"].append(p.text)
 
-            text = ''.join(json_data["Article"])
+            text = ''.join(json_data["main_text"])
             print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
             print(text)
             print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
-            json_data["Article"] = text
+            json_data["main_text"] = text
 
             comprehend = boto3.client(service_name='comprehend', region_name='ap-southeast-2', aws_access_key_id=key_id, aws_secret_access_key=secret_key)
             entity_report = {} # Dictionary representation of json returned from Amazon Comprehend API
@@ -77,20 +84,52 @@ for cat in categories:
                 ddata = json.load(disease_json_file)
                 for d in ddata:
                     if d['name'].lower() in text.lower():
-                        json_data["Reports"]["Diseases"].append(d['name'])
+                        json_data["reports"][0]["diseases"].append(d['name'])
 
             with open('syndrome_list.json') as syndrome_json_file:
                 sdata = json.load(syndrome_json_file)
                 for s in sdata:
                     if s['name'].lower() in text.lower():
-                        json_data["Reports"]["Syndromes"].append(s['name'])
+                        json_data["reports"][0]["syndromes"].append(s['name'])
 
-            for values in entity_report['Entities']:
+            sorted_entities = sorted(entity_report['Entities'], key=lambda k: k['Score'])
+
+            print(json.dumps(sorted_entities))
+            for values in sorted_entities:
                 if values['Type'] == 'LOCATION':
-                    json_data["Reports"]["Locations"].append(values['Text'])
-                if values['Type'] == 'DATE':
-                    json_data["Reports"]["Dates"].append(values['Text'])
+                    json_data["reports"][0]["locations"].append(values['Text'])
+                # if values['Type'] == 'DATE':
+                    # json_data["reports"][0]["event_date"] = values['Text']
+
+            json_data["reports"][0]["event_date"] = date_string
+            for k,v in json_data.items():
+                print(">>articles<<<<<<")
+                print(str(k)+"----->"+str(v))
+
+            print(">>>>>>>>>>>>>>>>>>>>>>>>")
+            print(json.dumps(json_data))
+            print(">>>>>>>>>>>>>>>>>>>>>>>>")
+            uniq = str(uuid.uuid4())
+            uniq2 = str(uuid.uuid4())
+            json_data['article_id'] = uniq
+            json_data['reports'][0]['report_id'] = uniq2 
+            json_data['reports'][0]['article_id'] = uniq
+            dynamodb = boto3.resource('dynamodb', region_name='ap-southeast-2', aws_secret_access_key=secret_key, aws_access_key_id=key_id)
             
+            table = dynamodb.Table('Articles')
+            resp = table.put_item(Item=json_data)
+            print(resp)
+
+            table2 = dynamodb.Table('Reports')
+            resp2 = table2.put_item(Item=json_data['reports'][0])
+            print(">>>>>>>>>>>>>>>>>>>>>>>>")
+            print(json_data['reports'][0])
+            print(">>>>>>>>>>>>>>>>>>>>>>>>")
+            print(">>>>>>>>>>>>>>>>>>>>>>>>")
+            print(resp2)
+            print(">>>>>>>>>>>>>>>>>>>>>>>>")
+            print(">>>>>>>>>>>>>>>>>>>>>>>>")
+            print(">>>>>>>>>>>>>>>>>>>>>>>>")
 
             f = open("article.json", "a")
             f.write(json.dumps(json_data,indent=4))
