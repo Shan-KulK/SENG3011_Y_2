@@ -19,17 +19,18 @@ def lambda_handler(event, context):
     s3 = boto3.client("s3", aws_access_key_id='AKIAVZY2NVATXQRVYVEI', aws_secret_access_key='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')
     uniq = str(uuid.uuid4())
     key = "API_output_file_" + uniq
-    response = s3.put_object(
-         Bucket='y-2',
-         Key=key,
-         Body='Sample Text',
-         ACL='public-read'
-    )    
+   
     if "period_of_interest" not in event['arguments']:
         ret = {
             "statusCode": 400,
             "statusMessage": "Error: period_of_interest must be supplied as a parameter."
         }    
+        response = s3.put_object(
+            Bucket='y-2',
+            Key=key,
+            Body=str(ret),
+            ACL='public-read'
+         ) 
         return ret
     
     print(data)
@@ -37,10 +38,17 @@ def lambda_handler(event, context):
 
 
     if not re.match(r"^(\d{4})-(\d\d|xx)-(\d\d|xx) (\d\d|xx):(\d\d|xx):(\d\d|xx) to (\d{4})-(\d\d|xx)-(\d\d|xx) (\d\d|xx):(\d\d|xx):(\d\d|xx)$", input_date_range):
-        return {
+        ret = {
             "statusCode": 400,
             "statusMessage": "Error: period_of_interest does not match desired format."
         }
+        response = s3.put_object(
+            Bucket='y-2',
+            Key=key,
+            Body=str(ret),
+            ACL='public-read'
+         ) 
+        return ret
 
     dates = input_date_range.split(" to ")
     (start_date, end_date) = dates
@@ -52,10 +60,17 @@ def lambda_handler(event, context):
 
     if parse(start_date, fuzzy=False) > parse(end_date, fuzzy=False):
         print("bad dates")
-        return {
+        ret = {
             "statusCode": 400,
             "statusMessage": "Error: End date cannot precede start date."
         }
+        response = s3.put_object(
+            Bucket='y-2',
+            Key=key,
+            Body=str(ret),
+            ACL='public-read'
+         ) 
+        return ret
 
 
     print(start_date,end_date)
@@ -70,10 +85,17 @@ def lambda_handler(event, context):
             print(date)
 
     if not correct_dates:
-        return {
+        ret = {
             "statusCode": 200,
             "statusMessage": "No dates matching period of interest."
         }
+        response = s3.put_object(
+            Bucket='y-2',
+            Key=key,
+            Body=str(ret),
+            ACL='public-read'
+         ) 
+        return ret
         
     filtered_table = []
 
@@ -87,12 +109,17 @@ def lambda_handler(event, context):
     if "key_terms" not in event['arguments'] and "location" not in event['arguments']:
       date_article_ids = [sub["article_id"] for sub in filtered_table]
       ret_articles = [l for l in articles if any(e in date_article_ids for e in l.values())]
-      return {
+      ret = {
           "statusCode": 200,
           "body": ret_articles,
           "statusMessage": "Query successful"
-          
       }
+      response = s3.put_object(
+            Bucket='y-2',
+            Key=key,
+            Body=str(ret),
+            ACL='public-read')
+      return ret
     
     new_filtered_table = filtered_table
     
@@ -116,10 +143,17 @@ def lambda_handler(event, context):
       print(new_filtered_table)
   
       if not new_filtered_table:
-          return {
+          ret = {
               "statusCode": 200,
               "statusMessage": "No articles matching both period of interest and key_terms parameters"
           }
+          response = s3.put_object(
+            Bucket='y-2',
+            Key=key,
+            Body=str(ret),
+            ACL='public-read'
+          )
+          return ret
 
 
     result_table = new_filtered_table
@@ -130,10 +164,17 @@ def lambda_handler(event, context):
     print(result_table)
     
     if not result_table:
-        return {
+        ret = {
             "statusCode": 200,
             "statusMessage": "No articles matching the given query."
         }
+        response = s3.put_object(
+            Bucket='y-2',
+            Key=key,
+            Body=str(ret),
+            ACL='public-read'
+         ) 
+        return ret
     
     final_article_ids = [sub["article_id"] for sub in result_table]   
 
@@ -144,11 +185,18 @@ def lambda_handler(event, context):
     new_filtered_table = [l for l in articles if any(e in final_article_ids for e in l.values())]
     print(new_filtered_table)
 
-    return {
+    ret = {
         "statusCode": 200,
         "body": new_filtered_table,
         "statusMessage": "Query successful"
     }
+    response = s3.put_object(
+            Bucket='y-2',
+            Key=key,
+            Body=str(ret),
+            ACL='public-read'
+    ) 
+    return ret
 
 
 
