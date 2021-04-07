@@ -1,0 +1,961 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: travio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-21 15:36+0600\n"
+"PO-Revision-Date: 2018-07-18 10:21+0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SmartDataSoft <support@smartdatasoft.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html_e;esc_attr_e;"
+"esc_html__\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wp-themes/travio/wp-content/themes/"
+"travio\n"
+"Last-Translator: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:20
+msgid "404"
+msgstr ""
+
+#: 404.php:23
+msgid "Go To Home"
+msgstr ""
+
+#: archive-tour.php:26
+msgid "Showing 1-6 of 20 Results"
+msgstr ""
+
+#: comments.php:39
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:96
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:97
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: comments.php:98
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:99
+msgid "Submit now"
+msgstr ""
+
+#: comments.php:101
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:109
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:114
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"%4$s\">Log out?"
+"</a>"
+msgstr ""
+
+#: components/header/header-style/header-style-two.php:43
+#: framework/classes/travio-int.php:99 framework/classes/travio-int.php:122
+#: framework/classes/travio-int.php:179 framework/classes/travio-int.php:181
+msgid "Logo"
+msgstr ""
+
+#: footer.php:19
+msgid "&copy; Copyright 2021 by TRAVIO"
+msgstr ""
+
+#: framework/classes/travio-int.php:18 framework/classes/travio-int.php:41
+msgid "Search..."
+msgstr ""
+
+#: framework/classes/travio-int.php:62
+msgid "Preloader Close"
+msgstr ""
+
+#: framework/classes/travio-int.php:239
+msgid "Tours"
+msgstr ""
+
+#: framework/classes/travio-int.php:258
+msgid " Details"
+msgstr ""
+
+#: framework/classes/travio-int.php:262
+msgid "Error Page"
+msgstr ""
+
+#: framework/classes/travio-int.php:266
+msgid "Search Results for: "
+msgstr ""
+
+#: framework/classes/travio-int.php:269
+msgid "Nothing Found"
+msgstr ""
+
+#: framework/redux/redux-config.php:32 framework/redux/redux-config.php:33
+msgid "Travio Options"
+msgstr ""
+
+#: framework/redux/redux-config.php:100
+msgid "Base theme option"
+msgstr ""
+
+#: framework/redux/redux-config.php:102
+msgid "Chnage Base theme option here"
+msgstr ""
+
+#: framework/redux/redux-config.php:108
+msgid "Preloader on off switch"
+msgstr ""
+
+#: framework/redux/redux-config.php:110 framework/redux/redux-config.php:124
+#: framework/redux/redux-config.php:132 framework/redux/redux-config.php:173
+#: framework/redux/redux-config.php:208 framework/redux/redux-config.php:246
+#: framework/redux/redux-config.php:297 framework/redux/redux-config.php:306
+#: framework/redux/redux-config.php:397 framework/redux/redux-config.php:422
+#: framework/redux/redux-config.php:467
+msgid "Enable"
+msgstr ""
+
+#: framework/redux/redux-config.php:111 framework/redux/redux-config.php:125
+#: framework/redux/redux-config.php:133 framework/redux/redux-config.php:174
+#: framework/redux/redux-config.php:209 framework/redux/redux-config.php:247
+#: framework/redux/redux-config.php:296 framework/redux/redux-config.php:305
+#: framework/redux/redux-config.php:398 framework/redux/redux-config.php:423
+#: framework/redux/redux-config.php:468
+msgid "Disable"
+msgstr ""
+
+#: framework/redux/redux-config.php:117
+msgid "Currency"
+msgstr ""
+
+#: framework/redux/redux-config.php:122
+msgid "Back To Top on off switch"
+msgstr ""
+
+#: framework/redux/redux-config.php:130
+msgid "theme base css"
+msgstr ""
+
+#: framework/redux/redux-config.php:142
+msgid "Header theme option"
+msgstr ""
+
+#: framework/redux/redux-config.php:144
+msgid "Chnage Header theme option here"
+msgstr ""
+
+#: framework/redux/redux-config.php:150
+msgid "Header style"
+msgstr ""
+
+#: framework/redux/redux-config.php:153 framework/redux/redux-config.php:458
+msgid "One"
+msgstr ""
+
+#: framework/redux/redux-config.php:154 framework/redux/redux-config.php:459
+msgid "Two"
+msgstr ""
+
+#: framework/redux/redux-config.php:155
+msgid "Three"
+msgstr ""
+
+#: framework/redux/redux-config.php:156
+msgid "Four"
+msgstr ""
+
+#: framework/redux/redux-config.php:157
+msgid "Elementor Header"
+msgstr ""
+
+#: framework/redux/redux-config.php:165
+msgid "Header builder widget"
+msgstr ""
+
+#: framework/redux/redux-config.php:171
+msgid "Header Search on off"
+msgstr ""
+
+#: framework/redux/redux-config.php:179
+msgid "Header User Link"
+msgstr ""
+
+#: framework/redux/redux-config.php:184
+msgid "Button Text"
+msgstr ""
+
+#: framework/redux/redux-config.php:185
+msgid "Book A Tour"
+msgstr ""
+
+#: framework/redux/redux-config.php:190
+msgid "Button URL"
+msgstr ""
+
+#: framework/redux/redux-config.php:198
+msgid "Header Top Bar"
+msgstr ""
+
+#: framework/redux/redux-config.php:206
+msgid "Header Top on off"
+msgstr ""
+
+#: framework/redux/redux-config.php:214
+msgid "Email"
+msgstr ""
+
+#: framework/redux/redux-config.php:215
+msgid "needhelp@info.com"
+msgstr ""
+
+#: framework/redux/redux-config.php:220
+msgid "Phone"
+msgstr ""
+
+#: framework/redux/redux-config.php:221
+msgid "88 666 000 9999"
+msgstr ""
+
+#: framework/redux/redux-config.php:226
+msgid "Address"
+msgstr ""
+
+#: framework/redux/redux-config.php:227
+msgid "88 broklyn silver street, USA"
+msgstr ""
+
+#: framework/redux/redux-config.php:235
+msgid "Sticky header Menu"
+msgstr ""
+
+#: framework/redux/redux-config.php:238
+msgid "Chnage Header Menu option here"
+msgstr ""
+
+#: framework/redux/redux-config.php:244
+msgid "Sticky header on off switch"
+msgstr ""
+
+#: framework/redux/redux-config.php:255
+msgid "Mobile Menu"
+msgstr ""
+
+#: framework/redux/redux-config.php:258
+msgid "Chnage mobile Menu option here"
+msgstr ""
+
+#: framework/redux/redux-config.php:265
+msgid "Mobile Logo"
+msgstr ""
+
+#: framework/redux/redux-config.php:270
+msgid "Mobile Contact Info"
+msgstr ""
+
+#: framework/redux/redux-config.php:275
+msgid "Mobile Contact Social"
+msgstr ""
+
+#: framework/redux/redux-config.php:284 framework/redux/redux-config.php:286
+#: framework/redux/redux-config.php:302
+msgid "Typography"
+msgstr ""
+
+#: framework/redux/redux-config.php:293
+msgid "Google Fonts"
+msgstr ""
+
+#: framework/redux/redux-config.php:294
+msgid "Enable or Disable Google Fonts"
+msgstr ""
+
+#: framework/redux/redux-config.php:303
+msgid "Enable or Disable Typography"
+msgstr ""
+
+#: framework/redux/redux-config.php:312
+msgid "Body Typography"
+msgstr ""
+
+#: framework/redux/redux-config.php:313
+msgid "Select body font family, size, line height, color and weight."
+msgstr ""
+
+#: framework/redux/redux-config.php:323
+msgid "H1 Font"
+msgstr ""
+
+#: framework/redux/redux-config.php:324 framework/redux/redux-config.php:334
+#: framework/redux/redux-config.php:345 framework/redux/redux-config.php:355
+#: framework/redux/redux-config.php:365 framework/redux/redux-config.php:375
+msgid "Select heading font family and weight."
+msgstr ""
+
+#: framework/redux/redux-config.php:333
+msgid "H2 Font"
+msgstr ""
+
+#: framework/redux/redux-config.php:344
+msgid "H3 Font"
+msgstr ""
+
+#: framework/redux/redux-config.php:354
+msgid "H4 Font"
+msgstr ""
+
+#: framework/redux/redux-config.php:364
+msgid "H5 Font"
+msgstr ""
+
+#: framework/redux/redux-config.php:374
+msgid "H6 Font"
+msgstr ""
+
+#: framework/redux/redux-config.php:387
+msgid "Breadcrumb area"
+msgstr ""
+
+#: framework/redux/redux-config.php:395
+msgid "Blog breadcrumb on off switch"
+msgstr ""
+
+#: framework/redux/redux-config.php:405
+msgid "Blog breadcrumb background"
+msgstr ""
+
+#: framework/redux/redux-config.php:414
+msgid "Blog breadcrumb title"
+msgstr ""
+
+#: framework/redux/redux-config.php:415
+msgid "Blog Page"
+msgstr ""
+
+#: framework/redux/redux-config.php:420
+msgid "Blog Single breadcrumb on off switch"
+msgstr ""
+
+#: framework/redux/redux-config.php:430
+msgid "Blog Single breadcrumb background"
+msgstr ""
+
+#: framework/redux/redux-config.php:439
+msgid "Blog single breadcrumb title"
+msgstr ""
+
+#: framework/redux/redux-config.php:440
+msgid "Blog Details"
+msgstr ""
+
+#: framework/redux/redux-config.php:448
+msgid "Blog option"
+msgstr ""
+
+#: framework/redux/redux-config.php:450
+msgid "Change blog option"
+msgstr ""
+
+#: framework/redux/redux-config.php:456
+msgid "Blog style"
+msgstr ""
+
+#: framework/redux/redux-config.php:465
+msgid "social share"
+msgstr ""
+
+#: framework/redux/redux-config.php:476
+msgid "Elementor widget for Footer"
+msgstr ""
+
+#: framework/redux/redux-config.php:483
+msgid "Footer widget"
+msgstr ""
+
+#: framework/redux/redux-config.php:490
+msgid "Footer Widget Background"
+msgstr ""
+
+#: framework/redux/redux-config.php:501
+msgid "Footer option"
+msgstr ""
+
+#: framework/redux/redux-config.php:503
+msgid "Chnage footer option here"
+msgstr ""
+
+#: framework/redux/redux-config.php:509
+msgid "Copyright text"
+msgstr ""
+
+#: framework/redux/redux-config.php:514
+msgid "Footer link"
+msgstr ""
+
+#: framework/redux/redux-config.php:522
+msgid "Color option"
+msgstr ""
+
+#: framework/redux/redux-config.php:524
+msgid "Chnage Color option here"
+msgstr ""
+
+#: framework/redux/redux-config.php:530
+msgid "Primary Color"
+msgstr ""
+
+#: framework/redux/redux-config.php:531
+msgid "Pick a color for the theme."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:332
+#: framework/tgm/config-tgm.php:77
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:333
+#: framework/tgm/config-tgm.php:78
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:335
+#: framework/tgm/config-tgm.php:79
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:338
+#: framework/tgm/config-tgm.php:80
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:390
+#: framework/tgm/config-tgm.php:91
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:391
+#: framework/tgm/class-tgm-plugin-activation.php:858
+#: framework/tgm/class-tgm-plugin-activation.php:2572
+#: framework/tgm/class-tgm-plugin-activation.php:3632
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:392
+#: framework/tgm/class-tgm-plugin-activation.php:3205
+#: framework/tgm/config-tgm.php:92
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:393
+msgid "The following plugin was activated successfully"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:395
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:396
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:397
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:398
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:399
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:589
+msgid "Update Required"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:956
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:956
+#: framework/tgm/class-tgm-plugin-activation.php:966
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:966
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not "
+"packaged in a folder."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2018
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2314
+msgid "Required"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2317
+msgid "Recommended"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2333
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2336
+msgid "External Source"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2339
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2356
+msgid "Not Installed"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2360
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2362
+msgid "Active"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2368
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2370
+msgid "Requires Update"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2372
+msgid "Update recommended"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2381
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2431
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2435
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2439
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2521
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2529
+msgid "Installed version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2537
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2549
+msgid "Available version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2572
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2586
+msgid "Plugin"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2587
+msgid "Source"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2588
+msgid "Type"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2592
+msgid "Version"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2593
+msgid "Status"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2642
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2647
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2653
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2723
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2755
+msgid "Install"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2761
+msgid "Update"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2764
+msgid "Activate"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2795
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2797
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2838
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2840
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2945
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2971
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2989
+msgid "The following plugin was activated successfully."
+msgid_plural "The following plugins were activated successfully."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3204
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3550
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3553
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3555
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3559
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3561
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3561
+#: framework/tgm/class-tgm-plugin-activation.php:3569
+msgid "Show Details"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3561
+#: framework/tgm/class-tgm-plugin-activation.php:3569
+msgid "Hide Details"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3562
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3564
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3567
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3569
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3570
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3572
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/config-tgm.php:15
+msgid "Travio Core"
+msgstr ""
+
+#: framework/tgm/config-tgm.php:24
+msgid "Travio Demo Installer"
+msgstr ""
+
+#: framework/tgm/config-tgm.php:33
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/tgm/config-tgm.php:41
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/tgm/config-tgm.php:49
+msgid "Elementor"
+msgstr ""
+
+#: framework/tgm/config-tgm.php:57
+msgid "Meta Box"
+msgstr ""
+
+#: framework/tgm/config-tgm.php:93
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:83
+msgid "Primary"
+msgstr ""
+
+#: functions.php:167
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:169 functions.php:181 functions.php:193 functions.php:205
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:179
+msgid "Tour Sidebar"
+msgstr ""
+
+#: functions.php:191
+msgid "Tour Details Sidebar"
+msgstr ""
+
+#: functions.php:203
+msgid "Destinations Sidebar"
+msgstr ""
+
+#: inc/helpers.php:100 inc/helpers.php:106
+#: template-parts/tour-style/tour-comments.php:25
+msgid "Super"
+msgstr ""
+
+#: inc/helpers.php:102 template-parts/tour-style/tour-comments.php:27
+msgid "Avarage"
+msgstr ""
+
+#: inc/helpers.php:104 template-parts/tour-style/tour-comments.php:29
+msgid "Poor"
+msgstr ""
+
+#: inc/helpers.php:230
+msgid "Nonce verification failed!"
+msgstr ""
+
+#: inc/helpers.php:360
+msgid "Sorry, nothing matched your search criteria"
+msgstr ""
+
+#: inc/template-tags.php:76
+msgid "By "
+msgstr ""
+
+#: inc/template-tags.php:137 inc/template-tags.php:177
+msgid "Reply"
+msgstr ""
+
+#: searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: single-tour.php:57 template-parts/tour-style/archive-grid.php:44
+#: template-parts/tour-style/archive-list.php:42
+msgid " Reviews"
+msgstr ""
+
+#: single-tour.php:59 template-parts/tour-style/archive-grid.php:46
+#: template-parts/tour-style/archive-list.php:44
+msgid " Review"
+msgstr ""
+
+#: template-parts/blog-layout/blog-grid-content.php:32
+#: template-parts/blog-layout/blog-standard-content.php:59
+#: template-parts/tour-style/archive-grid.php:59
+#: template-parts/tour-style/archive-list.php:53
+msgid "See Details"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+
+#: template-parts/single/content.php:71
+msgid "We Are Social On:"
+msgstr ""
+
+#: template-parts/tour-style/tour-comments.php:44
+#: template-parts/tour-style/tour-comments.php:129
+#: template-parts/tour-style/tour-comments.php:236
+msgid "Accommodation"
+msgstr ""
+
+#: template-parts/tour-style/tour-comments.php:51
+#: template-parts/tour-style/tour-comments.php:201
+#: template-parts/tour-style/tour-comments.php:249
+msgid "Transport"
+msgstr ""
+
+#: template-parts/tour-style/tour-comments.php:58
+#: template-parts/tour-style/tour-comments.php:147
+#: template-parts/tour-style/tour-comments.php:262
+msgid "Comfort"
+msgstr ""
+
+#: template-parts/tour-style/tour-comments.php:65
+#: template-parts/tour-style/tour-comments.php:165
+#: template-parts/tour-style/tour-comments.php:275
+msgid "Hospitality"
+msgstr ""
+
+#: template-parts/tour-style/tour-comments.php:72
+#: template-parts/tour-style/tour-comments.php:183
+#: template-parts/tour-style/tour-comments.php:288
+msgid "Food"
+msgstr ""
+
+#: template-parts/tour-style/tour-comments.php:107
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: template-parts/tour-style/tour-comments.php:233
+msgid "Leave Your Comments"
+msgstr ""
+
+#: template-parts/tour-style/tour-comments.php:307
+msgid "Your Name"
+msgstr ""
+
+#: template-parts/tour-style/tour-comments.php:310
+msgid "Email Address"
+msgstr ""
+
+#: template-parts/tour-style/tour-comments.php:313
+msgid "Review Title"
+msgstr ""
+
+#: template-parts/tour-style/tour-comments.php:316
+msgid "Write Message"
+msgstr ""
+
+#: template-parts/tour-style/tour-comments.php:319
+msgid "Submit Now"
+msgstr ""
