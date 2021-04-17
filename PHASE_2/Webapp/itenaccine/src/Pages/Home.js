@@ -1,25 +1,39 @@
 import React, { Component } from 'react';
+import BookingForm from '../Components/BookingForm'
 
+// function newForm {
+
+// }
 
 class Home extends Component {
+    
+    
     render() {
         return (
             <>
                 {/* <!-- banner-section --> */}
-                <section className="banner-section" style={{ backgroundImage: "url(assets/images/banner/banner-1.jpg)" }}>
+                <section className="banner-section" style={{ backgroundImage: "url(assets/images/banner/travel.jpg)" }}>
                     <div className="pattern-layer" style={{ backgroundImage: "url(assets/images/shape/shape-1.png)" }}></div>
                     <div className="auto-container">
                         <div className="content-box">
                             <h2>Explore <br />Your Travel</h2>
                             <p>Discover your next great adventure, become an explorer to get started!</p>
                             <div className="form-inner">
-                                <form action="index.html" method="post" className="booking-form clearfix">
+
+                                <BookingForm />
+
+
+                                {/* <form action="index.html" method="post" className="booking-form clearfix">
                                     <div className="form-group">
-                                        <input type="text" name="service" placeholder="Where to?" required="" />
+                                            <input type="text" name="service" placeholder="Where to?" required="" />
                                     </div>
                                     <div className="form-group input-date">
                                         <i className="far fa-angle-down"></i>
-                                        <input type="text" name="date" placeholder="When?" id="datepicker" />
+                                        <input type="text" name="date" placeholder="Departure?" id="datepicker" />
+                                    </div>
+                                    <div className="form-group input-date">
+                                        <i className="far fa-angle-down"></i>
+                                        <input type="text" name="date" placeholder="Arriving?" id="datepicker" />
                                     </div>
                                     <div className="form-group">
                                         <div className="select-box">
@@ -31,11 +45,18 @@ class Home extends Component {
                                                 <option value="4">Group Tours</option>
                                             </select>
                                         </div>
-                                    </div>
+                                    </div> 
                                     <div className="message-btn">
                                         <button type="submit" className="theme-btn"><i className="far fa-search"></i>Find Now</button>
                                     </div>
-                                </form>
+                                    <div className="message-btn">
+                                        <button type="button" className="theme-btn" onClick={() => props.add()}><i className="fa fa-plus"></i></button>
+                                    </div>
+                                </form> */}
+                                
+                                
+
+
                             </div>
                         </div>
                     </div>

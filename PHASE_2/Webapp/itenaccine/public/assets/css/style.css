@@ -1641,6 +1641,20 @@ div#mCSB_1_container{
   transition: all 500ms ease;
 }
 
+.booking-form .form-group input[type='date']{
+  position: relative;
+  max-width: 286px;
+  width: 100%;
+  height: 64px;
+  background: #fff;
+  border-radius: 5px;
+  padding: 10px 25px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #848484;
+  transition: all 500ms ease;
+}
+
 .booking-form .form-group i{
   position: absolute;
   top: 24px;
@@ -1676,6 +1690,22 @@ div#mCSB_1_container{
   background: #ffffff;
   border-radius: 5px;
   padding: 0px 20px;
+}
+
+.form-label {
+  padding-left: 1.5rem;
+  font-weight: 500;
+}
+
+#add-button{
+  position: absolute;
+  right: 95px;
+}
+
+#minus-button{
+  position: absolute;
+  right: 95px;
+  margin-bottom: 200px;
 }
 
 .booking-form .message-btn{
