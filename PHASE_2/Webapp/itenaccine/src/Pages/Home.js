@@ -1,10 +1,6 @@
 import React, { Component } from 'react';
 import BookingForm from '../Components/BookingForm'
 
-// function newForm {
-
-// }
-
 class Home extends Component {
     
     
