@@ -11,7 +11,7 @@ function App() {
       <Router>
         <Switch id="routes">
           <Route exact path="/" render={props => <Page> <Home /> </Page>} />
-          {/* <Route path="/trips" render={props => <Page Trips/>} /> */}
+          <Route path="/trips" render={props => <Page> <Trips /> </Page>} />
         </Switch>
       </Router>
     </React.Fragment>

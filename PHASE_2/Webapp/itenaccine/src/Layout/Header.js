@@ -10,7 +10,12 @@ class Header extends Component {
                     <div className="auto-container">
                         <div className="outer-box">
                             <div className="logo-box">
+
+                                {/* Make Canary Logo */}
                                 <figure className="logo"><a href="index.html"><img src="assets/images/logo.png" alt="" /></a></figure>
+
+
+                                
                             </div>
                             <div className="menu-area clearfix">
                                 {/* <!--Mobile Navigation Toggler--> */}
