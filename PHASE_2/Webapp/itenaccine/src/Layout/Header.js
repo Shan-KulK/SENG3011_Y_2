@@ -134,9 +134,10 @@ class Header extends Component {
                                     </div>
                                 </li>
                                 <li className="user-link">
-                                    <a href="signup.html"><i className="icon-Profile"></i></a>
+                                    {/* <a href="signup.html"><i className="icon-Profile"></i></a> */}
+                                    <AuthNav />
                                 </li>
-                                <AuthNav />
+                                
                             </ul>
                         </div>
                     </div>
@@ -173,10 +174,11 @@ class Header extends Component {
 
 
                                 <li className="user-link">
-                                    <a href="signup.html"><i className="icon-Profile"></i></a>
+                                    {/* <a href="signup.html"><i className="icon-Profile"></i></a> */}
+                                    <AuthNav />
                                 </li>
 
-                                <AuthNav />
+                                
                             </ul>
                         </div>
                     </div>

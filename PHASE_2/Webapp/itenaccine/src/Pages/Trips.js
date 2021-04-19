@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Map, GoogleApiWrapper, InfoWindow, Marker } from 'google-maps-react';
+import NewsCard from '../Layout/NewsCard';
 
 const mapStyles = {
   width: '100%',
@@ -30,36 +31,40 @@ export class MapContainer extends Component {
   render() {
     return (
         <>
-            <section className="banner-section" >
-                <Map
-                    google={this.props.google}
-                    zoom={6}
-                    style={mapStyles}
-                    initialCenter={{ lat: -33.854, lng: 151.206 }}
-                >
-                    <Marker
-                        onClick={this.onMarkerClick}
-                        name={'Kenyatta International Convention Centre'}
-                        />
-                    <InfoWindow
-                        marker={this.state.activeMarker}
-                        visible={this.state.showingInfoWindow}
-                        onClose={this.onClose}
-                        >
-                    <div>
-                        <h4>{this.state.selectedPlace.name}</h4>
-                    </div>
-                    </InfoWindow>
-                </Map >
-                <div className="pattern-layer" ></div>
-                <div className="auto-container">
-                    <div className="content-box"></div>
-                </div>
+            <section className="banner-section">
+                    <div className="pattern-layer" style={{ backgroundImage: "url(assets/images/shape/shape-1.png)" }}></div>
+                        
+                            <Map
+                                google={this.props.google}
+                                zoom={6}
+                                style={mapStyles}
+                                initialCenter={{ lat: -33.854, lng: 151.206 }}
+                            >
+                                <Marker
+                                    onClick={this.onMarkerClick}
+                                    name={'Kenyatta International Convention Centre'}
+                                    />
+                                <InfoWindow
+                                    marker={this.state.activeMarker}
+                                    visible={this.state.showingInfoWindow}
+                                    onClose={this.onClose}
+                                    >
+                                <div>
+                                    <h4>{this.state.selectedPlace.name}</h4>
+                                </div>
+                                </InfoWindow>
+                            </Map >
+                    
+                
             </section>
-            <section className="trips-section" style={{height: "500px", width: "100%"}}>
-                <div className="container" style={{marginTop: "250px"}}>
-                    <h1> Your Trips</h1>
-                </div>
+            <section className="news-section sec-pad pb-220">
+            <div className="pattern-layer" style={{ backgroundImage: "url(assets/images/shape/shape-10.png)" }}></div>
+                    <div className="auto-container">
+                        <div className="sec-title">
+                            <h2>Your Trips</h2>
+                        </div>
+                    </div>
+                <NewsCard />
             </section>
       </>
     );
