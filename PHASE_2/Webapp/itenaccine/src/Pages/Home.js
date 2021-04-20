@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import BookingForm from '../Components/BookingForm';
 import NewsRow from '../Layout/NewsRow';
+import ExternalApi from '../auth/external-api';
 
 class Home extends Component {
     
@@ -159,6 +160,9 @@ class Home extends Component {
                         </div>
 
                         <NewsRow />
+
+
+                        <ExternalApi />
                         {/* <div className="row clearfix">
                             <div className="col-lg-4 col-md-6 col-sm-12 news-block">
                                 <div className="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">

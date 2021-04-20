@@ -1,7 +1,9 @@
  
-/* Css For Travio */
+/* Css For Canary */
 
 /************ TABLE OF CONTENTS ***************
+0. last minute changes and adjustments to the css to make canary sing
+
 1. Fonts
 2. Reset
 3. Global
@@ -42,7 +44,18 @@
 
 **********************************************/
 
+#global-news {
+  padding-bottom: 0%;
+}
 
+#local-news {
+  padding-top: 80px;
+}
+
+#canary-logo {
+  width: 100px;
+  height: 100px;
+}
 
 /*** 
 
@@ -1623,8 +1636,7 @@ div#mCSB_1_container{
 .booking-form .form-group{
   position: relative;
   float: left;
-  width: 28.333%;
-  margin: 5px;
+  width: 20.333%;
 }
 
 .booking-form .form-group input[type='text']{
@@ -1699,8 +1711,8 @@ div#mCSB_1_container{
 
 #add-button{
   position: absolute;
-  top: 25px;
-  right: 230px;
+  top: 33px;
+  right: 500px;
   display: flex;
   justify-self: end;
   overflow: hidden;
@@ -1718,12 +1730,12 @@ div#mCSB_1_container{
   margin-top: -1px;
   margin-bottom: 15px;
   margin-left: 0px;
-  padding-top: 24px;
+  padding-top: 25px;
 }
 
 #minus-button{
   position: absolute;
-  right: 65px;
+  right: 500px;
   display: flex;
   overflow: hidden;
   font-size: 17px;
@@ -1741,8 +1753,8 @@ div#mCSB_1_container{
 
 .booking-form .message-btn{
   position: absolute;
-  top: 20px;
-  right: 20px;
+  top: 30px;
+  right: 260px;
   z-index: 1;
 }
 
