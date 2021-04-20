@@ -3,6 +3,7 @@ import { Map, GoogleApiWrapper, InfoWindow, Marker } from 'google-maps-react';
 import NewsCard from '../Layout/NewsCard';
 import Profile from '../Layout/profile';
 
+
 const mapStyles = {
   width: '100%',
   height: '100%'
@@ -20,6 +21,15 @@ export class MapContainer extends Component {
         activeMarker: marker,
         showingInfoWindow: true
         });
+
+        onMapClicked = (props) => {
+            if (this.state.showingInfoWindow) {
+              this.setState({
+                showingInfoWindow: false,
+                activeMarker: null
+              })
+            }
+          };
 
     onClose = props => {
         if (this.state.showingInfoWindow) {
@@ -40,6 +50,7 @@ export class MapContainer extends Component {
                                 zoom={6}
                                 style={mapStyles}
                                 initialCenter={{ lat: -33.854, lng: 151.206 }}
+                                onClick={this.onMapClicked}
                             >
                                 <Marker
                                     onClick={this.onMarkerClick}
