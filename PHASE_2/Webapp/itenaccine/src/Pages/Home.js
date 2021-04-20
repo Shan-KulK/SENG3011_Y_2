@@ -68,7 +68,6 @@ class Home extends Component {
                         <div className="sec-title">
                             <p>News & Articles</p>
                             <h2>Top Global News</h2>
-                            <a href="blog.html" className="theme-btn-two">All Blog Posts</a>
                         </div>
 
 

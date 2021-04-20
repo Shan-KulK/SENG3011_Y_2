@@ -77,7 +77,7 @@ class Page extends Component{
 
                     {this.props.children}
 
-                    <Footer />
+                    {/* <Footer /> */}
                     <button className="scroll-top scroll-to-target" data-target="html">
                         <span className="fal fa-angle-up"></span>
                     </button>

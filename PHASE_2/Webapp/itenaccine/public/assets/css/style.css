@@ -100,9 +100,9 @@ body {
 
 .auto-container{
   position:static;
-  max-width:1200px;
-  padding:0px 15px;
-  margin:0 auto;
+  /* max-width:1200px; */
+  padding:0px 20px; 
+  margin:0 auto; 
 }
 
 .small-container{
@@ -1615,8 +1615,8 @@ div#mCSB_1_container{
 .banner-section .content-box .form-inner{
   position: relative;
   display: block;
-  padding: 20px 228px 20px 20px;
-  background: rgba(255,255,255,0.15);
+  padding: 30px 25px;
+  /* background: rgba(255,255,255,0.15); */
   border-radius: 6px;
 }
 
@@ -1738,7 +1738,7 @@ div#mCSB_1_container{
 .feature-block-one .inner-box{
   position: relative;
   display: block;
-  border-radius: 10px;
+  border-radius: 5px;
   overflow: hidden;
   background: #ffffff;
   box-shadow: 0px 15px 25px 0px rgba(0,0,0,0.08);
@@ -2841,7 +2841,7 @@ div#mCSB_1_container{
   font-weight: 500;
   background: #ffffff;
   border-radius: 25px;
-  padding: 5px 20px 3px 55px;
+  padding: 5px 15px 3px 50px;
   box-shadow: 0px 0px 40px 0px rgba(0,0,0,0.5);
 }
 
