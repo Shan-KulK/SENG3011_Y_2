@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import Footer from './Footer';
-import Header from './Header';
-
+// import Footer from './Footer';
+// import Header from './Header';
+import Navbar from '../Components/Navbar';
 
 
 class Page extends Component{
@@ -45,7 +45,8 @@ class Page extends Component{
                             </div>
                         </div>
                     </div>
-                    <Header />
+                    <Navbar />
+                    {/* <Header /> */}
                     <div className="mobile-menu">
                         <div className="menu-backdrop"></div>
                         <div className="close-btn"><i className="fas fa-times"></i></div>

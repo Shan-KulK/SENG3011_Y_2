@@ -26,8 +26,8 @@ class CustomNewsRow extends Component {
                 {/* <Divider orientation="left">Presets</Divider> */}
                 <div style={{ display: 'inline' }}>
                     <h2>Heading</h2>
-                    <Button variant="primary" onClick={this.handleShow} style={{ float: 'right' }}>
-                        Edit
+                    <Button variant="primary" onClick={this.handleShow} style={{ float: 'right', width:  "100px", height: "40px" }}>
+                        <i class="far fa-edit"></i>
                     </Button>
                 </div>
                 <div>

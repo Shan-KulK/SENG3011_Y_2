@@ -8,7 +8,7 @@ const LoginButton = () => {
       className="btn btn-primary btn-block"
       onClick={() => loginWithRedirect()}
     >
-      Log In
+      <i class="far fa-user"></i>
     </button>
   );
 };

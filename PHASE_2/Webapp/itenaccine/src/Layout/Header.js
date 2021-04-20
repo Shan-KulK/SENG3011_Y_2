@@ -12,7 +12,7 @@ class Header extends Component {
                             <div className="logo-box">
 
                                 {/* Make Canary Logo */}
-                                <figure className="logo"><a href="index.html"><img src="assets/images/logo.png" alt="" /></a></figure>
+                                <figure className="logo"><a href="http://localhost:3000"><img src="assets/images/navbar/UntitledDesign.png" alt="" /></a></figure>
 
 
                                 

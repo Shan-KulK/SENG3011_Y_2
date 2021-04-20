@@ -1,8 +1,9 @@
 import React from "react";
 import AuthenticationButton from "./authentication-button";
+import './authNav.css'
 
 const authNav = () => (
-  <div className="navbar-nav ml-auto">
+  <div className="auth-button">
     <AuthenticationButton />
   </div>
 );

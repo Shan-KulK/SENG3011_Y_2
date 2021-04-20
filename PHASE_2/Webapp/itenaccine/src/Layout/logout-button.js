@@ -12,7 +12,7 @@ const LogoutButton = () => {
         })
       }
     >
-      Log Out
+      <i class="fas fa-sign-out-alt"></i>
     </button>
   );
 };
