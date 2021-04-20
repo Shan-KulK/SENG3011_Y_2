@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Map, GoogleApiWrapper, InfoWindow, Marker } from 'google-maps-react';
 import NewsCard from '../Layout/NewsCard';
+import Profile from '../Layout/profile';
 
 const mapStyles = {
   width: '100%',
@@ -59,6 +60,7 @@ export class MapContainer extends Component {
             </section>
             <section className="news-section sec-pad pb-220">
             <div className="pattern-layer" style={{ backgroundImage: "url(assets/images/shape/shape-10.png)" }}></div>
+                <Profile />
                     <div className="auto-container">
                         <div className="sec-title">
                             <h2>Your Trips</h2>

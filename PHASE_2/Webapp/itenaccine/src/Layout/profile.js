@@ -1,14 +1,14 @@
 import React from "react";
 
 import { useAuth0, withAuthenticationRequired } from "@auth0/auth0-react";
-import { Loading } from "../components";
+import Page from './Page';
 
 const Profile = () => {
   const { user } = useAuth0();
   const { name, picture, email } = user;
 
   return (
-    <div>
+    <div className="profile-container" style={{marginTop: "100px", marginBottom: "100px"}}>
       <div className="row align-items-center profile-header">
         <div className="col-md-2 mb-3">
           <img
@@ -32,5 +32,5 @@ const Profile = () => {
 };
 
 export default withAuthenticationRequired(Profile, {
-  onRedirecting: () => <Loading />,
+  onRedirecting: () => <Page />,
 });

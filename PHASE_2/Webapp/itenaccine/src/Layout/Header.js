@@ -27,8 +27,8 @@ class Header extends Component {
                                 <nav className="main-menu navbar-expand-md navbar-light">
                                     <div className="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                         <ul className="navigation clearfix">
-                                            <li className="current dropdown"><a href="index.html">Home</a>
-                                                <ul>
+                                            <li className="current dropdown"><a href="http://localhost:3000/">Home</a>
+                                                {/* <ul>
                                                     <li><a href="index.html">Home Page 01</a></li>
                                                     <li><a href="index-2.html">Home Page 02</a></li>
                                                     <li><a href="index-3.html">Home Page 03</a></li>
@@ -43,16 +43,16 @@ class Header extends Component {
                                                             <li><a href="index-3.html">Header Style 03</a></li>
                                                         </ul>
                                                     </li>
-                                                </ul>
+                                                </ul> */}
                                             </li>
-                                            <li className="dropdown"><a href="index.html">Destinations</a>
+                                            <li className="dropdown"><a href="http://localhost:3000/trips">Profile</a>
                                                 <ul>
-                                                    <li><a href="destination.html">Destinations 01</a></li>
-                                                    <li><a href="destination-2.html">Destinations 02</a></li>
-                                                    <li><a href="destination-details.html">Destination Details</a></li>
+                                                    <li><a href="http://localhost:3000/trips">Your Trips</a></li>
+                                                    {/* <li><a href="destination-2.html">Destinations 02</a></li>
+                                                    <li><a href="destination-details.html">Destination Details</a></li> */}
                                                 </ul>
                                             </li>
-                                            <li className="dropdown"><a href="index.html">Tours</a>
+                                            {/* <li className="dropdown"><a href="index.html">Tours</a>
                                                 <ul>
                                                     <li><a href="tour-1.html">Tours Grid</a></li>
                                                     <li><a href="tour-2.html">Tours List</a></li>
@@ -112,7 +112,7 @@ class Header extends Component {
                                                     <li><a href="blog-details.html">Blog Details</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="contact.html">Contact</a></li> */}
                                         </ul>
                                     </div>
                                 </nav>
@@ -120,16 +120,18 @@ class Header extends Component {
                             <ul className="menu-right-content clearfix">
                                 <li className="search-box-outer">
                                     <div className="dropdown">
-                                        <button className="search-box-btn" type="button" id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i className="far fa-search"></i></button>
+                                        {/* <button className="search-box-btn" type="button" id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i className="far fa-search"></i></button> */}
                                         <div className="dropdown-menu search-panel" aria-labelledby="dropdownMenu3">
                                             <div className="form-container">
                                                 <form method="post" action="blog.html">
-                                                    <div className="form-group">
+                                                    {/* <div className="form-group">
                                                         <input type="search" name="search-field" value="" placeholder="Search...." required="" />
                                                         <button type="submit" className="search-btn"><span className="fas fa-search"></span></button>
-                                                    </div>
+                                                    </div> */}
+                                                    
                                                 </form>
                                             </div>
+                                            
                                         </div>
                                     </div>
                                 </li>
@@ -165,7 +167,9 @@ class Header extends Component {
                                                     <div className="form-group">
                                                         <input type="search" name="search-field" value="" placeholder="Search...." required="" />
                                                         <button type="submit" className="search-btn"><span className="fas fa-search"></span></button>
+                                                        <AuthNav />
                                                     </div>
+                                                    
                                                 </form>
                                             </div>
                                         </div>
@@ -175,7 +179,7 @@ class Header extends Component {
 
                                 <li className="user-link">
                                     {/* <a href="signup.html"><i className="icon-Profile"></i></a> */}
-                                    <AuthNav />
+                                    {/* <AuthNav /> */}
                                 </li>
 
                                 
