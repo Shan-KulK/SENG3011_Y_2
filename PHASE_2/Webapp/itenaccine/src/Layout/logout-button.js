@@ -6,13 +6,14 @@ const LogoutButton = () => {
   return (
     <button
       className="btn btn-primary btn-block"
+      style={{marginBottom: "15px",width: "110px", padding: "10px"}}
       onClick={() =>
         logout({
           returnTo: window.location.origin,
         })
       }
     >
-      <i class="fas fa-sign-out-alt"></i>
+      Log Out     .<i class="fas fa-sign-out-alt" /> 
     </button>
   );
 };

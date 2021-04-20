@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import './Navbar.css'
 import Dropdown from './Dropdown';
 import AuthNav from '../Layout/authNav';
+import logo from './flyingDove.png';
 
 function Navbar() {
     const [click, setClick] = useState(false);
@@ -27,7 +28,7 @@ function Navbar() {
         <>
          <nav className="navbar">
              <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-                <h4>Canary<i class="fab fa-firstdraft" /> </h4>
+                <img className="canary-logo"src={logo} alt="canary-logo" />
              </Link>
              <div className="menu-icon" onClick={handleClick}>
                  <i className={click ? 'fas fa-times' : 'fas fa-bars'} />

@@ -7,8 +7,9 @@ const LoginButton = () => {
     <button
       className="btn btn-primary btn-block"
       onClick={() => loginWithRedirect()}
+      style={{marginBottom: "15px",width: "110px", padding: "10px"}}
     >
-      <i class="far fa-user"></i>
+      Log In     .<i class="far fa-user" />
     </button>
   );
 };

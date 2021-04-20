@@ -16,6 +16,12 @@
     text-decoration: none;
     font-size: 2rem;
   }
+
+  .canary-logo {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 30px;
+  }
   
   .fa-firstdraft {
     margin-left: 0.5rem;

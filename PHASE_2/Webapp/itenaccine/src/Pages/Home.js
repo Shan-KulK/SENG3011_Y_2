@@ -62,7 +62,7 @@ class Home extends Component {
 
 
                 {/* <!--  Global news-section --> */}
-                <section className="news-section sec-pad pb-220">
+                <section className="news-section sec-pad pb-220" id="global-news">
                     {/* <div className="pattern-layer" style={{ backgroundImage: "url(assets/images/shape/shape-10.png)" }}></div> */}
                     <div className="auto-container">
                         <div className="sec-title">
@@ -149,7 +149,7 @@ class Home extends Component {
                 {/* <!-- news-section end --> */}
                 
                 {/* <!-- Local New Section start --> */}
-                <section className="news-section sec-pad pb-220">
+                <section className="news-section sec-pad pb-220" id="local-news">
                     <div className="pattern-layer" style={{ backgroundImage: "url(assets/images/shape/shape-10.png)" }}></div>
                     <div className="auto-container">
                         <div className="sec-title">

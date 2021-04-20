@@ -25,9 +25,11 @@ class News extends Component {
                             </div>
                         </div>
                     </div>
-                    <div className="auto-container">
-                        <button type="button" className="news-row-btn" style={{marginLeft: "5%", marginRight: "5%", width: "90%"}}><i class="fas fa-plus"></i></button>
-                    </div>
+                    
+                    <button type="button" className="news-row-btn" style={{marginLeft: "5%", marginRight: "5%", width: "90%"}}>
+                        <i class="fas fa-plus" />
+                    </button>
+                    
                 </section>
             </>
         );
