@@ -37,9 +37,8 @@ const BookList = props => {
             id={departureDate}
             data-id={idx}
           />
+          <label className="form-label">Departure Date</label>
         </div>
-        <label className="form-label">Departure Date</label>
-        <label></label>
         <div className="message-btn">
             <button type="submit" className="theme-btn">
                 <i className="far fa-search"></i>
