@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Map, GoogleApiWrapper, InfoWindow, Marker } from 'google-maps-react';
-import NewsCard from '../Layout/NewsCard';
 import Profile from '../Layout/profile';
+import TripsCardRows from '../Components/TripsCardRows';
 
 
 const mapStyles = {
@@ -77,7 +77,7 @@ export class MapContainer extends Component {
                             <h2>Your Trips</h2>
                         </div>
                     </div>
-                <NewsCard />
+                <TripsCardRows />
             </section>
       </>
     );
