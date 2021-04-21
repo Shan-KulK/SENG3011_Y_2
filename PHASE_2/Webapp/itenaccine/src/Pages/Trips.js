@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Map, GoogleApiWrapper, InfoWindow, Marker } from 'google-maps-react';
 import Profile from '../Layout/profile';
+// import TripsCard from '../Components/TripsCard';
 import TripsCardRows from '../Components/TripsCardRows';
 
 
@@ -51,6 +52,7 @@ export class MapContainer extends Component {
       destinations[pair[0]] = pair[1];
     }
 
+
     return (
         <>
             <section className="banner-section">
@@ -88,7 +90,7 @@ export class MapContainer extends Component {
                             <h2>Your Trips</h2>
                         </div>
                     </div>
-                <TripsCardRows />
+                  <TripsCardRows />
             </section>
       </>
     );
