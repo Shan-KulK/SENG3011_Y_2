@@ -7,8 +7,8 @@ class News extends Component {
     render() {
         return (
             <>
-             <section className="banner-section" style={{ backgroundImage: "url(assets/images/banner/travel.jpg)" }}>
-                    <div className="pattern-layer" style={{ backgroundImage: "url(assets/images/shape/shape-1.png)" }}></div>
+             <section className="banner-section" style={{backgroundColor:'white'}}>
+                    <div className="pattern-layer"></div>
                     <div className="auto-container">
                         <div className="content-box">
                             <h2>Welcome To News</h2>

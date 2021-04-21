@@ -2,23 +2,60 @@ import React, { Component } from 'react'
 import CustomNewsCard from './CustomNewsCard';
 import { Tag, Divider, Radio } from 'antd';
 import { Modal, Button } from 'react-bootstrap';
+import NewsRowModal from './NewsStreamModal';
 
 class CustomNewsRow extends Component {
     constructor(props) {
-        super(props)
+        super(props);
         this.state = {
-            newsStream: [],
-            heading: '',
-            isModalVisible: false,
-        }
+            show: false,
+            title: '',
+            body: '',
+            data: []
+        };
     }
 
+
+    // handleShow = () => {
+    //     this.setState({ isModalVisible: true })
+    // }
+    // handleClose = () => {
+    //     this.setState({ isModalVisible: false })
+    // }
+
+    handleClose = (fromModal) => {
+        alert(fromModal.msg);
+
+        this.setState({
+            show: false
+        });
+    };
+
     handleShow = () => {
-        this.setState({ isModalVisible: true })
-    }
-    handleClose = () => {
-        this.setState({ isModalVisible: false })
-    }
+
+        const myObject = [
+            {
+                id: 1,
+                name: 'Victor Rippin',
+                address: '4032 Cordia Streets'
+            }, {
+                id: 2,
+                name: 'Jamey Zieme',
+                address: '3733 Tremblay Throughway'
+            }, {
+                id: 3,
+                name: 'Madelyn Ruecker Sr.',
+                address: '44487 Reba Drive'
+            },
+        ];
+
+        this.setState({
+            show: true,
+            title: 'Group People',
+            body: 'Hi, find my group details',
+            data: myObject
+        });
+    };
 
     render() {
         return (
@@ -28,7 +65,7 @@ class CustomNewsRow extends Component {
                     <h2>Heading</h2>
                     <Button variant="primary" onClick={this.handleShow} style={{ float: 'right' }}>
                         Edit
-                    </Button>
+                </Button>
                 </div>
                 <div>
                     <Tag color="magenta">magenta</Tag>
@@ -65,24 +102,17 @@ class CustomNewsRow extends Component {
                     <CustomNewsCard />
                     <CustomNewsCard />
                 </div>
-                <Modal show={this.state.isModalVisible} onHide={this.handleClose} centered>
-
-                    <Modal.Header closeButton>
-                    <Modal.Title>Create/Edit <br /> News Stream</Modal.Title>
-                    </Modal.Header>
-                    
-                    <Modal.Body>Modal content will sit here</Modal.Body>
-                    <Modal.Footer>
-                    
-                        {/* <Button variant="secondary" onClick={this.handleClose()}>Close</Button> */}
-                        {/* <Button variant="primary" onClick={this.handleClose()}>Submit</Button> */}
-
-                    </Modal.Footer>
-
-                </Modal>
+                <NewsRowModal
+                    show={this.state.show}
+                    title={this.state.title}
+                    body={this.state.body}
+                    data={this.state.data}
+                    onClick={this.handleClose}
+                    onHide={this.handleClose} />
             </>
         )
     }
 }
 
-export default CustomNewsRow
+
+export default CustomNewsRow;
