@@ -44,7 +44,6 @@ const BookList = props => {
                 <i className="far fa-search"></i>
                 Find Now
             </button>
-        </div>
             {idx === 0 ? (
                 <button
                 onClick={() => props.add()}
@@ -63,6 +62,8 @@ const BookList = props => {
                 <i className="fa fa-minus" aria-hidden="true" />
                 </button>
             )}
+        </div>
+            
         </div>
     );
   });

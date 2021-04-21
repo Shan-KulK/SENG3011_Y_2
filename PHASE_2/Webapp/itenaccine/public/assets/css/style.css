@@ -1627,7 +1627,7 @@ div#mCSB_1_container{
 
 .banner-section .content-box .form-inner{
   position: relative;
-  display: block;
+  display: flex;
   padding: 30px 25px;
   /* background: rgba(255,255,255,0.15); */
   border-radius: 6px;
@@ -1636,18 +1636,19 @@ div#mCSB_1_container{
 .booking-form .form-group{
   position: relative;
   float: left;
-  width: 20.333%;
+  width: 21.333%;
+  margin: 5px;
 }
 
 .booking-form .form-group input[type='text']{
   position: relative;
   max-width: 286px;
   width: 100%;
-  height: 64px;
+  height: 74px;
   background: #fff;
   border-radius: 5px;
   padding: 10px 25px;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 500;
   color: #848484;
   transition: all 500ms ease;
@@ -1657,11 +1658,11 @@ div#mCSB_1_container{
   position: relative;
   max-width: 286px;
   width: 100%;
-  height: 64px;
+  height: 74px;
   background: #fff;
   border-radius: 5px;
   padding: 10px 25px;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 500;
   color: #848484;
   transition: all 500ms ease;
@@ -1710,57 +1711,65 @@ div#mCSB_1_container{
 }
 
 #add-button{
-  position: absolute;
+  /* position: absolute;
   top: 33px;
-  right: 500px;
+  right: 500px; */
   display: flex;
-  justify-self: end;
+  /* justify-self: end; */
   overflow: hidden;
-  font-size: 17px;
-  line-height: 25px;
+  font-size: 22px;
+  line-height: 6px;
   font-family: 'Work Sans', sans-serif;
   font-weight: 500;
   color: #fff !important;
   text-align: center;
   padding: 17.5px 41.5px;
   border-radius: 4px;
-  z-index: 1;
+  /* z-index: 1; */
   box-shadow: 0px 15px 25px 0px rgba(255,124,91,0.3);
   transition: all 500ms ease;
-  margin-top: -1px;
-  margin-bottom: 15px;
-  margin-left: 0px;
+  margin-top: 9px;
+  margin-bottom: 3px;
+  margin-left: 23px;
   padding-top: 25px;
 }
 
 #minus-button{
-  position: absolute;
-  right: 500px;
+  /* position: absolute;
+  right: 500px; */
   display: flex;
   overflow: hidden;
-  font-size: 17px;
-  line-height: 25px;
+  font-size: 22px;
+  line-height: 6px;
   font-family: 'Work Sans', sans-serif;
   font-weight: 500;
   color: #fff !important;
   text-align: center;
   padding: 17.5px 41.5px;
   border-radius: 4px;
-  z-index: 1;
+  /* z-index: 1; */
   box-shadow: 0px 15px 25px 0px rgba(255,124,91,0.3);
   transition: all 500ms ease;
+  margin-top: 9px;
+  margin-bottom: 3px;
+  margin-left: 23px;
+  padding-top: 25px;
 }
 
 .booking-form .message-btn{
-  position: absolute;
+  /* position: absolute;
   top: 30px;
   right: 260px;
-  z-index: 1;
+  z-index: 1; */
+  display: flex;
+  margin: auto;
 }
 
 .booking-form .message-btn .theme-btn{
   box-shadow: none;
-  padding: 19.5px 50.5px;
+  padding: 22.5px 50.5px;
+  margin-top: 6px;
+  margin-left: 12px;
 }
 
 .booking-form .message-btn .theme-btn i{
