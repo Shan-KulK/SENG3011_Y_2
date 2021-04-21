@@ -43,6 +43,13 @@ export class MapContainer extends Component {
     const params = window.location.search;
     const urlparams = new URLSearchParams(params);
 
+    var destinations = {};
+
+    var pair;
+
+    for (pair of urlparams.entries()) {
+      destinations[pair[0]] = pair[1];
+    }
 
     return (
         <>
