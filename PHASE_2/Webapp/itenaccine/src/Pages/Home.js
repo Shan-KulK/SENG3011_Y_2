@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import BookingForm from '../Components/BookingForm';
 import NewsRow from '../Layout/NewsRow';
-import ExternalApi from '../auth/external-api';
+// import ExternalApi from '../auth/external-api';
 
 class Home extends Component {
     
@@ -77,7 +77,7 @@ class Home extends Component {
 
 
 
-                        <div className="row clearfix">
+                        {/* <div className="row clearfix">
                             <div className="col-lg-4 col-md-6 col-sm-12 news-block">
                                 <div className="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
                                     <div className="inner-box">
@@ -121,7 +121,7 @@ class Home extends Component {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> 
                             <div className="col-lg-4 col-md-6 col-sm-12 news-block">
                                 <div className="news-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
                                     <div className="inner-box">
@@ -144,8 +144,8 @@ class Home extends Component {
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
+                            </div> */}
+                    </div> 
                 </section>
                 {/* <!-- news-section end --> */}
                 
@@ -162,7 +162,7 @@ class Home extends Component {
                         <NewsRow />
 
 
-                        <ExternalApi />
+                        {/* <ExternalApi /> */}
                         {/* <div className="row clearfix">
                             <div className="col-lg-4 col-md-6 col-sm-12 news-block">
                                 <div className="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">

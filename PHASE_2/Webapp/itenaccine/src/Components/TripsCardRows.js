@@ -1,6 +1,6 @@
 import React from 'react'
 import TripsCard from './TripsCard';
-
+  
 export default function TripsCardRows() {
     return (
         <>
@@ -10,6 +10,9 @@ export default function TripsCardRows() {
                             <h2>News</h2>
                         </div>
                         <div className="row clearfix">
+                            <TripsCard />
+                            <TripsCard />
+                            <TripsCard />
                             <TripsCard />
                         </div>
                     </div>
