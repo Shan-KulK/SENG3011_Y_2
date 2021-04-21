@@ -40,6 +40,10 @@ export class MapContainer extends Component {
         }
     };
   render() {
+    const params = window.location.search;
+    const urlparams = new URLSearchParams(params);
+
+
     return (
         <>
             <section className="banner-section">

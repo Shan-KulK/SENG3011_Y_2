@@ -24,6 +24,23 @@ class BookingForm extends React.Component {
       this.setState({ [e.target.name]: e.target.value });
     }
   };
+  handleSubmit = e => {
+    e.preventDefault();
+    // window.location.href = "/trips?destination=" + e.target.elements.destination.value;
+
+    var urlParams = new URLSearchParams("");
+
+    var i;
+
+    for (i in e.target.elements) {
+      if (i.substring(0, 12) == "destination-") {
+        urlParams.append(i, e.target.elements[i].value);
+      }
+    }
+
+    window.location.href = "/trips?" + urlParams.toString();
+    
+  };
   addNewRow = e => {
     this.setState(prevState => ({
       bookDetails: [
