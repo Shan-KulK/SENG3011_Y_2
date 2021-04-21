@@ -48,10 +48,13 @@ export class MapContainer extends Component {
 
     var pair;
 
+    var cards = [];
+
     for (pair of urlparams.entries()) {
       destinations[pair[0]] = pair[1];
-    }
 
+      cards.push(<TripsCardRows title={pair[1]} card1title="Card 1" card2title="Card 2" card3title="Card 3" card4title="Card 4" />);
+    }
 
     return (
         <>
@@ -90,7 +93,7 @@ export class MapContainer extends Component {
                             <h2>Your Trips</h2>
                         </div>
                     </div>
-                  <TripsCardRows />
+                    {cards}
             </section>
       </>
     );
