@@ -90,7 +90,7 @@ export class MapContainer extends Component {
                 <Profile />
                     <div className="auto-container">
                         <div className="sec-title">
-                            <h2>Your Trips</h2>
+                            <h2 id="trips-title">Your Trips</h2>
                         </div>
                     </div>
                     {cards}

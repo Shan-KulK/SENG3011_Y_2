@@ -8,7 +8,7 @@ const Profile = () => {
   const { name, picture, email } = user;
 
   return (
-    <div className="profile-container" style={{marginTop: "100px", marginBottom: "100px"}}>
+    <div className="profile-container" style={{marginTop: "17%", marginBottom: "100px"}}>
       <div className="row align-items-center profile-header">
         <div className="col-md-2 mb-3">
           <img

@@ -57,6 +57,11 @@
   height: 100px;
 }
 
+.card-news-title {
+  margin-left: 5%;
+  display: flex;
+}
+
 /*** 
 
 ====================================================================
@@ -482,7 +487,7 @@ img {
 }
 
 .sec-pad{
-  padding: 144px 0px 150px 0px;
+  padding: 20px 0px 80px 0px;
 }
 
 .sec-pad-2{
@@ -535,16 +540,22 @@ img {
 
 .sec-title h2{
   position: relative;
-  display: block;
+  display: flex;
   font-size: 50px;
   line-height: 60px;
   font-family: 'Playfair Display', serif;
   font-weight: 900;
+  margin-left: 5%;
 }
 
 .sec-title.light p,
 .sec-title.light h2{
   color: #ffffff;
+}
+
+.sec-title #trips-title {
+  margin: 0;
+  font-size: 66px;
 }
 
 
