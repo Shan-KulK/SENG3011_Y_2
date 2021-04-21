@@ -19,7 +19,7 @@ import React from 'react'
 //     });
 // };
 
-function TripsCard() {
+function TripsCard(props) {
     return (
         <>
             <div className="col-lg-3 col-md-6 col-sm-12 feature-block">
@@ -28,7 +28,7 @@ function TripsCard() {
                         <figure className="image-box"><img src="assets/images/resource/feature-1.jpg" alt="" /></figure>
                         <div className="lower-content">
                             {/* <div className="icon-box"><i className="icon-1"></i></div> */}
-                            <h4>2000+ Our Worldwide Guides</h4>
+                            <h4>{props.title}</h4>
                         </div>
                     </div>
                 </div>
