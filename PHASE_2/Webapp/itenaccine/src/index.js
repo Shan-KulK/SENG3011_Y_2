@@ -3,10 +3,16 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import 'bootstrap/dist/css/bootstrap.min.css'; 
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { Auth0Provider } from '@auth0/auth0-react';
 import { BrowserRouter as Router } from 'react-router-dom';
 
+
+import AWSAppSyncClient from 'aws-appsync';
+import { ApolloProvider } from 'react-apollo';
+import { Rehydrated } from 'aws-appsync-react';
+import AppSync from './AppSync';
+import gql from 'graphql-tag';
 // const domain = process.env.REACT_APP_AUTH0_DOMAIN;
 // const clientId = process.env.REACT_APP_AUTH0_CLIENT_ID;
 
@@ -18,7 +24,8 @@ ReactDOM.render(
       clientId="AsoknFvglnFe2yuw6e2JMAfJ4qwrfQxW"
       redirectUri={window.location.origin}
     >
-      <App />,
+      <App />
+
     </Auth0Provider>,
   </Router>,
   document.getElementById('root')

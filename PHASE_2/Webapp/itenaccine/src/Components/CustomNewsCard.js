@@ -17,7 +17,6 @@ function CustomNewsCard() {
                                 <li><span>By</span> <a href="index.html">Eva Green</a></li>
                                 <li> - October 13, 2020</li>
                             </ul>
-                            <p>Lorem ipsum dolor sit amet consectur adip icing sed do eiusmod tempor incididunt labore dolore magna aliqua enim.</p>
                             <div className="btn-box">
                                 <a href="blog-details.html" className="theme-btn-two">See Details</a>
                             </div>

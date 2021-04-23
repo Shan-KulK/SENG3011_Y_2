@@ -8,67 +8,53 @@ class CustomNewsRow extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            show: false,
+            showEditModal: false,
             title: '',
-            body: '',
-            data: []
+            countries: [],
         };
     }
 
+    componentWillMount() {
+        this.setState({title: this.props.title, countries: this.props.countries })
+    }
+  
 
-    // handleShow = () => {
-    //     this.setState({ isModalVisible: true })
-    // }
-    // handleClose = () => {
-    //     this.setState({ isModalVisible: false })
-    // }
-
-    handleClose = (fromModal) => {
-        alert(fromModal.msg);
-
+    handleClose = () => {
         this.setState({
-            show: false
+            showEditModal: false
         });
     };
-
     handleShow = () => {
-
-        const myObject = [
-            {
-                id: 1,
-                name: 'Victor Rippin',
-                address: '4032 Cordia Streets'
-            }, {
-                id: 2,
-                name: 'Jamey Zieme',
-                address: '3733 Tremblay Throughway'
-            }, {
-                id: 3,
-                name: 'Madelyn Ruecker Sr.',
-                address: '44487 Reba Drive'
-            },
-        ];
-
         this.setState({
-            show: true,
-            title: 'Group People',
-            body: 'Hi, find my group details',
-            data: myObject
-        });
-    };
+            showEditModal : true
+        })
+    }
+    handleSubmit = (title, countries) => {
+        this.setState({
+            title,
+            countries
+        })
+    }
 
     render() {
+        const { title, countries,showEditModal } = this.state
         return (
             <>
                 {/* <Divider orientation="left">Presets</Divider> */}
                 <div style={{ display: 'inline' }}>
-                    <h2>Heading</h2>
+                    <h2>{title}</h2>
                     <Button variant="primary" onClick={this.handleShow} style={{ float: 'right' }}>
                         Edit
-                </Button>
+                    </Button>
                 </div>
+
                 <div>
-                    <Tag color="magenta">magenta</Tag>
+                    {countries && countries.map((value, i) => {
+                        return (
+                            <Tag color="cyan">{value}</Tag>
+                        )
+                    })}
+                    {/* <Tag color="magenta">magenta</Tag>
                     <Tag color="red">red</Tag>
                     <Tag color="volcano">volcano</Tag>
                     <Tag color="orange">orange</Tag>
@@ -78,7 +64,7 @@ class CustomNewsRow extends Component {
                     <Tag color="cyan">cyan</Tag>
                     <Tag color="blue">blue</Tag>
                     <Tag color="geekblue">geekblue</Tag>
-                    <Tag color="purple">purple</Tag>
+                    <Tag color="purple">purple</Tag> */}
                     {/* <div style={{ float: 'right' }}>
                         <Radio.Group>
                             <Radio value={1}>A</Radio>
@@ -103,11 +89,10 @@ class CustomNewsRow extends Component {
                     <CustomNewsCard />
                 </div>
                 <NewsRowModal
-                    show={this.state.show}
-                    title={this.state.title}
-                    body={this.state.body}
-                    data={this.state.data}
-                    onClick={this.handleClose}
+                    show={showEditModal}
+                    title={title}
+                    countries={countries}
+                    onClick={this.handleSubmit}
                     onHide={this.handleClose} />
             </>
         )

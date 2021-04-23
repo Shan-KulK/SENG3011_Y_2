@@ -4,6 +4,7 @@ import Select from 'react-select';
 import countryList from 'react-select-country-list';
 import { Input, Divider } from 'antd';
 
+
 class NewsRowComponent extends Component {
     constructor(props) {
         super(props)
@@ -12,14 +13,6 @@ class NewsRowComponent extends Component {
             country: '',
             title: '',
         }
-    }
-    componentDidMount(){
-        const {countries, title} = this.props
-        console.log(countries,title)
-        this.setState({
-            countries,
-            title
-        })
     }
     changeHandler = value => {
         this.setState({ country: value })
@@ -40,14 +33,18 @@ class NewsRowComponent extends Component {
         console.log(title,countries)
         this.props.onClick(title, countries)
         this.props.onHide()
+        this.setState({
+            title : '',
+            countries: []
+        })
     }
+    
     render() {
-        
         const options = countryList().getData()
         const { countries, title } = this.state
         return (
             <div>
-                <Modal show={this.props.show} centered onHide={() => this.props.onHide()}>
+                <Modal show={this.props.show} centered onHide={() => this.props.onHide({ msg: 'Cross Icon Clicked!' })}>
 
                     <Modal.Header closeButton>
                         <Modal.Title>
@@ -91,6 +88,7 @@ class NewsRowComponent extends Component {
 }
 
 export default NewsRowComponent;
+
 const styles = {
     container: base => ({
       ...base,
