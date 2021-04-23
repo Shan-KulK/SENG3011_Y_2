@@ -6,7 +6,7 @@ const BookList = props => {
       arrivalDate = `arrivalDate-${idx}`
     return (
       <div className="booking-form clearfix" key={val.index}>
-        <div className="form-group">
+        <div className="form-group" style={{'padding-right':'40px'}}>
           <input
             type="text"
             className="form-control"
@@ -17,7 +17,7 @@ const BookList = props => {
           />
           <label className="form-label">Where to?</label>
         </div>
-        <div className="form-group">
+        <div className="form-group" style={{'padding-right':'40px', left:'-50px'}}>
           <input
             type="date"
             className="form-control"
@@ -28,7 +28,7 @@ const BookList = props => {
           />
           <label className="form-label">Arrival Date</label>
         </div>
-        <div className="form-group input-date">
+        <div className="form-group input-date" style={{left:'-100px'}}>
           <input
             type="date"
             className="form-control"
@@ -39,7 +39,7 @@ const BookList = props => {
           />
           <label className="form-label">Departure Date</label>
         </div>
-        <div className="message-btn">
+        <div className="message-btn" style={{position:'absolute',top:'35px',right:'0px'}}>
             <button type="submit" className="theme-btn">
                 <i className="far fa-search"></i>
                 Find Now
@@ -51,7 +51,7 @@ const BookList = props => {
                 type="button"
                 className="btn btn-primary text-center"
                 id="add-button"
-                >
+                style={{position:'relative',top:'8px',right:'150px'}}>
                 <i className="fa fa-plus-circle" aria-hidden="true" />
                 </button>
             ) : (
@@ -59,6 +59,7 @@ const BookList = props => {
                 className="btn btn-danger"
                 id="minus-button"
                 onClick={() => props.delete(val)}
+                style={{right:'245px',bottom:'73px'}}
                 >
                 <i className="fa fa-minus" aria-hidden="true" />
                 </button>
