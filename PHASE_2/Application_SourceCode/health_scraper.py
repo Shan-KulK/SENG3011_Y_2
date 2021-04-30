@@ -1,9 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import boto3
+from boto3.dynamodb.conditions import Key, Attr
 import os
+import uuid
 
-countries = ['egypt']#,'india','peru','china','russia','south-africa','brazil','new-zealand','italy','germany']
+countries = ['India','Japan','Morocco','Italy','France','Kenya']#,'india','peru','china','russia','south-africa','brazil','new-zealand','italy','germany']
 
 f = open("health.json", "w")
 f.write("[\n")
@@ -36,12 +39,18 @@ for place in countries:
         except:
             pass
 
-    json_data = {"Country":[],"Status":[],"Latest":[],"Summary":[],"Info":[]}
-    json_data["Country"].append(place)
-    json_data["Status"].append(level)
-    json_data["Latest"].append(latestUpdate)
-    json_data["Summary"].append(healthSummaryPoints)
-    json_data["Info"].append(content)
+    json_data = {}
+    json_data["country"] = place
+    json_data["status"] = level
+    json_data["latest"] = latestUpdate
+    json_data["summary"] = healthSummaryPoints
+    json_data["info"] = content
+    json_data["travel_advice_id"] = str(uuid.uuid4())
+    json_data["article_preview"] = json_data["main_text"][:100] + "..."
+    dynamodb = boto3.resource('dynamodb', region_name='ap-southeast-2', aws_secret_access_key='Rxso+Z2ILCL+DWBht3SIkYTJgzfTlnmHGDqKY7yV', aws_access_key_id='AKIAVZY2NVATXQRVYVEI')
+    
+    table = dynamodb.Table('travel_advice')
+    resp = table.put_item(Item=json_data)
 
     f = open("health.json", "a")
     f.write(json.dumps(json_data,indent=4))
